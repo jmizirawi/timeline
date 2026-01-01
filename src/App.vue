@@ -40,21 +40,23 @@ function closeInfo() {
           <Info class="icon" />
         </button>
 
-        <button 
-          class="icon-btn"
-          @click="store.setScale(store.scale / 1.2)"
-          title="Zoom Out"
-        >
-          <Minus class="icon" />
-        </button>
-        <span class="zoom-level">{{ Math.round((store.scale / 5) * 100) }}%</span>
-        <button 
-          class="icon-btn"
-          @click="store.setScale(store.scale * 1.2)"
-          title="Zoom In"
-        >
-          <Plus class="icon" />
-        </button>
+        <div class="zoom-controls">
+          <button 
+            class="icon-btn"
+            @click="store.setScale(store.scale / 1.2)"
+            title="Zoom Out"
+          >
+            <zoom-out class="icon" />
+          </button>
+          <span class="zoom-level">{{ Math.round((store.scale / 5) * 100) }}%</span>
+          <button 
+            class="icon-btn"
+            @click="store.setScale(store.scale * 1.2)"
+            title="Zoom In"
+          >
+            <zoom-in class="icon" />
+          </button>
+        </div>
       </div>
     </header>
     
@@ -85,7 +87,10 @@ function closeInfo() {
   border-bottom: 1px solid $color-border-main;
   display: flex;
   align-items: center;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
+  @media (min-width: 640px) {
+    padding: 0 1rem;
+  }
   flex-shrink: 0;
   z-index: 20;
   gap: 1rem;
@@ -95,26 +100,36 @@ function closeInfo() {
     flex: 1;
     display: flex;
     justify-content: flex-start;
+    min-width: 0; // Allow shrinking
   }
 
   .header-controls {
     display: flex;
     align-items: center;
-    gap: 0rem; // Modified by user previously
+    gap: .25rem; // Modified by user previously
     font-size: $font-size-sm;
 
     // Small gap between the info button group and zoom group if needed, 
     // or just let them sit together. 
     // Adding a margin to the info button to separate it slightly from zoom controls
     .icon-btn:first-child {
-        margin-right: 1rem;
+        margin-right: .5rem;
+    }
+  }
+
+
+  // Hide zoom controls text on small screens
+  @media (max-width: 640px) {
+    .zoom-level {
+      display: none;
     }
   }
 }
 
 .zoom-level {
-  width: 4rem;
+  width: 1.5rem;
   text-align: center;
+  font-size: $font-size-xs;
   color: $color-fg-secondary;
 }
 
@@ -127,5 +142,11 @@ function closeInfo() {
   flex: 1;
   position: relative;
   overflow: hidden;
+}
+
+.zoom-controls {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
 }
 </style>

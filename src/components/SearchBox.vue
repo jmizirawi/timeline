@@ -181,10 +181,8 @@ function onBlur() {
 
 .search-container {
   position: relative;
-  width: 16rem; // w-64
-  @media (min-width: 768px) {
-    width: 20rem; // w-80
-  }
+  width: 100%;
+  max-width: 20rem;
 }
 
 .search-input {

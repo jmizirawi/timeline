@@ -134,7 +134,7 @@ function getColor(type: string) {
 .modal-container {
     width: 100%;
     max-width: 32rem; // max-w-lg
-    max-height: 90vh;
+    max-height: 80vh;
     background-color: $color-bg-primary;
     border: 1px solid $color-border-main;
     border-radius: 0.75rem;

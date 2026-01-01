@@ -41,7 +41,7 @@ const ticks = computed(() => {
     t.push({
       year: y,
       left: yearToPx(y, store.scale, store.startDate),
-      label: isMajor ? formatYearLabel(y) : '',
+      label: isMajor ? formatYearLabel(y, false) : '',
       isMajor
     });
   }

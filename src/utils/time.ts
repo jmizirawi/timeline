@@ -24,9 +24,13 @@ export function displayYear(internalYear: number): number {
 /**
  * Formats a year for display (e.g. "1513 BCE" or "2026 CE")
  */
-export function formatYearLabel(year: number): string {
+/**
+ * Formats a year for display (e.g. "1513 BCE", "2026 CE", "1513", "2026")
+ */
+export function formatYearLabel(year: number, includeEra: boolean = true): string {
     if (year === 0) return ""; // Should not happen with displayYear, but safety
     const abs = Math.abs(year);
+    if (!includeEra) return `${abs}`;
     return year < 0 ? `${abs} BCE` : `${abs} CE`;
 }
 
