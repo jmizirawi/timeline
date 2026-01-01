@@ -1,0 +1,58 @@
+// Colors - Earthy Theme
+$color-bg-primary: #302918;
+$color-bg-secondary: #56492d;
+
+$color-border-main: #2d241b;
+$color-border-accent: #b45309;
+$color-border-highlight: #ffd95a;
+
+$color-fg-primary: #fff3e1;
+$color-fg-secondary: #d0c0ab;
+$color-fg-accent: #ffb278;
+
+
+// Fonts
+$font-main: 'Noto Sans', 'Noto Emoji', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+
+$color-white: #ffffff;
+$color-black: #000000;
+
+// Font Sizes
+$font-size-micro: 0.5rem; // 8px
+$font-size-xxs: 0.625rem; // 10px
+$font-size-xs: 0.75rem; // 12px
+$font-size-sm: 0.875rem; // 14px
+$font-size-base: 1rem; // 16px
+$font-size-lg: 1.125rem; // 18px
+$font-size-xl: 1.25rem; // 20px
+$font-size-2xl: 1.5rem; // 24px
+
+// Layout
+$header-height: 3.5rem; // 14 * 0.25rem
+$sidebar-width-desktop: 28rem; // max-w-md approx
+
+// Mixins
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin text-xs {
+    font-size: $font-size-xs;
+    line-height: 1rem;
+}
+
+@mixin text-sm {
+    font-size: $font-size-sm;
+    line-height: 1.25rem;
+}
+
+@mixin absolute-cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
