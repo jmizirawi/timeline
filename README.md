@@ -2,18 +2,32 @@
 
 An interactive timeline application designed to explore and visualize Biblical history alongside secular and modern theocratic events.
 
+**Live demo**: [https://jmizirawi.github.io/timeline/](https://jmizirawi.github.io/timeline/)
+
+## Contributing
+
+Contributions are welcome! Please feel free to make a pull request or add an issue.
+
+The timeline data is still high level; there may be mistakes and there are key people and events missing. I will slowly be going through and fleshing out data for individuals and events in no particular order, mostly based on things that correspond to personal study projects.
+
+**Goal**: The aim is to have the timeline entities follow the pattern of **Adam**, where it's complete with:
+- Images
+- Descriptions
+- Links to citations that back up the dates
+
+If you would like to flesh out the details for a person or event, please use "Adam" as the pattern to follow.
+
 ## Features
 
-- **Interactive Timeline**: Smooth scrolling and zooming capabilities to navigate from 4026 B.C.E. to the present day.
+- **Interactive Timeline**: Scrolling and zooming capabilities to navigate from 4026 B.C.E. to the present day.
 - **Categorized Data**: Distinct visual styles for different event types:
   - **Biblical**: People and events recorded in the Bible.
   - **Secular**: Historical context and world powers.
   - **Theocratic**: Modern history of Jehovah's Witnesses.
 - **Rich Detail Views**: Click on any entity to open a side panel containing:
-  - Detailed descriptions and historical context.
+  - Summary description of the person or event.
   - Life events and sub-events with dates.
-  - Verified references and citations.
-  - Images with vintage visual effects.
+  - Images with visual effects.
 - **Visual Indicators**:
   - **Faded Bars**: Indicate uncertain or approximate dates.
   - **Color Coding**: Instant visual recognition of categories.
