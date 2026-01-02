@@ -98,12 +98,13 @@ function getDotStyle(entity: any) {
                       <Link class="ref-icon" />
                     </a>
                   </p>
-                  <img v-if="event.imageUrl" :src="event.imageUrl" class="subevent-image" alt="Event Image" />
+                  
                   <p v-if="event.description" class="event-desc">{{ event.description }}</p>
                   <p v-if="event.location" class="event-location">
                     <MapPin class="location-icon" />
                     {{ event.location }}
                   </p>
+                  <img v-if="event.imageUrl" :src="event.imageUrl" class="subevent-image" alt="Event Image" />
                 </div>
               </div>
            </div>
@@ -130,12 +131,13 @@ function getDotStyle(entity: any) {
                           <Link class="ref-icon" />
                         </a>
                       </p>
-                      <img v-if="event.imageUrl" :src="event.imageUrl" class="subevent-image" alt="Event Image" />
+                      
                       <p v-if="event.description" class="event-desc">{{ event.description }}</p>
                       <p v-if="event.location" class="event-location">
                         <MapPin class="location-icon" />
                         {{ event.location }}
                       </p>
+                      <img v-if="event.imageUrl" :src="event.imageUrl" class="subevent-image" alt="Event Image" />
                     </div>
                   </div>
                </div>
@@ -351,15 +353,20 @@ function getDotStyle(entity: any) {
   margin-top: 1.5rem;
 }
 
+.person-image, .event-image, .subevent-image {
+  -webkit-mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
+  mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
+  filter: sepia(0.3);
+}
+
+
 .person-image {
   width: 33%;
-  height: auto;
+  aspect-ratio: 1;
   margin: 0 0 1rem 1rem;
   float: right;
   object-fit: cover;
-  -webkit-mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  filter: sepia(0.8) grayscale(0.2);
+  object-position: center;
 }
 
 .event-image {
@@ -370,20 +377,14 @@ function getDotStyle(entity: any) {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   display: block;
-  -webkit-mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  filter: sepia(0.8) grayscale(0.2);
 }
 
 .subevent-image {
-  width: 100%;
+  width: 75%;
   height: auto;
   border-radius: 0.25rem;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   display: block;
-  -webkit-mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  mask-image: radial-gradient(ellipse at center, black 5%, transparent 80%);
-  filter: sepia(0.8) grayscale(0.2);
 }
 </style>
