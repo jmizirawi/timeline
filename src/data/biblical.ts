@@ -6,7 +6,7 @@ export const data: ChronologyData = {
             "id": "adam",
             "name": "Adam",
             "verified": true,
-            "description": "After sinner Adam's expulsion from Eden he lived to see the murder of his own son, banishment of his killer-son, abuse of the marriage arrangement, and profanation of Jehovah’s sacred name. He witnessed the building of a city, the development of musical instruments, and the forging of tools out of iron and copper. He watched and was condemned by the example of Enoch, “the seventh one in line from Adam,” one who “kept walking with the true God.” He even lived to see Noah’s father Lamech of the ninth generation. Finally, after 930 years, most of which was spent in the slow process of dying, Adam returned to the ground from which he was taken, in the year 3096 B.C.E., just as Jehovah had said.​(Ge 4:8-26; 5:5-24; Jude 14)",
+            "description": "Adam was the first human, uniquely made in God's image with mental abilities superior to all other earthly creatures. Following his expulsion from Eden, he lived to see the murder of his own son, the tragic moral decline, the building of a city, the development of musical instruments, and the forging of tools out of iron and copper. After 930 years, Adam returned to the ground from which he was taken, in the year 3096 B.C.E.",
             "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/1102015146/univ/art/1102015146_univ_cnt_2_xl.jpg",
             "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Adam/#:~:text=After%20sinner%20Adam%E2%80%99s,LAMECH%20No.%C2%A02.",
             "born": -4026,
@@ -20,6 +20,18 @@ export const data: ChronologyData = {
                     "url": "https://www.jw.org/en/library/books/insight-on-the-scriptures/adam/#:~:text=That%20was%20in%20the%20year%204026%C2%A0B.C.E.%20It%20was%20likely%20in%20the%20fall%20of%20the%20year%2C%20for%20mankind%E2%80%99s%20most%20ancient%20calendars%20began%20counting%20time%20in%20the%20autumn%20around%20October%C2%A01%2C%20or%20at%20the%20first%20new%20moon%20of%20the%20lunar%20civil%20year.%E2%80%8B%E2%80%94See%20YEAR."
                 },
                 {
+                    "startDate": -4025,
+                    "startDateCertainty": "guess",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/402014603/univ/art/402014603_univ_lsr_lg.jpg",
+                    "title": "Eve created (Gen 2:18-22)",
+                },
+                {
+                    "startDate": -4024,
+                    "startDateCertainty": "guess",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/2025525/univ/art/2025525_univ_cnt_2_lg.jpg",
+                    "title": "Disobeys Jehovah; Him and Eve expelled from Eden (Gen 3:1-24)",
+                },
+                {
                     "startDate": -3998,
                     "startDateCertainty": "guess",
                     "title": "Becomes father to Cain (Gen 4:1)",
@@ -31,6 +43,13 @@ export const data: ChronologyData = {
                     "title": "Becomes father to Abel (Gen 4:2)",
                     "description": "Since Seth was evidently born shortly after Abel's death and when Adam was 130 years of age, it is possible that Abel may have been as much as 100 years old at the time of his martyrdom.(Ge 4:25; 5:3.)",
                     "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abel/#:~:text=Since%20Seth%20was%20evidently%20born%20shortly%20after%20Abel%E2%80%99s%20death%20and%20when%20Adam%20was%20130%20years%20of%20age%2C%20it%20is%20possible%20that%20Abel%20may%20have%20been%20as%20much%20as%20100%20years%20old%20at%20the%20time%20of%20his%20martyrdom.%E2%80%8B%E2%80%94Ge%204%3A25%3B%205%3A3."
+                },
+                {
+                    "startDate": -3896,
+                    "startDateCertainty": "before",
+                    "title": "Cain kills his brother Abel (Gen 4:8)",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/402014686/univ/art/402014686_univ_lsr_lg.jpg",
+                    "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Seth/#:~:text=The%20son%20of%20Adam%20and%20Eve%20born%20when%20Adam%20was%20130%20years%20old."
                 },
                 {
                     "startDate": -3896,
@@ -48,6 +67,67 @@ export const data: ChronologyData = {
             "died": -3096
         },
         {
+            "id": "eve",
+            "name": "Eve",
+            "verified": true,
+            "description": "Eve was the first woman and the last reported of God's earthly creative works, formed from Adam's rib to be his complement. While not in the company of her husband, she was thoroughly deceived by a serpent into eating the forbidden fruit and later induced Adam to join her in disobedience. Following their expulsion from Eden, she raised several children, including Cain, Abel, and Seth, and is noted for being the first person recorded to have used God's name, Jehovah.",
+            "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/2023320/univ/art/2023320_univ_cnt_1_md.jpg",
+            "url": "https://www.jw.org/finder?wtlocale=E&docid=1200001450",
+            "born": -4026,
+            "bornCertainty": "after",
+            "lifeEvents": [
+                {
+                    "startDate": -4026,
+                    "startDateCertainty": "after",
+                    "location": "Eden",
+                    "title": "Created (Gen 2:22)",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/402014603/univ/art/402014603_univ_lsr_lg.jpg",
+                },
+                {
+                    "startDate": -4024,
+                    "startDateCertainty": "guess",
+                    "title": "Disobeys Jehovah (Gen 3:1-24)",
+                    "description": "After their violation of God's law, Adam is reported to have named his wife Eve, “because she had to become the mother of everyone living.” (Gen 3:20, 21.)",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/1102011083/univ/art/1102011083_univ_cnt_1_xl.jpg",
+                },
+                {
+                    "startDate": -4024,
+                    "startDateCertainty": "guess",
+                    "title": "Her and Adam expelled from Eden (Gen 3:1-24)",
+                    "description": "After their violation of God's law, Adam is reported to have named his wife Eve, “because she had to become the mother of everyone living.” (Gen 3:20, 21.)",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/2025525/univ/art/2025525_univ_cnt_2_lg.jpg",
+                },
+                {
+                    "startDate": -3998,
+                    "startDateCertainty": "guess",
+                    "title": "Becomes mother to Cain (Gen 4:1)",
+                    "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abel/#:~:text=Since%20Seth%20was%20evidently%20born%20shortly%20after%20Abel%E2%80%99s%20death%20and%20when%20Adam%20was%20130%20years%20of%20age%2C%20it%20is%20possible%20that%20Abel%20may%20have%20been%20as%20much%20as%20100%20years%20old%20at%20the%20time%20of%20his%20martyrdom.%E2%80%8B%E2%80%94Ge%204%3A25%3B%205%3A3."
+                },
+                {
+                    "startDate": -3996,
+                    "startDateCertainty": "circa",
+                    "title": "Becomes mother to Abel (Gen 4:2)",
+                    "description": "Since Seth was evidently born shortly after Abel's death and when Adam was 130 years of age, it is possible that Abel may have been as much as 100 years old at the time of his martyrdom.(Ge 4:25; 5:3.)",
+                    "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abel/#:~:text=Since%20Seth%20was%20evidently%20born%20shortly%20after%20Abel%E2%80%99s%20death%20and%20when%20Adam%20was%20130%20years%20of%20age%2C%20it%20is%20possible%20that%20Abel%20may%20have%20been%20as%20much%20as%20100%20years%20old%20at%20the%20time%20of%20his%20martyrdom.%E2%80%8B%E2%80%94Ge%204%3A25%3B%205%3A3."
+                },
+                {
+                    "startDate": -3896,
+                    "startDateCertainty": "before",
+                    "title": "Cain kills his brother Abel (Gen 4:8)",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/402014686/univ/art/402014686_univ_lsr_lg.jpg",
+                    "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Seth/#:~:text=The%20son%20of%20Adam%20and%20Eve%20born%20when%20Adam%20was%20130%20years%20old."
+                },
+                {
+                    "startDate": -3896,
+                    "title": "Becomes mother to Seth, and other sons and daughters (Gen 4:25; 5:3)",
+                    "url": "https://arc.net/l/quote/befympvl",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/1102000128/univ/art/1102000128_univ_cnt_3_xl.jpg"
+                }
+            ],
+            "died": -3096,
+            "diedCertainty": "before"
+        },
+        {
             "id": "cain",
             "name": "Cain",
             "url": "https://www.jw.org/finder?wtlocale=E&docid=1200000857",
@@ -57,7 +137,7 @@ export const data: ChronologyData = {
                 {
                     "startDate": -3998,
                     "startDateCertainty": "guess",
-                    "title": "Cain is born (Gen 4:1)"
+                    "title": "Born (Gen 4:1)"
                 },
                 {
                     "startDate": -3896,
@@ -98,6 +178,7 @@ export const data: ChronologyData = {
                 },
                 {
                     "startDate": -3896,
+                    "startDateCertainty": "before",
                     "title": "Before this year, Abel dies",
                     "description": "Since Seth was evidently born shortly after Abel's death and when Adam was 130 years of age, it is possible that Abel may have been as much as 100 years old at the time of his martyrdom.​ (Ge 4:25; 5:3.)",
                     "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Abel/#:~:text=Since%20Seth%20was%20evidently%20born%20shortly%20after%20Abel%E2%80%99s%20death%20and%20when%20Adam%20was%20130%20years%20of%20age%2C%20it%20is%20possible%20that%20Abel%20may%20have%20been%20as%20much%20as%20100%20years%20old%20at%20the%20time%20of%20his%20martyrdom.%E2%80%8B%E2%80%94Ge%204%3A25%3B%205%3A3."
