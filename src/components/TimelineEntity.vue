@@ -52,16 +52,17 @@ const style = computed(() => {
 });
 
 const maskStyle = computed(() => {
-  const isStartGuess = startCertainty.value === 'guess';
-  const isEndGuess = endCertainty.value === 'guess';
+  const uncertain = ['guess', 'before', 'after'];
+  const isStartUncertain = uncertain.includes(startCertainty.value ?? '');
+  const isEndUncertain = uncertain.includes(endCertainty.value ?? '');
 
-  if (isStartGuess && isEndGuess) {
+  if (isStartUncertain && isEndUncertain) {
       return { maskImage: 'linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent)', webkitMaskImage: 'linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent)' };
   }
-  if (isStartGuess) {
+  if (isStartUncertain) {
       return { maskImage: 'linear-gradient(to right, transparent, black 16px)', webkitMaskImage: 'linear-gradient(to right, transparent, black 16px)' };
   }
-  if (isEndGuess) {
+  if (isEndUncertain) {
       return { maskImage: 'linear-gradient(to left, transparent, black 16px)', webkitMaskImage: 'linear-gradient(to left, transparent, black 16px)' };
   }
   return {};
