@@ -1,3 +1,5 @@
+import { type DateCertainty } from '../types';
+
 /**
  * Converts a historical year (where 1 BCE is followed by 1 CE)
  * into a continuous mathematical timeline.
@@ -34,9 +36,9 @@ export function formatYearLabel(year: number, includeEra: boolean = true): strin
     return year < 0 ? `${abs} BCE` : `${abs} CE`;
 }
 
-export type DateCertainty = 'circa' | 'guess' | 'before' | 'after';
 
-export function formatDateWithCertainty(year: number, certainty?: string): string {
+
+export function formatDateWithCertainty(year: number, certainty?: DateCertainty): string {
     const label = formatYearLabel(year);
     if (certainty === 'circa') return `c. ${label}`;
     if (certainty === 'guess') return `~ ${label}`;

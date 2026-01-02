@@ -1,4 +1,4 @@
-export type DateCertainty = 'circa' | 'guess';
+export type DateCertainty = 'circa' | 'guess' | 'before' | 'after';
 export type Category = 'biblical' | 'secular' | 'theocratic';
 
 export interface LifeEvent {
