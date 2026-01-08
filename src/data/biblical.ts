@@ -1760,23 +1760,99 @@ export const data: ChronologyData = {
         {
             "id": "isaiah",
             "name": "Isaiah",
-            "url": "https://www.jw.org/en/library/books/insight-on-the-scriptures/isaiah/",
+            "verified": true,
+            "description": "Isaiah served as a prominent prophet in Judah for over 46 years, using his life and family as signs to foretell the Assyrian threat, the future Babylonian exile, and the eventual restoration of a faithful remnant. While he delivered warnings of judgment to a morally decaying nation, his message focused heavily on comforting God's people with promises of a coming Messiah and Jerusalem's future glory. His faithful service significantly influenced King Hezekiah and provided a historical record of God's deliverance.",
+            "url": "https://www.jw.org/finder?wtlocale=E&docid=1200002204&srcid=share",
+            "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/202025406/univ/art/202025406_univ_cnt_1_xl.jpg",
             "born": -808,
             "bornCertainty": "guess",
             "lifeEvents": [
                 {
-                    "startDate": -808,
-                    "startDateCertainty": "guess",
-                    "title": "Isaiah born"
+                    "startDate": -778,
+                    "startDateCertainty": "before",
+                    "title": "Starts early ministry (Isa 1-5)",
+                    "description": "Isaiah likely prophesies regarding the moral decay of Judah before Uzziah’s death. He condemns empty worship and idolatry.",
+                    "url": "https://arc.net/l/quote/qkrvyhqk"
                 },
                 {
                     "startDate": -778,
                     "title": "Commissioned as prophet (Isa 6:1, 8)",
-                    "description": "Jehovah commissions Isaiah in the year of King Uzziah's death."
+                    "description": "In the year King Uzziah dies, Isaiah receives a vision of Jehovah in his temple, his lips are cleansed by a seraph, and Isaiah accepts the assignment: \"Here I am! Send me.\"",
+                    "url": "https://arc.net/l/quote/liyvtnea",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/202025406/univ/art/202025406_univ_cnt_1_xl.jpg"
+                },
+                {
+                    "startDate": -777,
+                    "title": "Prophecies during reign of Jotham",
+                    "description": "Isaiah serves while Jotham rules. The king is faithful, but the people continue to act ruinously.",
+                    "url": "https://arc.net/l/quote/xeyhgrcq"
+                },
+                {
+                    "startDate": -761,
+                    "title": "Prophecies during reign of Ahaz",
+                    "description": "Isaiah, accompanied by his son Shear-Jashub, delivers the \"Immanuel\" prophecy as a sign to Ahaz, that the Syrian-Israelite alliance will fail. Ahaz ignores Isaiah's counsel and requests military assistance from Assyrian king Tiglath-Pileser III. ",
+                    "url": "https://arc.net/l/quote/pkamirek",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/502012429/univ/art/502012429_univ_lsr_md.jpg"
+                },
+                {
+                    "startDate": -745,
+                    "title": "Prophecies during reign of Hezekiah",
+                    "description": "Hezekiah succeeds Ahaz and restores pure worship. Isaiah serves as his counselor.",
+                    "url": "https://arc.net/l/quote/hjooquon",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/2024285/univ/art/2024285_univ_cnt_4_xl.jpg"
+                },
+                {
+                    "startDate": -740,
+                    "title": "Fall of Samaria to Assyria, fulfilling Isaiah's prophecy (Isa 8:4; 9:9)",
+                    "description": "In Hezekiah's 4th year, Assyria besieged Samaria and deported its inhabitants. (2Ki 16:9; 17:4-6; 18:9-12) Fulfilling Isaiah's prophecy, \"the spoil of Samaria will be carried away before the king of Assyria.\" (Isa 8:4; 9:9)",
+                    "url": "https://arc.net/l/quote/mgelynvb",
+                },
+                {
+                    "startDate": -732,
+                    "title": "Sennacherib's invasion of Judah and defeat (Isa 37:33-37; 2Ch 32:21)",
+                    "description": "In Hezekiah's 14th year, Assyria invades. Isaiah delivered the comforting message to King Hezekiah that the Assyrian forces would not be able to enter the city. (Isa 8:7, 8) Jehovah backed up His word by sending an angel to destroy 185,000 of the Assyrian army’s mighty men and leaders, thus delivering Jerusalem. (2Ch 32:21)",
+                    "url": "https://arc.net/l/quote/ecgrxghq",
+                    "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/1102016065/univ/art/1102016065_univ_lsr_lg.jpg"
+                },
+                {
+                    "startDate": -732,
+                    "startDateCertainty": "circa",
+                    "title": "Delivers message regarding Hezekiah's illness and recovery",
+                    "description": "Isaiah delivers God's message that Hezekiah will die, then returns to say 15 years have been added to his life.",
+                    "url": "https://arc.net/l/quote/uhabzhpg"
+                },
+                {
+                    "startDate": -732,
+                    "startDateCertainty": "circa",
+                    "title": "Prophecies Babylonian exile (Isa 39:1-8)",
+                    "description": "After Hezekiah shows his treasure to envoys from Babylon, Isaiah prophesies the future Babylonian exile.",
+                    "url": "https://arc.net/l/quote/fuwgrqyv"
+                },
+                {
+                    "startDate": -732,
+                    "startDateCertainty": "circa",
+                    "title": "Prophecies return from Babylon by Cyrus (Isa 44:28-29; 45:1-5)",
+                    "description": "Isaiah writes prophecies of comfort, foretelling the return from Babylon and naming Cyrus as the liberator.",
+                    "url": "https://arc.net/l/quote/rwisnxrd"
+                },
+                {
+                    "startDate": -732,
+                    "startDateCertainty": "after",
+                    "title": "Completes book of Isaiah",
+                    "description": "Time covered: c. 778-after 732 BCE. Directed to Judah and Jerusalem by during the years leading up to Sennacherib’s unsuccessful efforts against Jerusalem in 732 B.C.E., and possibly some time afterward.",
+                    "url": "https://arc.net/l/quote/ydfrlcmm",
+                    "location": "Jerusalem"
+                },
+                {
+                    "startDate": -717,
+                    "startDateCertainty": "after",
+                    "title": "Dies, possibly executed",
+                    "description": "Jewish tradition (linked to Heb. 11:37) suggests Isaiah was \"sawn asunder\"by King Manasseh.",
+                    "url": "https://arc.net/l/quote/"
                 }
             ],
-            "died": -708,
-            "diedCertainty": "guess"
+            "died": -717,
+            "diedCertainty": "after"
         },
         {
             "id": "hezekiah",
