@@ -1326,6 +1326,63 @@ people:
     died: -580
     diedCertainty: guess
 
+  - id: josiah
+    name: Josiah
+    verified: true
+    description: Josiah was a faithful king of Judah who ascended the throne at age eight and championed pure worship by eradicating idolatry and repairing Jehovah's temple. His reign was marked by the rediscovery of the Book of the Law, which prompted a nationwide covenant of faithfulness and a historic Passover celebration. He died after being mortally wounded at Megiddo while attempting to intercept Pharaoh Necho's forces.
+    url: https://www.jw.org/finder?wtlocale=E&docid=1200002525&srcid=share
+    born: -667
+    imageUrl: https://cms-imgp.jw-cdn.org/img/p/202023180/univ/art/202023180_univ_lsr_lg.jpg
+    lifeEvents:
+      - startDate: -667
+        title: Josiah born (2Ki 22:1)
+      - startDate: -659
+        title: Becomes King of Judah (2Ki 22:1)
+        description: Becomes king at 8 years old after his father Amon's assassination.
+        url: https://arc.net/l/quote/tjadhpta
+      - startDate: -653
+        startDateCertainty: before
+        title: Father to Johanan (1Ch 3:14, 15)
+        description: Birth date is unknown, but Johanan was the firstborn, so born sometime before Jehoiakim.
+      - startDate: -653
+        startDateCertainty: guess
+        title: Father to Jehoiakim (2Ki 23:36; 1Ch 3:14, 15)
+        description: Becomes father to Jehoiakim at age 14, by Zebidah; Josiah's second son.
+        url: https://arc.net/l/quote/knhanlrp
+      - startDate: -651
+        title: Seeks Jehovah (2Ch 34:3)
+        description: In the 8th year of his reign, he begins to search for the God of David his forefather.
+        url: https://arc.net/l/quote/hpwjnmte
+        imageUrl: https://cms-imgp.jw-cdn.org/img/p/1102016066/univ/art/1102016066_univ_lsr_lg.jpg
+      - startDate: -651
+        startDateCertainty: guess
+        title: Father to Jehoahaz (Jer 22:11; 1Ch 3:14, 15)
+        description: Jehoahaz (Shallum), Josiah’s son by Hamutal, was born.
+        url: https://arc.net/l/quote/ubvfgmfy
+      - startDate: -647
+        title: Campaign against idolatry (2Ch 34:3)
+        description: In the 12th year, he begins to cleanse Judah and Jerusalem of high places and images.
+        url: https://arc.net/l/quote/xizvewiz
+        imageUrl: https://cms-imgp.jw-cdn.org/img/p/1102009463/univ/art/1102009463_univ_lsr_lg.jpg
+      - startDate: -641
+        title: Book of the Law found (2Ki 22:8)
+        description: In the 18th year, High Priest Hilkiah finds the Book of the Law in the temple.
+        url: https://arc.net/l/quote/fljsywju
+        imageUrl: https://cms-imgp.jw-cdn.org/img/p/1102025936/univ/art/1102025936_univ_cnt_1_xl.jpg
+      - startDate: -641
+        title: Great Passover (2Ki 23:21-23)
+        description: Celebrating the Passover in a way not seen since the days of Samuel.
+        url: https://arc.net/l/quote/dpxuzyxd
+      - startDate: -637
+        startDateCertainty: guess
+        title: Father to Zedekiah (2Ki 24:18; 1Ch 3:14, 15)
+        description: Mattaniah (Zedekiah), Josiah's son by his wife Hamutal, was born.
+        url: https://arc.net/l/quote/jpsjwwio
+      - startDate: -629
+        title: Josiah dies (2Ki 23:29)
+        description: Mortally wounded at Megiddo trying to stop Pharaoh Necho.
+    died: -629
+
   - id: habakkuk
     name: Habakkuk
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/habakkuk/
