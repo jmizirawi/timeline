@@ -1,0 +1,701 @@
+people:
+
+  - id: pythagoras-greek-philosopher
+    name: Pythagoras (Greek Philosopher)
+    born: -570
+    lifeEvents:
+      - startDate: -570
+        title: Pythagoras born
+      - startDate: -495
+        title: Pythagoras dies
+    died: -495
+    url: https://en.wikipedia.org/wiki/Pythagoras
+
+  - id: socrates
+    name: Socrates
+    born: -470
+    died: -399
+    url: https://en.wikipedia.org/wiki/Socrates
+    lifeEvents:
+      - startDate: -470
+        title: Born
+      - startDate: -399
+        title: Executed
+
+  - id: plato
+    name: Plato
+    born: -427
+    died: -347
+    url: https://en.wikipedia.org/wiki/Plato
+    lifeEvents:
+      - startDate: -427
+        title: Born
+      - startDate: -347
+        title: Died
+
+  - id: aristotle
+    name: Aristotle
+    born: -384
+    url: https://en.wikipedia.org/wiki/Aristotle
+    lifeEvents:
+      - startDate: -384
+        title: Aristotle born
+      - startDate: -322
+        title: Aristotle dies
+    died: -322
+
+  - id: alexander-the-great
+    name: Alexander the Great
+    born: -356
+    died: -323
+    url: https://en.wikipedia.org/wiki/Alexander_the_Great
+    lifeEvents:
+      - startDate: -356
+        title: Born
+      - startDate: -334
+        title: Begins conquest
+      - startDate: -332
+        title: Greek army destroys the island-city of Tyre
+      - startDate: -332
+        title: Greek army conquors Gaza, Philistine captial
+      - startDate: -323
+        title: Died
+
+  - id: judas-maccabeus-king-of-judaea
+    name: Judas Maccabeus (King of Judaea)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/judas-maccabeus/
+    born: -190
+    lifeEvents:
+      - startDate: -190
+        title: Maccabeus born
+      - startDate: -168
+        title: Maccabean uprising
+      - startDate: -164
+        title: Maccabaeus rededicated cleansed temple to Jehovah with festival (Hanukkah)
+    died: -90
+    diedCertainty: guess
+
+  - id: john-hyrcanus-king-of-judaea
+    name: John Hyrcanus (King of Judaea)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/john-hyrcanus/
+    born: -164
+    lifeEvents:
+      - startDate: -164
+        title: Hyrcanus born
+      - startDate: -134
+        title: Begins reign
+      - startDate: -127
+        title: Fathers Jannaeus
+      - startDate: -125
+        title: Forces coversion/circumcision on Idumeans (Edomites)
+    died: -64
+    diedCertainty: guess
+
+  - id: antipater-i-the-idumaean
+    name: Antipater I the Idumaean
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/antipater-i-the-idumaean/
+    born: -133
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -113
+        title: Antipater I the Idumaean
+      - startDate: -72
+        title: Fathers Herod
+      - startDate: -47
+        title: Appointed procurator of Judea by Julius Ceasar
+      - startDate: -43
+        title: Antipater I dies
+    died: -43
+
+  - id: alexander-jannaeus-king-of-judaea
+    name: Alexander Jannaeus (King of Judaea)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/alexander-jannaeus/
+    born: -127
+    lifeEvents:
+      - startDate: -127
+        title: Jannaeus born
+      - startDate: -103
+        title: Begins reign
+      - startDate: -76
+        title: Alexander dies
+    died: -76
+
+  - id: julius-caesar
+    name: Julius Caesar
+    born: -100
+    died: -44
+    url: https://en.wikipedia.org/wiki/Julius_Caesar
+    lifeEvents:
+      - startDate: -100
+        title: Born
+      - startDate: -44
+        title: Assassinated
+
+  - id: augustus
+    name: Augustus
+    born: -63
+    died: 14
+    url: https://en.wikipedia.org/wiki/Augustus
+    lifeEvents:
+      - startDate: -63
+        title: Born
+      - startDate: -27
+        title: Becomes Emperor
+      - startDate: 14
+        title: Died
+
+  - id: philip-the-tetrarch
+    name: Philip the Tetrarch
+    born: -20
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -4
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/philip/
+        title: Tetrarch of Iturea
+        description: District ruler of Iturea and Trachonitis.
+      - startDate: 34
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/philip/
+        title: Dies
+    died: 34
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/philip/
+
+  - id: josephus-historian
+    name: Josephus (Historian)
+    born: 37
+    lifeEvents:
+      - startDate: 37
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josephus/
+        title: Josephus born
+    died: 137
+    diedCertainty: guess
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josephus/
+
+  - id: ignatius-of-antioch
+    name: Ignatius of Antioch
+    born: 50
+    lifeEvents:
+      - startDate: 50
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ignatius-of-antioch/
+        title: Ignatius born
+      - startDate: 110
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ignatius-of-antioch/
+        title: Ignatius bishop of Antioch adovacates distiction of bishop (overseers) and presbyters (older men) in the congregations
+    died: 150
+    diedCertainty: guess
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ignatius-of-antioch/
+
+  - id: polycarp-of-smyrna
+    name: Polycarp of Smyrna
+    born: 69
+    lifeEvents:
+      - startDate: 69
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/polycarp-of-smyrna/
+        title: Polycarp born
+      - startDate: 155
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/polycarp-of-smyrna/
+        title: Polycarp martyred for refusing to burn incense to the Roman Emperor
+    died: 155
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/polycarp-of-smyrna/
+
+  - id: justin-martyr
+    name: Justin Martyr
+    born: 100
+    lifeEvents:
+      - startDate: 100
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
+        title: Justin born
+      - startDate: 132
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
+        title: Converts to Christianity
+      - startDate: 165
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
+        title: Beheaded in Rome
+    died: 165
+    diedCertainty: guess
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
+
+  - id: irenaeus
+    name: Irenaeus
+    born: 130
+    lifeEvents:
+      - startDate: 130
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/irenaeus/
+        title: Irenaeus born
+      - startDate: 202
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/irenaeus/
+        title: Irenaeus dies
+    died: 202
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/irenaeus/
+
+  - id: athenagoras-of-athens
+    name: Athenagoras of Athens
+    born: 133
+    lifeEvents:
+      - startDate: 133
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athenagoras-of-athens/
+        title: Athenagoras born
+      - startDate: 190
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athenagoras-of-athens/
+        title: Athenagoras dies
+    died: 190
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athenagoras-of-athens/
+
+  - id: tertullian
+    name: Tertullian
+    born: 155
+    lifeEvents:
+      - startDate: 155
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
+        title: Tertullian born
+      - startDate: 197
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
+        title: converts to Christianity
+      - startDate: 220
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
+        title: Tertullian dies
+    died: 220
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
+
+  - id: cyprian-of-carthage
+    name: Cyprian of Carthage
+    born: 210
+    lifeEvents:
+      - startDate: 210
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/cyprian-of-carthage/
+        title: Cyprian born
+      - startDate: 250
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/cyprian-of-carthage/
+        title: Cyrian bishop of Carthage strong advocate for authority of Bishops as separate from priests, decons, and laity
+    died: 310
+    diedCertainty: guess
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/cyprian-of-carthage/
+
+  - id: emperor-constantine
+    name: Emperor Constantine
+    born: 272
+    lifeEvents:
+      - startDate: 272
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
+        title: Constantine born
+      - startDate: 306
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
+        title: Reign as Roman Emperor
+      - startDate: 313
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
+        title: Constantine conversion to christianity
+      - startDate: 337
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
+        title: Constantine dies (65 years)
+    died: 337
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
+
+  - id: augustine-of-hippo
+    name: Augustine of Hippo
+    born: 354
+    lifeEvents:
+      - startDate: 354
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
+        title: Augustine born
+      - startDate: 400
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
+        title: 'Augustine of Hippo states in City of God: “The Church even now is the kingdom of Christ, and the kingdom of heaven.”'
+      - startDate: 430
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
+        title: Augustine dies
+    died: 430
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
+
+  - id: muhammad-ibn-abdullah
+    name: Muhammad ibn Abdullah
+    born: 570
+    lifeEvents:
+      - startDate: 570
+        title: Muhammad born
+      - startDate: 610
+        title: Claims to be prophet
+    died: 632
+    url: https://en.wikipedia.org/wiki/Muhammad
+
+  - id: abu-bakr
+    name: Abu Bakr
+    born: 573
+    lifeEvents:
+      - startDate: 573
+        title: Abu Bakr born
+      - startDate: 576
+        title: Uthman born
+      - startDate: 583
+        title: Umar born
+    died: 634
+    url: https://en.wikipedia.org/wiki/Abu_Bakr
+
+  - id: ali
+    name: Ali
+    born: 600
+    lifeEvents:
+      - startDate: 600
+        title: Ali born
+      - startDate: 634
+        title: Abu Bakr dies of illness
+      - startDate: 638
+        title: Jerusalem captured by Arab army
+      - startDate: 644
+        title: Umor assasinated
+      - startDate: 656
+        title: Uthman assasinated
+      - startDate: 661
+        title: Ali assasinated
+      - startDate: 674
+        title: First Arab siege of Constantinople
+      - startDate: 698
+        title: Arab army takes Carthage
+    died: 661
+    url: https://en.wikipedia.org/wiki/Ali
+
+  - id: charlemagne
+    name: Charlemagne
+    born: 747
+    died: 814
+    url: https://en.wikipedia.org/wiki/Charlemagne
+    lifeEvents:
+      - startDate: 747
+        title: Born
+      - startDate: 800
+        title: Crowned Emperor
+      - startDate: 814
+        title: Died
+
+  - id: william-the-conqueror
+    name: William the Conqueror
+    born: 1028
+    died: 1087
+    url: https://en.wikipedia.org/wiki/William_the_Conqueror
+    lifeEvents:
+      - startDate: 1028
+        title: Born
+      - startDate: 1066
+        title: Battle of Hastings
+      - startDate: 1087
+        title: Died
+
+  - id: genghis-khan
+    name: Genghis Khan
+    born: 1162
+    lifeEvents:
+      - startDate: 1162
+        title: Genghis born
+      - startDate: 1227
+        title: Genghis dies
+    died: 1227
+    url: https://en.wikipedia.org/wiki/Genghis_Khan
+
+  - id: christopher-columbus
+    name: Christopher Columbus
+    born: 1451
+    died: 1506
+    url: https://en.wikipedia.org/wiki/Christopher_Columbus
+    lifeEvents:
+      - startDate: 1451
+        title: Born
+      - startDate: 1492
+        title: Discover Americas
+      - startDate: 1506
+        title: Died
+
+  - id: leonardo-da-vinci
+    name: Leonardo da Vinci
+    born: 1452
+    died: 1519
+    url: https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    lifeEvents:
+      - startDate: 1452
+        title: Born
+      - startDate: 1519
+        title: Died
+
+  - id: william-shakespeare
+    name: William Shakespeare
+    born: 1564
+    died: 1616
+    url: https://en.wikipedia.org/wiki/William_Shakespeare
+    lifeEvents:
+      - startDate: 1564
+        title: Born
+      - startDate: 1616
+        title: Died
+
+  - id: isaac-newton
+    name: Isaac Newton
+    born: 1642
+    lifeEvents:
+      - startDate: 1642
+        title: Isaac Newton born
+      - startDate: 1727
+        title: Newton dies
+    died: 1727
+    url: https://en.wikipedia.org/wiki/Isaac_Newton
+
+  - id: muhammad-ibn-abd-al-wahhab
+    name: Muhammad ibn Abd al-Wahhab
+    born: 1703
+    lifeEvents:
+      - startDate: 1703
+        title: Wahhab born
+      - startDate: 1792
+        title: Wahhab died
+    died: 1792
+    url: https://en.wikipedia.org/wiki/Muhammad_ibn_Abd_al-Wahhab
+
+  - id: otto-von-bismarck
+    name: Otto Von Bismarck
+    born: 1815
+    lifeEvents:
+      - startDate: 1815
+        title: Bismarck born
+      - startDate: 1870
+        title: Masterminds Unification of German Empire
+    died: 1898
+    url: https://en.wikipedia.org/wiki/Otto_von_Bismarck
+
+  - id: albert-einstein
+    name: Albert Einstein
+    born: 1879
+    died: 1955
+    url: https://en.wikipedia.org/wiki/Albert_Einstein
+    lifeEvents:
+      - startDate: 1879
+        title: Born
+      - startDate: 1905
+        title: Annus Mirabilis Papers
+      - startDate: 1955
+        title: Died
+
+events:
+
+  - id: peloponnesian-war-431
+    title: Peloponnesian War; Athens vs Sparta
+    startDate: -431
+    endDate: -404
+    description: Ancient Greek war fought by the Delian League led by Athens against the Peloponnesian League led by Sparta.
+
+  - id: plague-of-athens-430
+    title: Plague of Athens
+    startDate: -430
+    endDate: -426
+    description: Devastating epidemic which hit the city-state of Athens in ancient Greece during the second year of the Peloponnesian War.
+
+  - id: clergy-class-emerges
+    title: Clergy Class Emerges
+    startDate: 110
+
+  - id: pompeii
+    title: Destruction of Pompeii
+    startDate: 79
+    url: https://en.wikipedia.org/wiki/Pompeii
+    description: Eruption of Mount Vesuvius destroys Pompeii.
+
+  - id: invention-paper
+    title: Invention of Paper
+    startDate: 105
+    url: https://en.wikipedia.org/wiki/Papermaking
+    description: Standard paper invented by Cai Lun in China.
+
+  - id: fall-roman-empire
+    title: Fall of Western Roman Empire
+    startDate: 476
+    url: https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
+    description: Deposition of Romulus Augustulus.
+
+  - id: islamic-caliphates
+    title: Islamic Caliphates
+    startDate: 622
+    endDate: 1556
+    description: The era of the Islamic Caliphates (Rashidun, Umayyad, Abbasid, Fatimid, Ottoman).
+    subEvents:
+      - startDate: 622
+        title: Hijrah (Ummah established)
+      - startDate: 632
+        title: Abu Bakr (Rashidun Caliphates)
+      - startDate: 635
+        title: Umar
+      - startDate: 645
+        title: Uthman
+      - startDate: 657
+        title: Ali
+      - startDate: 662
+        title: Umayyad Caliphates
+      - startDate: 681
+        title: Yazid
+      - startDate: 684
+        title: Muawiya II
+      - startDate: 685
+        title: Abd al-Malik
+      - startDate: 706
+        title: al-Walid
+      - startDate: 716
+        title: Sulayman
+      - startDate: 718
+        title: Umar
+      - startDate: 721
+        title: Yazid II
+      - startDate: 725
+        title: Hisham
+      - startDate: 744
+        title: al-Walid II / Yazid III / Ibrahim
+      - startDate: 745
+        title: Marwan II
+      - startDate: 750
+        title: Abbasid Caliphates
+      - startDate: 909
+        title: Fatimid Caliphate
+      - startDate: 1171
+        title: Fatimid Caliphate ends
+      - startDate: 1172
+        title: Ayyubid Caliphate
+      - startDate: 1260
+        title: Ayyubid caliphate ends
+      - startDate: 1300
+        title: Ottoman Empire emerges
+      - startDate: 1517
+        title: Abbaid caliphate ends
+      - startDate: 1526
+        title: Mughal Empire emerges
+    url: https://en.wikipedia.org/wiki/Caliphate
+
+  - id: invention-gunpowder
+    title: Invention of Gunpowder
+    startDate: 850
+    startDateCertainty: guess
+    url: https://en.wikipedia.org/wiki/Gunpowder
+    description: Discovered by Chinese alchemists.
+
+  - id: magna-carta
+    title: Magna Carta
+    startDate: 1215
+    url: https://en.wikipedia.org/wiki/Magna_Carta
+    description: Signed by King John.
+
+  - id: black-death
+    title: Black Death
+    startDate: 1347
+    endDate: 1351
+    url: https://en.wikipedia.org/wiki/Black_Death
+    description: Pandemic in Eurasia and North Africa.
+
+  - id: invention-printing-press
+    title: Printing Press
+    startDate: 1440
+    url: https://en.wikipedia.org/wiki/Printing_press
+    description: Invented by Johannes Gutenberg.
+
+  - id: invention-telescope
+    title: Telescope
+    startDate: 1608
+    url: https://en.wikipedia.org/wiki/History_of_the_telescope
+    description: First patent by Hans Lippershey.
+
+  - id: invention-steam-engine
+    title: Steam Engine (Watt)
+    startDate: 1765
+    url: https://en.wikipedia.org/wiki/Steam_engine
+    description: James Watt invents separate condenser, vastly improving efficiency.
+
+  - id: napoleonic-wars
+    title: Napoleonic Wars
+    startDate: 1803
+    endDate: 1815
+    url: https://en.wikipedia.org/wiki/Napoleonic_Wars
+
+  - id: invention-photography
+    title: First Photograph
+    startDate: 1826
+    url: https://en.wikipedia.org/wiki/History_of_photography
+    description: Taken by Joseph Nicéphore Niépce.
+
+  - id: invention-telegraph
+    title: Electric Telegraph
+    startDate: 1837
+    url: https://en.wikipedia.org/wiki/Electrical_telegraph
+    description: Patented by Samuel Morse and others.
+
+  - id: us-civil-war
+    title: American Civil War
+    startDate: 1861
+    endDate: 1865
+    url: https://en.wikipedia.org/wiki/American_Civil_War
+
+  - id: invention-telephone
+    title: Telephone
+    startDate: 1876
+    url: https://en.wikipedia.org/wiki/Invention_of_the_telephone
+    description: Patented by Alexander Graham Bell.
+
+  - id: invention-lightbulb
+    title: Light Bulb
+    startDate: 1879
+    url: https://en.wikipedia.org/wiki/Incandescent_light_bulb
+    description: Thomas Edison demonstrates first practical incandescent bulb.
+
+  - id: invention-automobile
+    title: Automobile
+    startDate: 1885
+    url: https://en.wikipedia.org/wiki/Car
+    description: Karl Benz patents the first gasoline-powered car.
+
+  - id: wright-brothers
+    title: Wright Brothers First Flight
+    startDate: 1903
+    url: https://en.wikipedia.org/wiki/Wright_brothers
+
+  - id: ww1
+    title: World War I
+    startDate: 1914
+    endDate: 1918
+    url: https://en.wikipedia.org/wiki/World_War_I
+
+  - id: discovery-penicillin
+    title: Penicillin Discovered
+    startDate: 1928
+    url: https://en.wikipedia.org/wiki/Penicillin
+    description: Discovered by Alexander Fleming.
+
+  - id: ww2
+    title: World War II
+    startDate: 1939
+    endDate: 1945
+    url: https://en.wikipedia.org/wiki/World_War_II
+
+  - id: invention-transistor
+    title: Transistor
+    startDate: 1947
+    url: https://en.wikipedia.org/wiki/Transistor
+    description: Invented at Bell Labs, revolutionizing electronics.
+
+  - id: moon-landing
+    title: Moon Landing
+    startDate: 1969
+    url: https://en.wikipedia.org/wiki/Apollo_11
+    description: Apollo 11 lands on the moon.
+
+  - id: invention-arpanet
+    title: ARPANET (Early Internet)
+    startDate: 1969
+    url: https://en.wikipedia.org/wiki/ARPANET
+    description: First packet-switching network precursors to the Internet.
+
+  - id: invention-pc
+    title: Personal Computer Revolution
+    startDate: 1975
+    url: https://en.wikipedia.org/wiki/History_of_personal_computers
+    description: Altair 8800 released, sparking the PC era.
+
+  - id: berlin-wall
+    title: Fall of Berlin Wall
+    startDate: 1989
+    url: https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall
+
+  - id: invention-smartphone
+    title: Modern Smartphone (iPhone)
+    startDate: 2007
+    url: https://en.wikipedia.org/wiki/IPhone
+    description: Apple releases the first iPhone.

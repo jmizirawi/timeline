@@ -1,8 +1,12 @@
 
-import { data as biblicalData } from './biblical';
-import { data as secularData } from './secular';
-import { data as theocraticData } from './theocratic';
+import biblical from './biblical.yml';
+import secular from './secular.yml';
+import theocratic from './theocratic.yml';
 import type { ChronologyData } from '../types';
+
+const biblicalData = biblical as ChronologyData;
+const secularData = secular as ChronologyData;
+const theocraticData = theocratic as ChronologyData;
 
 const chronologyData: ChronologyData = {
     people: [
