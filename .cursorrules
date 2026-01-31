@@ -22,9 +22,9 @@ You are working on a **Biblical History Timeline Application**.
   - `lifeEvents`: Array of objects with:
     - `startDate`: Integer (negative for BCE).
     - `title`: Short summary.
-    - `description`: Detailed account with date reasoning.
+    - `description`: Detailed account of the event. **CRITICAL REQUIREMENT**: For every `startDate`, you MUST explicitly explain the **basis** for the date. Do not just say "Date estimated." Explain the specific synchronism, age assumption, or bible verse sequence used to derive the number (e.g., "Date Reasoning: Synchronized with the 15th year of Amaziah per 2 Ki 14:23").
     - `location`: (Optional) Geographic location.
-    - `url`: (Optional) Specific source for the event. For biblical or theocratic data, always use `jw.org` or `wol.jw.org`. For secular data, prefer `wikipedia.org`. **Whenever possible, use a "Link to Highlight" (Text Fragment) URL (e.g., `#:~:text=...`) to point to the specific sentence or paragraph.** 
+    - `url`: (Optional) Specific source for the event. For biblical or theocratic data, always use `jw.org` or `wol.jw.org`. For secular data, prefer `wikipedia.org`. **MANDATORY**: You MUST use a "Link to Highlight" (Text Fragment) URL (e.g., `#:~:text=...`) that points to the specific text proof for the event. If the text mentions a time period (e.g., "In the 37th year of Joash"), HIGHLIGHT THAT specific text to justify your date. 
 
 # Workflow Instructions
 1.  **Verify Modifications**: After ANY edit to a `.yml` file, you MUST run `npm run build` to ensure the YAML is valid and parsable. If the build fails, fix the YAML syntax immediately.
