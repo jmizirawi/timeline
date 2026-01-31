@@ -1,0 +1,32 @@
+# Project Context
+You are working on a **Biblical History Timeline Application**.
+- **Tech Stack**: Vue 3 (Composition API), Vite, TypeScript, Tailwind CSS, Pinia.
+- **Data Source**: Historical data is stored in YAML files within `src/data/` (`biblical.yml`, `secular.yml`, `theocratic.yml`).
+
+# Coding Standards
+
+## Vue & TypeScript
+- Use `<script setup lang="ts">` for all Vue components.
+- Ensure strict typing. Import types from `src/types.ts` or `src/data/chronology.ts`.
+- Prefer **Tailwind CSS** for styling. Use SCSS only when complex custom styling is required.
+
+## Data Management (YAML)
+- **File Structure**: Maintain the existing structure of `people` and `events` arrays.
+- **Date Convention**: All BCE dates must be **negative integers** (e.g., 1000 B.C.E. = `-1000`).
+- **Fields**:
+  - `id`: Unique string identifier (kebab-case).
+  - `name`: Display name.
+  - `description`: Detailed biography or event description.
+  - `url`: Source URL. For biblical or theocratic data, always use `jw.org` or `wol.jw.org`. For secular data, prefer `wikipedia.org`.
+  - `born` / `died`: Integers (negative for BCE).
+  - `lifeEvents`: Array of objects with:
+    - `startDate`: Integer (negative for BCE).
+    - `title`: Short summary.
+    - `description`: Detailed account with date reasoning.
+    - `location`: (Optional) Geographic location.
+    - `url`: (Optional) Specific source for the event. For biblical or theocratic data, always use `jw.org` or `wol.jw.org`. For secular data, prefer `wikipedia.org`. **Whenever possible, use a "Link to Highlight" (Text Fragment) URL (e.g., `#:~:text=...`) to point to the specific sentence or paragraph.** 
+
+# Workflow Instructions
+1.  **Verify Modifications**: After ANY edit to a `.yml` file, you MUST run `npm run build` to ensure the YAML is valid and parsable. If the build fails, fix the YAML syntax immediately.
+2.  **Preserve Formatting**: Do not alter the indentation style of the existing YAML files.
+3.  **Date Reasoning**: When adding dates that are estimates or calculated, explicitly state the reasoning in the `description` field.
