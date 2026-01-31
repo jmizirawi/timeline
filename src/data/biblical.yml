@@ -1307,19 +1307,67 @@ people:
 
   - id: jeremiah
     name: Jeremiah
-    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeremiah/
+    url: https://www.jw.org/finder?wtlocale=E&docid=1200002421&srcid=share
+    description: A prophet, the son of Hilkiah, a priest of Anathoth in Benjamin's territory. Jeremiah was commissioned by Jehovah in 647 B.C.E., during the 13th year of King Josiah. Known as the 'weeping prophet' for his deep empathy and sadness over his people's condition, he boldly declared Jehovah's judgments against Judah for over 40 years. He is the writer of the book of Jeremiah, Lamentations, and likely 1 and 2 Kings.
+    imageUrl: https://cms-imgp.jw-cdn.org/img/p/2013203/univ/art/2013203_univ_sqr_lg.jpg
     born: -672
     bornCertainty: guess
     lifeEvents:
       - startDate: -672
         startDateCertainty: guess
         title: Jeremiah born
+        description: Jeremiah was commissioned as prophet in 647 BCE and may have been 25 years old at the time, the age at which a priest could enter the first phase of his service.
+        url: https://arc.net/l/quote/poxdarjs
+        location: Anathoth, Judah
       - startDate: -647
-        title: Commissioned (Jer 1:1, 2)
-        description: Commissioned as prophet in the 13th year of Josiah.
+        title: Commissioned as Prophet (Jer 1:1-5)
+        description: Called in the 13th year of Josiah. Initially diffident, saying "I am but a boy," but strengthened by Jehovah to be a "fortified city."
+        imageUrl: https://cms-imgp.jw-cdn.org/img/p/202026165/univ/art/202026165_univ_cnt_1_xl.jpg
+        url: https://arc.net/l/quote/uxdrnprt
+      - startDate: -625
+        title: Writes the First Scroll (Jer 36:1-32)
+        description: Command by Jehovah in the 4th year of Jehoiakim. Dictated to Baruch, burned by the king, and rewritten with additions.
+        imageUrl: https://wol.jw.org/en/wol/mp/r1/lp-e/jr/2010/40
+      - startDate: -617
+        startDateCertainty: guess
+        title: Incident of the Ruined Belt (Jer 13:1-11)
+        description: Dramatic illustration of how Judah and Jerusalem had become good for nothing due to pride.
+        imageUrl: https://wol.jw.org/en/wol/mp/r1/lp-e/jr/2010/36
+        location: Euphrates River
+      - startDate: -614
+        title: Writes Prophecy against Babylon (Jer 51:59-60)
+        description: Wrote in a book the calamity to come on Babylon and gave it to Seraiah in the 4th year of Zedekiah.
+      - startDate: -609
+        startDateCertainty: guess
+        title: Visit to the Potter's House (Jer 18:1-11)
+        description: Illustration of Jehovah's authority to mold or destroy nations based on their response to Him.
+      - startDate: -609
+        startDateCertainty: guess
+        title: Breaking the Flask (Jer 19:1-11)
+        description: Broke a flask before the older men as a symbol of the impending smashing of Jerusalem.
+        imageUrl: https://cms-imgp.jw-cdn.org/img/p/1102016067/univ/art/1102016067_univ_lsr_lg.jpg
+        location: Valley of Hinnom
+      - startDate: -608
+        startDateCertainty: guess
+        title: Commanded not to marry (Jer 16:1-4)
+        description: Served as a warning of the "deaths from maladies" of children born during Jerusalem's last days.
+      - startDate: -608
+        title: Purchase of Field (Jer 32:8-15)
+        description: Repurchased a field from Hanamel as a figure of restoration after the 70 years' exile.
       - startDate: -607
         title: Fall of Jerusalem (Jer 39:1-8)
-        description: Witnesses the destruction of Jerusalem by Babylon.
+        description: Witnesses the destruction of Jerusalem by Babylon; released by Nebuzaradan.
+        imageUrl: https://wol.jw.org/en/wol/mp/r1/lp-e/jr/2010/97
+      - startDate: -607
+        title: Writes Lamentations
+        description: Expresses grief over the desolation of Jerusalem.
+      - startDate: -607
+        title: Taken to Egypt (Jer 43:1-7)
+        description: Taken to Tahpanhes, Egypt, by the remaining Jews who disobeyed Jehovah's command to stay in Judah.
+        location: Tahpanhes, Egypt
+      - startDate: -580
+        title: Finalizes Book of Jeremiah
+        description: Completed the book by adding later sections, including events after the fall of Jerusalem.
       - startDate: -580
         startDateCertainty: guess
         title: Jeremiah dies
