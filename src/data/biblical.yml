@@ -858,21 +858,63 @@ people:
 
   - id: saul
     name: Saul
-    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/saul/
+    url: https://www.jw.org/finder?wtlocale=E&docid=1200003847&srcid=share
+    description: First king of Israel, a Benjamite of the family of Kish. A man of impressive physical stature, standing head and shoulders taller than all others. Chosen by God to lead Israel against Philistine oppression. Though initially modest, he later became presumptuous and disobedient, leading to his rejection by Jehovah and a tragic end.
     born: -1157
     bornCertainty: guess
     lifeEvents:
       - startDate: -1157
         startDateCertainty: guess
         title: Saul born
+        description: Estimated assuming he was 40 years old at the start of his 40-year reign in -1117.
+        location: Gibeah
       - startDate: -1117
-        title: First King of Israel (1 Sam 10:24)
-        description: Selected by Jehovah and anointed by Samuel.
+        title: Anointed as King (1 Sam 10:1)
+        description: Samuel anoints Saul after he is divinely selected. Later confirmed by lot at Mizpah. Date based on the start of his 40-year reign ending in 1077 B.C.E. (Acts 13:21).
+        location: Ramah
+      - startDate: -1117
+        title: Victory at Jabesh-gilead (1 Sam 11:1-11)
+        description: Rallies Israel to defeat the Ammonites, solidifying his kingship. Occurred about a month after his selection.
+        location: Jabesh-gilead
+      - startDate: -1115
+        startDateCertainty: guess
+        title: Presumptuous Sacrifice (1 Sam 13:8-14)
+        description: Impatiently offers a burnt sacrifice at Gilgal instead of waiting for Samuel, an act of disobedience. Estimated to be in the second year of his reign (1 Sam 13:1).
+        location: Gilgal
+      - startDate: -1115
+        startDateCertainty: guess
+        title: Rash Oath (1 Sam 14:24-46)
+        description: Curses anyone eating before evening, nearly leading to the execution of his son Jonathan. Part of the same campaign against the Philistines.
+        location: Michmash
+      - startDate: -1100
+        startDateCertainty: guess
+        title: Rejected by God (1 Sam 15:1-29)
+        description: Spares King Agag and the best of the Amalekite flock against God's command. Samuel declares his kingship rejected. Estimated mid-reign event.
+        location: Gilgal
+      - startDate: -1095
+        startDateCertainty: guess
+        title: Terrorized by Bad Spirit (1 Sam 16:14)
+        description: Jehovah's spirit leaves him, replaced by a bad spirit. David is brought in as a musician to soothe him. Occurred after his rejection and David's anointing.
+        location: Gibeah
+      - startDate: -1090
+        startDateCertainty: guess
+        title: Enmity for David (1 Sam 18:6-11)
+        description: Becomes jealous of David's success and attempts to kill him with a spear. Estimated placement after David's victory over Goliath.
+        location: Gibeah
       - startDate: -1085
-        title: Hunts David (1 Sam 24:1-2)
+        startDateCertainty: guess
+        title: Slaughter of Priests at Nob (1 Sam 22:6-19)
+        description: Orders the execution of Ahimelech and other priests for assisting David. Occurred while David was a fugitive.
+        location: Nob
+      - startDate: -1080
+        startDateCertainty: guess
+        title: Consults Spirit Medium (1 Sam 28:7-20)
+        description: Visits a medium at En-dor in desperation to summon Samuel, receiving a message of doom. Estimated shortly before the battle of Gilboa.
+        location: En-dor
       - startDate: -1077
         title: Death at Gilboa (1 Sam 31:4-6)
-        description: Dies in battle against the Philistines along with Jonathan.
+        description: Severely wounded by Philistines, he falls on his own sword to avoid capture. His sons, including Jonathan, also die in battle. Date based on the end of his 40-year reign.
+        location: Mount Gilboa
     died: -1077
 
   - id: jonathan
@@ -913,29 +955,76 @@ people:
   - id: david
     name: David
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/david/
+    description: "Second king of Israel, son of Jesse the Bethlehemite. A man agreeable to Jehovah's heart (1Sa 13:14). Shepherd, musician, poet, soldier, statesman, prophet, and king. Ancestor of Jesus Christ. Known for his unwavering courage, trust in Jehovah, and repentance after serious sins."
     born: -1107
+    bornCertainty: guess
     lifeEvents:
       - startDate: -1107
         title: David born (1 Sam 16:1)
-        description: Son of Jesse; born in Bethlehem.
-      - startDate: -1097
+        description: Son of Jesse; born in Bethlehem. Date calculated based on his age of 30 when he began reigning in -1077 (2 Sam 5:4).
+        location: Bethlehem
+      - startDate: -1092
         startDateCertainty: guess
         title: Anointed by Samuel (1 Sam 16:13)
-        description: Anointed as future king of Israel.
+        description: Anointed as future king of Israel after Jehovah rejected old brothers. Estimated to be about 15 years old.
+        location: Bethlehem
+      - startDate: -1090
+        startDateCertainty: guess
+        title: Kills Goliath (1 Sam 17:45-54)
+        description: Slays the Philistine giant with a slingstone. Estimated shortly after anointing, while still a youth but capable of bearing arms.
+        location: Low Plain of Elah
+      - startDate: -1085
+        startDateCertainty: guess
+        title: Fugitive from Saul (1 Sam 19-30)
+        description: Flees from Saul's wrath, dwelling in caves (Adullam), wilderness (Ziph, Maon), and foreign lands. Occurred during the latter part of Saul's reign.
+      - startDate: -1078
+        startDateCertainty: guess
+        title: Settles in Ziklag (1 Sam 27:6)
+        description: Given Ziklag by Achish; lived there 1 year and 4 months before Saul's death (1 Sam 27:7).
+        location: Ziklag
       - startDate: -1077
         title: King of Judah (2 Sam 2:4)
-        description: Became king of Judah at Hebron at age 30.
+        description: Anointed king over the tribe of Judah at age 30, following Saul's death (2 Sam 5:4).
+        location: Hebron
       - startDate: -1070
         title: King of All Israel (2 Sam 5:3)
-        description: Anointed king over all Israel; captures Jerusalem.
+        description: Anointed king over all Israel after ruling Judah for 7.5 years (2 Sam 5:5).
+        location: Hebron
       - startDate: -1070
+        title: Captures Jerusalem (2 Sam 5:6-9)
+        description: Conquers the Jebusite stronghold of Zion and makes it his capital. Occurred shortly after becoming king of all Israel.
+        location: Jerusalem
+      - startDate: -1070
+        startDateCertainty: guess
+        title: Ark brought to Jerusalem (2 Sam 6:12-15)
+        description: Brings the Ark of the Covenant to the City of David with joy and dancing.
+        location: Jerusalem
+      - startDate: -1070
+        startDateCertainty: guess
         title: Kingdom Covenant (2 Sam 7:12-16)
-        description: Jehovah makes a covenant with David for an everlasting kingdom.
-      - startDate: -1067
-        title: Commits adultery with Bathsheba (2 Sam 11:2)
+        description: Jehovah makes a covenant with David for an everlasting kingdom. Occurred after the Ark was brought to Jerusalem and David proposed building a house for God.
+        location: Jerusalem
+      - startDate: -1065
+        startDateCertainty: guess
+        title: Sin with Bath-sheba (2 Sam 11:2-4)
+        description: Commits adultery and orchestrates Uriah's death. Estimated to be mid-reign during the Ammonite war.
+        location: Jerusalem
+      - startDate: -1055
+        startDateCertainty: guess
+        title: Absalom's Conspiracy (2 Sam 15-18)
+        description: Flees Jerusalem due to his son Absalom's rebellion. Estimated to be in the later years of his reign.
       - startDate: -1037
-        title: David dies, lived 70 years (1 Ki 2:10)
-        description: David dies at age 70 after reigning 40 years.
+        title: Purchase of Temple Site (2 Sam 24:18-25)
+        description: Buys the threshing floor of Ornan to build an altar, the future site of the temple. Occurred after the pestilence near the end of his life.
+        location: Jerusalem
+      - startDate: -1037
+        title: Solomon Anointed (1 Ki 1:32-40)
+        description: Orders the anointing of Solomon as king to thwart Adonijah's usurpation attempt. Just before David's death.
+        location: Gihon
+      - startDate: -1037
+        title: David dies (1 Ki 2:10)
+        description: David dies at age 70 after reigning 40 years (2 Sam 5:4).
+        location: Jerusalem
     died: -1037
 
   - id: nathan
@@ -1035,31 +1124,124 @@ people:
   - id: solomon
     name: Solomon
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/solomon/
-    born: -1066
+    description: "Son of King David and Bath-sheba, also named Jedidiah (Beloved of Jah). Third king of Israel, reigning from 1037 to 998 B.C.E. Renowned for his wisdom, peaceable reign, and construction of Jehovah's temple in Jerusalem. Under his rule, Israel reached its peak prosperity and territorial extent. However, in his old age, his foreign wives inclined his heart to follow other gods."
+    born: -1064
     bornCertainty: guess
     lifeEvents:
-      - startDate: -1066
+      - startDate: -1064
         startDateCertainty: guess
         title: Solomon born
+        description: Son of David and Bath-sheba; born in Jerusalem. Date estimated based on his parents' marriage occurring mid-reign.
+        location: Jerusalem
       - startDate: -1037
-        title: King of Israel (1 Ki 2:12)
-        description: Succeeds David. Reigns for 40 years.
+        title: Adonijah's Attempt (1 Ki 1:5-10)
+        description: Adonijah attempts to seize the throne at En-rogel, excluding Solomon. Occurred shortly before David's death.
+        location: En-rogel
+      - startDate: -1037
+        title: Anointed King (1 Ki 1:32-40)
+        description: David orders Zadok and Nathan to anoint Solomon at Gihon to thwart Adonijah. Riders on the king's mule.
+        location: Gihon
+      - startDate: -1037
+        title: Dream at Gibeon (1 Ki 3:4-15)
+        description: Jehovah appears in a dream; Solomon asks for wisdom instead of riches. Occurred early in his reign.
+        location: Gibeon
       - startDate: -1034
         title: Temple Construction Begins (1 Ki 6:1)
-        description: Begins building the temple in Jerusalem.
+        description: Did not begin until the 4th year of his reign (1034 B.C.E.).
+        location: Jerusalem
+      - startDate: -1034
+        title: Shimei Executed (1 Ki 2:36-46)
+        description: Executed for violating his restriction to Jerusalem. Occurred 3 years after Solomon's accession.
+        location: Jerusalem
       - startDate: -1027
-        title: Temple Dedicated (1 Ki 6:38)
-        description: Temple construction completed and dedicated.
-      - startDate: -1027
-        title: Palace Construction Begins (1 Ki 7:1)
-        description: Begins building the palace in Jerusalem.
+        title: Temple Completed (1 Ki 6:38)
+        description: Structure finished in the 8th month of the 11th year of his reign.
+        location: Jerusalem
+      - startDate: -1026
+        title: Temple Inauguration (1 Ki 8:2)
+        description: Sanctification and inauguration held in the 7th month (Ethanim) of the following year.
+        location: Jerusalem
       - startDate: -1014
-        title: Palace Dedicated (1 Ki 7:12)
-        description: Palace construction completed and dedicated.
+        title: Government Buildings Completed (1 Ki 7:1; 9:10)
+        description: Completion of the palace and other buildings after 13 more years (20 years total building work).
+        location: Jerusalem
+      - startDate: -1014
+        title: Jehovah Appears Again (1 Ki 9:1-9)
+        description: God assures Solomon he heard his prayer. Occurred after the completion of the king's house.
+        location: Jerusalem
+      - startDate: -1000
+        startDateCertainty: guess
+        title: Deviation from Righteousness (1 Ki 11:1-8)
+        description: In his old age, foreign wives incline his heart to other gods. Occurred in the latter part of his reign.
+        location: Jerusalem
       - startDate: -998
-        title: Solomon Dies (1 Ki 11:42)
-        description: Dies after reigning 40 years. Kingdom divides.
+        title: Solomon Dies (1 Ki 11:43)
+        description: Dies after reigning 40 years. Buried in the City of David.
+        location: Jerusalem
     died: -998
+
+  - id: jeroboam
+    name: Jeroboam
+    description: "First king of the ten-tribe kingdom of Israel. Son of Nebat and Zeruah, of the tribe of Ephraim. A valiant man appointed by Solomon over the house of Joseph. After Jehovah ripped the kingdom from Solomon due to idolatry, Jeroboam was made king over ten tribes. Despite God's promise of a lasting house if obedient, he established calf worship at Dan and Bethel to keep his people from going to Jerusalem, leading Israel into sin."
+    born: -1016
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1016
+        startDateCertainty: guess
+        title: Jeroboam born
+        description: Son of Nebat and Zeruah; born in Zeredah. Date estimated assuming he was a young man (~20) when appointed by Solomon late in his reign.
+        location: Zeredah
+      - startDate: -997
+        startDateCertainty: guess
+        title: Superintendent of Labor Force (1 Ki 11:28)
+        description: Solomon appoints him over the compulsory labor of the house of Joseph due to his industriousness.
+        location: Jerusalem
+      - startDate: -997
+        startDateCertainty: guess
+        title: Ahijah's Prophecy (1 Ki 11:29-39)
+        description: Ahijah tears his garment into 12 pieces, giving 10 to Jeroboam, prophesying his kingship over 10 tribes.
+        location: Jerusalem
+      - startDate: -997
+        startDateCertainty: guess
+        title: Flees to Egypt (1 Ki 11:40)
+        description: Flees to Pharaoh Shishak after Solomon seeks to kill him. Remains there until Solomon's death.
+        location: Egypt
+      - startDate: -997
+        title: Returns from Egypt (1 Ki 12:2)
+        description: Returns upon news of Solomon's death and leads the delegation to Rehoboam.
+        location: Shechem
+      - startDate: -997
+        title: King of Israel (1 Ki 12:20)
+        description: Made king over the ten tribes after they revolt against Rehoboam.
+        location: Shechem
+      - startDate: -997
+        title: Builds Capital (1 Ki 12:25)
+        description: Builds up Shechem as his capital and fortifies Penuel.
+        location: Shechem
+      - startDate: -996
+        startDateCertainty: guess
+        title: Golden Calf Worship (1 Ki 12:26-33)
+        description: Sets up golden calves at Bethel and Dan to prevent people from worshiping in Jerusalem. Appoints non-Levite priests.
+        location: Bethel
+      - startDate: -995
+        startDateCertainty: guess
+        title: Altar Splits (1 Ki 13:1-10)
+        description: A man of God prophesies against the altar at Bethel; it splits apart, and Jeroboam's hand is withered then restored.
+        location: Bethel
+      - startDate: -980
+        title: Defeated by Abijah (2 Ch 13:3-20)
+        description: Suffers a crushing defeat by Abijah of Judah, losing 500,000 men and several cities. Occured in the 18th year of his reign.
+        location: Mount Zemaraim
+      - startDate: -979
+        startDateCertainty: guess
+        title: Death of Son Abijah (1 Ki 14:1-18)
+        description: Ahijah prophesies the death of Jeroboam's son and the destruction of his house. The child dies as his mother enters Tirzah.
+        location: Tirzah
+      - startDate: -977
+        title: Jeroboam Dies (1 Ki 14:20)
+        description: Dies after reigning 22 years. Jehovah deals him a blow.
+        location: Tirzah
+    died: -977
 
   - id: elijah
     name: Elijah
