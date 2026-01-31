@@ -1189,7 +1189,7 @@ people:
       - startDate: -1016
         startDateCertainty: guess
         title: Jeroboam born
-        description: Son of Nebat and Zeruah; born in Zeredah. Date estimated assuming he was a young man (~20) when appointed by Solomon late in his reign.
+        description: Son of Nebat and Zeruah; born in Zeredah. Date estimated assuming he was approx. 20 years old when appointed over the labor force by Solomon.
         location: Zeredah
       - startDate: -997
         startDateCertainty: guess
@@ -1242,6 +1242,174 @@ people:
         description: Dies after reigning 22 years. Jehovah deals him a blow.
         location: Tirzah
     died: -977
+
+  - id: nadab
+    name: Nadab
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/nadab/
+    description: "Son of Jeroboam and second king of the northern ten-tribe kingdom of Israel. Ruled for parts of two years, starting in about 976 B.C.E., during which he continued the calf worship instituted by his father. While besieging Gibbethon, a former Levite city taken over by the Philistines, Nadab was assassinated by Baasha, who then killed off all remaining members of Jeroboam's house in order to secure the throne for himself."
+    born: -996
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -996
+        startDateCertainty: guess
+        title: Nadab born
+        description: Son of Jeroboam; born in Tirzah. Date estimated assuming he was approx. 20 years old when he succeeded his father.
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/nadab/
+        location: Tirzah
+      - startDate: -976
+        title: King of Israel (1 Ki 15:25)
+        description: Succeeds his father Jeroboam and rules for two years.
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/nadab/#:~:text=Nadab%20ruled%20for%20parts%20of%20two%20years%2C%20starting%20in%20about%20976%20B.C.E.
+        location: Tirzah
+      - startDate: -975
+        title: Siege of Gibbethon (1 Ki 15:27)
+        description: Besieges the Philistine city of Gibbethon.
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/nadab/#:~:text=While%20besieging%20Gibbethon%2C%20a%20former%20Levite%20city
+        location: Gibbethon
+      - startDate: -975
+        title: Assassinated by Baasha (1 Ki 15:27-28)
+        description: Killed by Baasha during the siege, ending the dynasty of Jeroboam.
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/nadab/#:~:text=Nadab%20was%20assassinated%20by%20Baasha%2C%20who%20then%20killed%20off%20all%20remaining%20members
+        location: Gibbethon
+    died: -975
+
+  - id: baasha
+    name: Baasha
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/
+    description: "Third king of the ten-tribe kingdom of Israel. Son of Ahijah of the tribe of Issachar. Usurped the throne by killing Nadab and struck down the entire house of Jeroboam, appearing to be an instrument of God's judgment but continuing in calf worship himself. Waged war against King Asa of Judah throughout his reign."
+    born: -1015
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1015
+        startDateCertainty: guess
+        title: Baasha born
+        description: Son of Ahijah of the tribe of Issachar. Date estimated assuming he was approx. 40 years old when he usurped the throne, given his military capability.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/
+      - startDate: -975
+        title: King of Israel / Usurpation (1 Ki 15:27-28)
+        description: Assassinates King Nadab at Gibbethon and usurps the throne, beginning a 24-year reign.
+        location: Gibbethon
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/#:~:text=He%20usurped%20the%20throne%20by%20killing%20his%20predecessor%20Nadab
+      - startDate: -975
+        title: Exterminates House of Jeroboam (1 Ki 15:29)
+        description: Strikes down every living soul of Jeroboam's house, fulfilling Ahijah's prophecy.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/#:~:text=after%20which%20he%20struck%20down%20the%20entire%20house%20of%20Jeroboam
+      - startDate: -962
+        startDateCertainty: guess
+        title: War with Asa (1 Ki 15:17)
+        description: Fortifies Ramah to blockade Judah. Asa responds by allying with Syria. Date based on 36th year of the kingdom division (2 Chr 16:1).
+        location: Ramah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/#:~:text=When%20he%20waged%20war%20against%20Judah%2C%20Asa%20induced%20the%20king%20of%20Syria
+      - startDate: -953
+        title: Baasha Dies (1 Ki 16:6)
+        description: Dies after reigning 24 years and is buried in Tirzah. Succeeded by his son Elah.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/baasha/#:~:text=After%20having%20ruled%20from%20about%20975%20to%20953%20B.C.E.%2C%20Baasha%20died
+    died: -953
+
+  - id: elah
+    name: Elah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/elah/
+    description: "Fourth king of the northern ten-tribe kingdom of Israel. Son of Baasha. Ruled for parts of two years in Tirzah. While drunk, he was assassinated by his chariot chief Zimri, who then exterminated the house of Baasha, fulfilling Jehovah's prophecy."
+    born: -980
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -980
+        startDateCertainty: guess
+        title: Elah born
+        description: Son of Baasha. Date estimated assuming he was approx. 28 years old when he succeeded his father.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/elah/
+      - startDate: -952
+        title: King of Israel (1 Ki 16:8)
+        description: Succeeds his father Baasha and rules for two years.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/elah/#:~:text=Elah%20came%20to%20the%20throne%20in%20about%20952%20B.C.E.
+      - startDate: -951
+        title: Assassinated by Zimri (1 Ki 16:9-10)
+        description: Zimri, chief of half the chariots, strikes him down while he is drunk in the house of Arza.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/elah/#:~:text=While%20Elah%20was%20drunk%2C%20Zimri%2C%20the%20chief%20over%20half%20the%20chariots%2C%20put%20him%20to%20death
+    died: -951
+
+  - id: zimri
+    name: Zimri
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zimri/
+    description: "Fifth king of the ten-tribe kingdom of Israel. Ruled in Tirzah for only seven days. Former chief of half the chariots under Elah. Assassinated Elah and exterminated the house of Baasha. Committed suicide by burning the king's house over himself when Omri besieged the city."
+    born: -1000
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1000
+        startDateCertainty: guess
+        title: Zimri born
+        description: Date estimated assuming he was approx. 50 years old given his high rank as commander of half the chariots.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zimri/
+      - startDate: -951
+        title: Assassinated Elah / Usurpation (1 Ki 16:9-10)
+        description: Kills King Elah while he is drunk and takes the throne.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zimri/#:~:text=Zimri%20killed%20him%20and%20all%20the%20rest%20of%20Baasha%E2%80%99s%20house%20and%20made%20himself%20king
+      - startDate: -951
+        title: Exterminates House of Baasha (1 Ki 16:11-12)
+        description: Strikes down all the males of Baasha's house, leaving no continued survivors.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zimri/#:~:text=Zimri%20killed%20him%20and%20all%20the%20rest%20of%20Baasha%E2%80%99s%20house
+      - startDate: -951
+        title: Zimri Dies (Suicide) (1 Ki 16:18)
+        description: Burns the king's house over himself after reigning for seven days, as Omri captures the city.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zimri/#:~:text=Zimri%20burned%20the%20king%E2%80%99s%20house%20down%20over%20himself
+    died: -951
+
+  - id: omri
+    name: Omri
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/
+    description: "Sixth king of the ten-tribe kingdom of Israel. Founder of the third dynasty (house of Omri). Rose from army chief to king after Zimri's usurpation, winning a civil war against Tibni. Established Samaria as the new capital and was known for his power ('mightiness') but also for doing worse in Jehovah's eyes than his predecessors."
+    born: -1000
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1000
+        startDateCertainty: guess
+        title: Omri born
+        description: Date estimated assuming he was approx. 50 years old given his status as army chief and founder of a dynasty.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/
+      - startDate: -951
+        title: Army Acclaims Him King (1 Ki 16:16)
+        description: The Israelite army camp at Gibbethon makes Omri king upon hearing of Zimri's conspiracy.
+        location: Gibbethon
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=As%20soon%20as%20this%20was%20reported%20to%20the%20Israelite%20army%2C%20at%20the%20time%20camped%20against%20the%20Philistines%20at%20Gibbethon%2C%20%E2%80%9Call%20Israel%2C%E2%80%9D%20doubtless%20the%20tribal%20heads%20%E2%80%9Cin%20the%20camp%2C%E2%80%9D%20made%20Omri%20their%20king
+      - startDate: -951
+        title: Captures Tirzah (1 Ki 16:17-18)
+        description: Omri marches from Gibbethon and captures Tirzah, leading to Zimri's suicide.
+        location: Tirzah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=At%20once%20they%20withdrew%20from%20Gibbethon%20and%20stormed%20Zimri%E2%80%99s%20capital%20Tirzah
+      - startDate: -947
+        title: Defeats Tibni / Sole Rule (1 Ki 16:21-23)
+        description: After a four-year civil war, Tibni dies, and Omri reigns as the undisputed king.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=Finally%2C%20in%20the%2031st%20year%20of%20Asa%20(c.%20947%20B.C.E.)%2C%20Tibni%20died%20in%20some%20unstated%20way%2C%20leaving%20Omri%20about%20eight%20years%20of%20sole%20rule
+      - startDate: -945
+        startDateCertainty: guess
+        title: Establishes Samaria (1 Ki 16:23-24)
+        description: Moves the capital from Tirzah to the newly built city of Samaria, purchased from Shemer. Date estimated to be approx. 6 years into his 12-year reign.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=Midway%20in%20his%20reign%2C%20Omri%20wisely%20moved%20his%20capital%20away%20from%20Tirzah
+      - startDate: -940
+        startDateCertainty: guess
+        title: Subjugates Moab
+        description: Omri brings Moab into subjection, as recorded on the Moabite Stone.
+        location: Moab
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=According%20to%20lines%204%20through%208%20of%20the%20Moabite%20Stone%2C%20Omri%20brought%20Moab%20into%20subjection
+      - startDate: -940
+        title: Omri Dies (1 Ki 16:28)
+        description: Dies after reigning 12 years (including the rivalry with Tibni) and is buried in Samaria.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/
+    died: -940
 
   - id: elijah
     name: Elijah
