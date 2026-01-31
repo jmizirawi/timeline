@@ -1180,6 +1180,662 @@ people:
         location: Jerusalem
     died: -998
 
+  - id: rehoboam
+    name: Rehoboam
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/
+    description: "Son of Solomon. Last king of the united monarchy and first of Judah. Reign marked by the division of the kingdom and Shishak's invasion."
+    born: -1038
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1038
+        startDateCertainty: guess
+        title: Rehoboam born
+        description: "Son of Solomon and Naamah. Date Reasoning: Succeeded Solomon at age 41 (-997)."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/#:~:text=Son%20of%20Solomon%20by%20his%20Ammonite%20wife%20Naamah
+      - startDate: -997
+        title: King of Judah (1 Ki 14:21)
+        description: "Succeeds Solomon. Date Reasoning: Reigned for 17 years following Solomon's death."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/#:~:text=He%20succeeded%20his%20father%20to%20the%20throne%20in%20997%20B.C.E.
+      - startDate: -997
+        title: Division of Kingdom (1 Ki 12:16)
+        description: "Ten tribes revolt and make Jeroboam king. Date Reasoning: Israel revolted shortly after his coronation at Shechem."
+        location: Shechem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/#:~:text=shortly%20after%20he%20was%20crowned%20king%20at%20Shechem%20by%20all%20Israel%2C%20the%20united%20kingdom%20of%20David%20and%20Solomon%20was%20divided
+      - startDate: -993
+        title: Shishak's Invasion (1 Ki 14:25)
+        description: "Shishak of Egypt invades Judah. Date Reasoning: Occurred in the 5th year of Rehoboam."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/#:~:text=Shishak%2C%20who%2C%20together%20with%20his%20allies%2C%20overran%20the%20land%20and%20captured%20a%20number%20of%20cities%20in%20Judah%20in%20the%20fifth%20year%20of%20Rehoboam%E2%80%99s%20reign
+      - startDate: -980
+        title: Rehoboam Dies (1 Ki 14:31)
+        description: "Dies after 17-year reign. Date Reasoning: Dies after reigning 17 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/rehoboam/#:~:text=Before%20his%20death%20at%20the%20age%20of%2058%2C%20and%20the%20ascension%20of%20Abijah%20to%20the%20throne%20in%20980%20B.C.E.
+    died: -980
+
+  - id: abijah
+    name: Abijah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/abijah/
+    description: "Son of Rehoboam. Reigned for 3 years. Defeated Jeroboam I in a major battle with God's help."
+    born: -1000
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -1000
+        startDateCertainty: guess
+        title: Abijah born
+        description: "Son of Rehoboam. Date Reasoning: Estimated age."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/abijah/#:~:text=One%20of%20Rehoboam%E2%80%99s%2028%20sons%2C%20also%20called%20Abijam%2C%20who%20became%20the%20second%20king%20of%20the%20two-tribe%20kingdom%20of%20Judah
+      - startDate: -980
+        title: King of Judah (1 Ki 15:1)
+        description: "Succeeds Rehoboam. Date Reasoning: Succeeded Rehoboam in the 18th year of Jeroboam I."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/abijah/#:~:text=reigned%20from%20980%20to%20978%20B.C.E.
+      - startDate: -980
+        startDateCertainty: guess
+        title: War with Jeroboam (2 Ch 13:3)
+        description: "Defeats Israel's larger army. Date Reasoning: Major conflict early in his reign."
+        location: Mount Zemaraim
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/abijah/#:~:text=With%20the%20ascension%20of%20Abijah%20to%20the%20throne%20in%20the%2018th%20year%20of%20King%20Jeroboam%C2%A0I%20of%20Israel%2C%20the%20hostilities%20between%20the%20northern%20and%20southern%20kingdoms%20resumed
+      - startDate: -978
+        title: Abijah Dies (1 Ki 15:8)
+        description: "Dies after 3-year reign. Date Reasoning: Dies after reigning 3 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/abijah/#:~:text=reigned%20from%20980%20to%20978%20B.C.E.
+    died: -978
+
+  - id: asa
+    name: Asa
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/
+    description: "Son of Abijah. Reigned for 41 years. Known for his zeal for pure worship, the victory over Zerah the Ethiopian, and his later failure to rely on Jehovah against Baasha."
+    born: -998
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -998
+        startDateCertainty: guess
+        title: Asa born
+        description: "Son of Abijah. Date Reasoning: Estimated age."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=Asa%20was%20the%20son%20of%20Abijam%20(Abijah)
+      - startDate: -978
+        title: King of Judah (1 Ki 15:10)
+        description: "Succeeds Abijah. Date Reasoning: Succeeded Abijah in the 20th year of Jeroboam I."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=He%20reigned%20for%2041%20years%20%28977-937%20B.C.E.%29
+      - startDate: -967
+        title: Victory over Zerah (2 Ch 14:9)
+        description: "Defeats Ethiopian army. Date Reasoning: Placed after the 10 years of peace mentioned in 2 Ch 14:1."
+        location: Mareshah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=Asa%E2%80%99s%20zeal%20for%20right%20worship%20brought%20blessings%20of%20peace%20from%20Jehovah%20during%20the%20first%20ten%20years%20of%20his%20reign.%20%282Ch%2014%3A1%2C%206%29%20Later%20Judah%20was%20subjected%20to%20attack
+      - startDate: -963
+        title: Grand Assembly (2 Ch 15:10)
+        description: "Covenant to seek Jehovah. Date Reasoning: Explicitly dated to the 3rd month of Asa's 15th year."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=assembly%20at%20Jerusalem%20in%20Asa%E2%80%99s%2015th%20year%20of%20rule%20%28963%20B.C.E.%29
+      - startDate: -962
+        startDateCertainty: guess
+        title: War with Baasha (1 Ki 15:17)
+        description: "Alliance with Ben-hadad I. Date Reasoning: Baasha fortified Ramah to block Asa; usually placed chronologically here despite the '36th year' textual issue."
+        location: Ramah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=King%20Baasha%20of%20Israel%20set%20out%20to%20block%20the%20path%20of%20any%20inclining%20toward%20a%20return%20to%20Judah
+      - startDate: -939
+        title: Illness (2 Ch 16:12)
+        description: "Diseased in his feet. Date Reasoning: Diseased in his feet in the 39th year of his reign."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=For%20his%20foolishness%2C%20Asa%20would%20now%20face%20continued%20warfare
+      - startDate: -937
+        title: Asa Dies (1 Ki 15:24)
+        description: "Dies after 41-year reign. Date Reasoning: Dies after reigning 41 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/asa/#:~:text=He%20reigned%20for%2041%20years%20%28977-937%20B.C.E.%29
+    died: -937
+
+  - id: jehoshaphat
+    name: Jehoshaphat
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/
+    description: "Son of Asa. Reigned for 25 years. Strengthened the kingdom, instituted judicial reforms, but formed unwise alliances with the house of Ahab."
+    born: -971
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -971
+        startDateCertainty: guess
+        title: Jehoshaphat born
+        description: "Son of Asa. Date Reasoning: Succeeded Asa at age 35."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=Son%20of%20Judean%20King%20Asa%20by%20Azubah%20the%20daughter%20of%20Shilhi
+      - startDate: -936
+        title: King of Judah (1 Ki 22:42)
+        description: "Succeeds Asa. Date Reasoning: Reigned for 25 years from 936 B.C.E."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=Jehoshaphat%20succeeded%20his%20father%20to%20the%20throne%20and%20ruled%20for%2025%20years%2C%20from%20936%20B.C.E.
+      - startDate: -934
+        title: Teaching Campaign (2 Ch 17:7)
+        description: "Teaches law in Judah. Date Reasoning: In the 3rd year of his reign, he sent princes to teach Jehovah's law."
+        location: Judah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=selected%20in%20934%20B.C.E.%2C%20the%20third%20year%20of%20his%20reign%2C%20along%20with%20leading%20princes%20and%20Levites
+      - startDate: -920
+        startDateCertainty: guess
+        title: Alliance with Ahab (2 Ch 18:1)
+        description: "Visits Ahab in Samaria. Date Reasoning: Visit to Ahab occurred some years after his marriage alliance (c. -919)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=years%20later%20he%20went%20down%20to%20Ahab
+      - startDate: -919
+        title: Battle at Ramoth-gilead (1 Ki 22:30)
+        description: "Fights Syria with Ahab. Date Reasoning: Fought alongside Ahab against Syria; Ahab died in this battle."
+        location: Ramoth-gilead
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=Jehoshaphat%20accepted%20and%20marched%20out%20with%20Ahab%20against%20Syria
+      - startDate: -911
+        title: Jehoshaphat Dies (1 Ki 22:50)
+        description: "Dies after 25-year reign. Date Reasoning: Dies after reigning 25 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoshaphat/#:~:text=ruled%20for%2025%20years%2C%20from%20936%20B.C.E.
+    died: -911
+
+  - id: jehoram-king-of-judah
+    name: Jehoram (King of Judah)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/
+    description: "Son of Jehoshaphat. Reigned for 8 years. Married Athaliah, daughter of Ahab, and led Judah into idolatry. Received a letter of judgment from Elijah."
+    born: -945
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -945
+        startDateCertainty: guess
+        title: Jehoram born
+        description: "Son of Jehoshaphat. Date Reasoning: Became king at age 32."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=The%20firstborn%20son%20of%20Jehoshaphat%20who%2C%20at%20the%20age%20of%2032%2C%20became%20king%20of%20Judah
+      - startDate: -913
+        title: King of Judah (2 Ki 8:17)
+        description: "Succeeds Jehoshaphat. Date Reasoning: Began to reign while Jehoshaphat was still alive (co-regency)."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=He%20reigned%20eight%20years
+      - startDate: -913
+        title: Murders Brothers (2 Ch 21:4)
+        description: "Kills all his brothers. Date Reasoning: Killed all his brothers upon strengthening his position."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=Jehoram%20slew%20all%20his%20brothers%20as%20well%20as%20some%20of%20the%20princes%20of%20Judah
+      - startDate: -910
+        startDateCertainty: guess
+        title: Letter from Elijah (2 Ch 21:12)
+        description: "Prophetic condemnation. Date Reasoning: Received a letter from Elijah (who had been translated c. -917) warning of disease and death."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=Elijah%20sent%20a%20letter%20to%20Jehoram%20warning%20him
+      - startDate: -906
+        title: Jehoram Dies (2 Ch 21:20)
+        description: "Dies of bowel disease. Date Reasoning: Dies of a severe bowel disease after reigning 8 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=He%20reigned%20eight%20years
+    died: -906
+
+  - id: ahaziah-king-of-judah
+    name: Ahaziah (King of Judah)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/
+    description: "Son of Jehoram and Athaliah. Reigned for 1 year. Accompanied Jehoram of Israel to war and was killed by Jehu."
+    born: -928
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -928
+        startDateCertainty: guess
+        title: Ahaziah born
+        description: "Son of Jehoram. Date Reasoning: Became king at age 22."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Son%20of%20Jehoram%20and%20Athaliah%20and%20listed%20as%20king%20of%20Judah%20for%20one%20year
+      - startDate: -906
+        title: King of Judah (2 Ki 8:26)
+        description: "Succeeds Jehoram. Date Reasoning: Reigned for 1 year in Jerusalem."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=reigned%20one%20year%20in%20Jerusalem
+      - startDate: -905
+        title: Ahaziah Killed (2 Ki 9:27)
+        description: "Killed by Jehu. Date Reasoning: Killed by Jehu during the execution of God's judgment on Ahab's house."
+        location: Megiddo
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Ahaziah%20gradually%20died%20and%2C%20being%20sonless
+    died: -905
+
+  - id: athaliah
+    name: Athaliah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athaliah/
+    description: "Daughter of Ahab and Jezebel. Usurped the throne of Judah for 6 years after killing her grandchildren. Executed by Jehoiada the priest."
+    born: -940
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -940
+        startDateCertainty: guess
+        title: Athaliah born
+        description: "Daughter of Ahab. Date Reasoning: Estimated age."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athaliah/#:~:text=Queen%20of%20Judah%2C%20daughter%20of%20King%20Ahab%20of%20Israel%20and%20his%20wife%20Jezebel
+      - startDate: -905
+        title: Usurps Throne (2 Ki 11:1)
+        description: "Seizes power. Date Reasoning: Seized power upon the death of her son Ahaziah."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athaliah/#:~:text=Athaliah%20installed%20herself%20as%20queen%20for%20six%20years
+      - startDate: -898
+        title: Athaliah Executed (2 Ki 11:16)
+        description: "Killed at Horse Gate. Date Reasoning: Killed in the 7th year of her reign when Joash was made king."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athaliah/#:~:text=Jehoiada%20ordered%20her%20taken%20outside%20the%20temple%20grounds%20to%20be%20executed
+
+  - id: jehoash-king-of-judah
+    name: Jehoash (King of Judah)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/
+    description: "Son of Ahaziah. Reigned for 40 years. Saved from Athaliah's massacre as an infant. Crowned at age 7 by Jehoiada. Repaired the temple but turned to apostasy after Jehoiada's death."
+    born: -905
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -905
+        startDateCertainty: guess
+        title: Jehoash born
+        description: "Son of Ahaziah. Date Reasoning: Crowned at age 7 in -898."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=He%20was%20the%20youngest%20son%20of%20Judah%E2%80%99s%20King%20Ahaziah
+      - startDate: -898
+        title: King of Judah (2 Ki 12:1)
+        description: "Crowned by Jehoiada. Date Reasoning: Crowned by Jehoiada in the 7th year of Jehu."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=King%20of%20Judah%20for%2040%20years%2C%20from%20898%20to%20859%20B.C.E.
+      - startDate: -898
+        title: Temple Repair Ordered (2 Ki 12:4)
+        description: "Temple restored. Date Reasoning: Initiated early in his reign under Jehoiada's guidance."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=Jehovah%E2%80%99s%20house%20was%20badly%20in%20need%20of%20repairs
+      - startDate: -859
+        title: Jehoash Assassinated (2 Ki 12:20)
+        description: "Killed by servants. Date Reasoning: Assassinated by his servants after reigning 40 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=King%20of%20Judah%20for%2040%20years%2C%20from%20898%20to%20859%20B.C.E.
+    died: -859
+
+  - id: amaziah
+    name: Amaziah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/
+    description: "Son of Jehoash. Reigned for 29 years. Defeated Edom but worshipped their gods. Defeated by Jehoash of Israel. Assassinated at Lachish."
+    born: -883
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -883
+        startDateCertainty: guess
+        title: Amaziah born
+        description: "Son of Jehoash. Date Reasoning: Became king at age 25."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/#:~:text=ruled%20for%2029%20years%20from%20the%20assassination%20of%20his%20father%20Jehoash
+      - startDate: -858
+        title: King of Judah (2 Ki 14:1)
+        description: "Succeeds Jehoash. Date Reasoning: Succeeded his father Jehoash in the 2nd year of Jehoash of Israel."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/#:~:text=ruled%20for%2029%20years%20from%20the%20assassination%20of%20his%20father%20Jehoash
+      - startDate: -858
+        title: Victory in Valley of Salt (2 Ki 14:7)
+        description: "Defeats Edom. Date Reasoning: Major victory over Edom early in his reign."
+        location: Valley of Salt
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/#:~:text=Jehovah%20gave%20Amaziah%20a%20smashing%20victory%20in%20the%20Valley%20of%20Salt
+      - startDate: -856
+        startDateCertainty: guess
+        title: Defeat by Israel (2 Ki 14:11)
+        description: "Wall of Jerusalem broken. Date Reasoning: Foolishly challenged Jehoash of Israel after his Edomite victory."
+        location: Beth-shemesh
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/#:~:text=The%20battle%20was%20joined%20at%20Beth-shemesh%2C%20Judah%20fled%2C%20Amaziah%20was%20captured
+      - startDate: -829
+        title: Amaziah Assassinated (2 Ki 14:19)
+        description: "Killed at Lachish. Date Reasoning: Killed at Lachish after reigning 29 years."
+        location: Lachish
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amaziah/#:~:text=Finally%20forced%20Amaziah%20to%20flee%20to%20Lachish.%20There%20the%20conspirators%20put%20him%20to%20death
+    died: -829
+
+  - id: uzziah
+    name: Uzziah (Azariah)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/uzziah/
+    description: "Son of Amaziah. Reigned for 52 years. Known for military success and building projects. Struck with leprosy for presumptuously offering incense in the temple."
+    born: -845
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -845
+        startDateCertainty: guess
+        title: Uzziah born
+        description: "Son of Amaziah. Date Reasoning: Became king at age 16."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/uzziah/#:~:text=The%20son%20of%20Amaziah%20by%20his%20wife%20Jecoliah
+      - startDate: -829
+        title: King of Judah (2 Ki 15:1)
+        description: "Succeeds Amaziah. Date Reasoning: Reign of 52 years began after Amaziah's death."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/uzziah/#:~:text=Uzziah%20is%20credited%20with%20a%20reign%20of%2052%20years%20%28829-778%20B.C.E.%29
+      - startDate: -778
+        title: Uzziah Dies (2 Ki 15:2)
+        description: "Dies a leper. Date Reasoning: Dies after reigning 52 years (leper until death)."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/uzziah/#:~:text=Uzziah%20is%20credited%20with%20a%20reign%20of%2052%20years%20%28829-778%20B.C.E.%29
+    died: -778
+
+  - id: jotham
+    name: Jotham
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jotham/
+    description: "Son of Uzziah. Reigned for 16 years. Built the upper gate of the temple and defeated the Ammonites."
+    born: -802
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -802
+        startDateCertainty: guess
+        title: Jotham born
+        description: "Son of Uzziah. Date Reasoning: Became king at age 25."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jotham/#:~:text=Son%20of%20Judean%20King%20Uzziah%20(Azariah)%20by%20Jerusha(h)%20the%20daughter%20of%20Zadok
+      - startDate: -777
+        title: King of Judah (2 Ki 15:32)
+        description: "Succeeds Uzziah. Date Reasoning: Began his 16-year rule after Uzziah's death."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jotham/#:~:text=refer%20to%20his%20reign%20of%2016%20years%20%28777-762%20B.C.E.%29
+      - startDate: -770
+        title: Defeats Ammonites (2 Ch 27:5)
+        description: "Ammonites pay tribute. Date Reasoning: Ammonites paid tribute for 3 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jotham/#:~:text=He%20warred%20with%20the%20Ammonites%20and%20finally%20triumphed%20over%20them
+      - startDate: -762
+        title: Jotham Dies (2 Ki 15:33)
+        description: "Dies after 16-year reign. Date Reasoning: Dies after reigning 16 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jotham/#:~:text=refer%20to%20his%20reign%20of%2016%20years%20%28777-762%20B.C.E.%29
+    died: -762
+
+  - id: ahaz
+    name: Ahaz
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaz/
+    description: "Son of Jotham. Reigned for 16 years. Notorious for idolatry, including child sacrifice. Allied with Assyria against Syria and Israel."
+    born: -782
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -782
+        startDateCertainty: guess
+        title: Ahaz born
+        description: "Son of Jotham. Date Reasoning: Became king at age 20."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaz/#:~:text=The%20son%20of%20King%20Jotham%20of%20Judah
+      - startDate: -762
+        title: King of Judah (2 Ki 16:2)
+        description: "Succeeds Jotham. Date Reasoning: Succeeded his father Jotham."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaz/#:~:text=began%20to%20reign%20at%20the%20age%20of%2020%20and%20continued%20for%2016%20years
+      - startDate: -760
+        startDateCertainty: guess
+        title: Syro-Israelite War (2 Ki 16:5)
+        description: "Invasion by Rezin and Pekah. Date Reasoning: Invasion by Rezin and Pekah early in his reign."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaz/#:~:text=Syria%20and%20the%20northern%20kingdom%20of%20Israel%20combined%20to%20attack%20Judah
+      - startDate: -746
+        title: Ahaz Dies (2 Ki 16:20)
+        description: "Dies after 16-year reign. Date Reasoning: Dies after reigning 16 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaz/#:~:text=continued%20for%2016%20years
+    died: -746
+
+  - id: hezekiah
+    name: Hezekiah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/
+    description: "Son of Ahaz. Reigned for 29 years. A righteous king who restored pure worship, cleansed the temple, and trusted in Jehovah during the Assyrian invasion."
+    born: -771
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -771
+        startDateCertainty: guess
+        title: Hezekiah born
+        description: "Son of Ahaz. Date Reasoning: Became king at age 25."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=He%20apparently%20became%20king%20when%20his%20father%20Ahaz%20died
+      - startDate: -746
+        title: King of Judah (2 Ki 18:2)
+        description: "Succeeds Ahaz. Date Reasoning: Succeeded Ahaz in the 3rd year of Hoshea."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=King%20of%20Judah%2C%20745-717%20B.C.E.
+      - startDate: -746
+        title: Temple Cleansing (2 Ch 29:3)
+        description: "Temple restored. Date Reasoning: Opened the doors of the temple in the first month of his reign."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=From%20the%20beginning%20of%20his%20reign%20he%20proved%20himself%20zealous%20for%20the%20promotion%20of%20true%20worship
+      - startDate: -745
+        title: Great Passover (2 Ch 30:1)
+        description: "Nationwide Passover. Date Reasoning: Held in the second month of his first official regnal year."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=inviting%20them%20to%20come%20to%20Jerusalem%20for%20the%20Passover%20celebration
+      - startDate: -732
+        title: Assyrian Invasion (2 Ki 18:13)
+        description: "Sennacherib invades. Date Reasoning: Sennacherib invaded in the 14th year of Hezekiah."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=Sennacherib%20king%20of%20Assyria%20came%20up%20against%20all%20the%20fortified%20cities%20of%20Judah
+      - startDate: -732
+        title: Illness and Recovery (2 Ki 20:1)
+        description: "Life extended 15 years. Date Reasoning: Occurred around the time of the Assyrian threat; 15 years added to his life."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=Jehovah%20healed%20him%20of%20his%20deadly%20sickness
+      - startDate: -717
+        title: Hezekiah Dies (2 Ki 20:21)
+        description: "Dies after 29-year reign. Date Reasoning: Dies after reigning 29 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hezekiah/#:~:text=King%20of%20Judah%2C%20745-717%20B.C.E.
+    died: -717
+
+  - id: manasseh
+    name: Manasseh
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/manasseh/
+    description: "Son of Hezekiah. Reigned for 55 years. Rebuilt high places and practiced extreme idolatry and bloodshed. Taken captive to Babylon, where he repented."
+    born: -729
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -729
+        startDateCertainty: guess
+        title: Manasseh born
+        description: "Son of Hezekiah. Date Reasoning: Became king at age 12."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/manasseh/#:~:text=King%20of%20Judah%20who%20was%20the%20son%20and%20successor%20of%20King%20Hezekiah
+      - startDate: -717
+        title: King of Judah (2 Ki 21:1)
+        description: "Succeeds Hezekiah. Date Reasoning: Succeeded Hezekiah; longest reigning king of Judah."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/manasseh/#:~:text=Manasseh%20was%2012%20years%20old%20when%20he%20began%20to%20reign%2C%20and%20he%20reigned%20for%2055%20years
+      - startDate: -670
+        startDateCertainty: guess
+        title: Captivity and Repentance (2 Ch 33:11)
+        description: "Taken to Babylon. Date Reasoning: Taken to Babylon by Assyria; later restored to his throne. Precise date uncertain, placed mid-late reign."
+        location: Babylon
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/manasseh/#:~:text=Jehovah%20brought%20against%20Judah%20the%20army%20chiefs%20of%20the%20king%20of%20Assyria%2C%20who%20captured%20Manasseh
+      - startDate: -662
+        title: Manasseh Dies (2 Ki 21:18)
+        description: "Dies after 55-year reign. Date Reasoning: Dies after reigning 55 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/manasseh/#:~:text=reigned%20for%2055%20years
+    died: -662
+
+  - id: amon
+    name: Amon
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amon/
+    description: "Son of Manasseh. Reigned for 2 years. Followed his father's idolatrous ways but did not repent. Assassinated by his servants."
+    born: -684
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -684
+        startDateCertainty: guess
+        title: Amon born
+        description: "Son of Manasseh. Date Reasoning: Became king at age 22."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amon/#:~:text=A%20king%20of%20Judah%20(661-660%20B.C.E.)%2C%20and%20son%20of%20wicked%20King%20Manasseh
+      - startDate: -662
+        title: King of Judah (2 Ki 21:19)
+        description: "Succeeds Manasseh. Date Reasoning: Succeeded Manasseh."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amon/#:~:text=A%20king%20of%20Judah%20%28661-660%20B.C.E.%29
+      - startDate: -660
+        title: Amon Assassinated (2 Ki 21:23)
+        description: "Killed by servants. Date Reasoning: Killed by conspiracy after reigning 2 years."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/amon/#:~:text=After%20two%20years%20on%20the%20throne%2C%20he%20was%20murdered%20by%20his%20own%20servants
+    died: -660
+
+  - id: josiah
+    name: Josiah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/
+    description: "Son of Amon. Reigned for 31 years. A righteous king who cleansed the land of idolatry, repaired the temple, and celebrated a great Passover. Died in battle against Pharaoh Nechoh."
+    born: -667
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -667
+        startDateCertainty: guess
+        title: Josiah born
+        description: "Son of Amon. Date Reasoning: Became king at age 8."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=Son%20of%20Judean%20King%20Amon%20by%20Jedidah%20the%20daughter%20of%20Adaiah
+      - startDate: -659
+        title: King of Judah (2 Ki 22:1)
+        description: "Succeeds Amon. Date Reasoning: Succeeded his father Amon."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=Josiah%20became%20king%20of%20Judah
+      - startDate: -652
+        title: Seeks Jehovah (2 Ch 34:3)
+        description: "Seeks God while young. Date Reasoning: In the 8th year of his reign, while still a boy."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=In%20the%20eighth%20year%20of%20his%20reign%2C%20Josiah%20sought%20to%20learn
+      - startDate: -648
+        title: Anti-Idolatry Campaign (2 Ch 34:3)
+        description: "Cleanses Judah. Date Reasoning: Began in his 12th year to cleanse Judah and Jerusalem."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=During%20his%2012th%20year%20as%20king%2C%20Josiah%20began%20a%20campaign%20against%20idolatry
+      - startDate: -642
+        title: Book of Law Found (2 Ki 22:8)
+        description: "Hilkiah finds law. Date Reasoning: In the 18th year of his reign, during temple repairs."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=High%20Priest%20Hilkiah%20found%20%E2%80%9Cthe%20book%20of%20Jehovah%E2%80%99s%20law%20by%20the%20hand%20of%20Moses%2C%E2%80%9D
+      - startDate: -629
+        title: Josiah Dies (2 Ki 23:29)
+        description: "Killed at Megiddo. Date Reasoning: Killed at Megiddo by Pharaoh Nechoh after reigning 31 years."
+        location: Megiddo
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josiah/#:~:text=mortally%20wounded%20in%20the%20attempt%20to%20turn%20back%20the%20Egyptian%20forces
+    died: -629
+
+  - id: jehoahaz
+    name: Jehoahaz
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/
+    description: "Son of Josiah. Reigned for 3 months. Removed by Pharaoh Nechoh and taken to Egypt, where he died."
+    born: -651
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -651
+        startDateCertainty: guess
+        title: Jehoahaz born
+        description: "Son of Josiah. Date Reasoning: Became king at age 23."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=Son%20and%20successor%20of%20Josiah%20as%20king%20of%20Judah
+      - startDate: -628
+        title: King of Judah (2 Ki 23:31)
+        description: "Succeeds Josiah. Date Reasoning: Made king by the people after Josiah's death."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=Jehoahaz%20was%2023%20years%20old%20when%20made%20king
+      - startDate: -628
+        title: Taken to Egypt (2 Ki 23:33)
+        description: "Deposed by Nechoh. Date Reasoning: Deposed by Nechoh after 3 months; died in Egypt."
+        location: Riblah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=ruled%20badly%20for%20three%20months
+    died: -628
+
+  - id: jehoiakim
+    name: Jehoiakim
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/
+    description: "Son of Josiah. Reigned for 11 years. Made king by Pharaoh Nechoh. A wicked ruler who burnt Jeremiah's scroll. Became a vassal to Babylon for 3 years before rebelling."
+    born: -653
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -653
+        startDateCertainty: guess
+        title: Jehoiakim born
+        description: "Son of Josiah. Date Reasoning: Became king at age 25."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/#:~:text=One%20of%20the%20last%20Judean%20kings%2C%20son%20of%20Josiah
+      - startDate: -628
+        title: King of Judah (2 Ki 23:36)
+        description: "Installed by Pharaoh. Date Reasoning: Installed by Pharaoh Nechoh."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/#:~:text=made%2025-year-old%20Eliakim%20king%2C%20changing%20the%20new%20ruler%E2%80%99s%20name%20to%20Jehoiakim
+      - startDate: -625
+        title: Battle of Carchemish (Jer 46:2)
+        description: "Nebuchadnezzar defeats Necho. Date Reasoning: Occurred in Jehoiakim's 4th year."
+        location: Carchemish
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/#:~:text=The%20fourth%20year%20of%20the%20reign%20of%20Jehoiakim%20%28625%20B.C.E.%29
+      - startDate: -624
+        title: Burns Scroll (Jer 36:9)
+        description: "Burns Jeremiah's scroll. Date Reasoning: In the 5th year of his reign."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/#:~:text=Nearly%20a%20year%20later%2C%20in%20the%20ninth%20lunar%20month
+      - startDate: -618
+        title: Jehoiakim Dies (2 Ki 24:6)
+        description: "Dies during siege. Date Reasoning: Dies after reigning 11 years (died during or just before siege)."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiakim/#:~:text=Jehoiakim%E2%80%99s%20bad%20rule%20of%20about%2011%20years
+    died: -618
+
+  - id: jehoiachin
+    name: Jehoiachin
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiachin/
+    description: "Son of Jehoiakim. Reigned for 3 months and 10 days. Surrendered to Nebuchadnezzar and was taken to Babylon."
+    born: -635
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -635
+        startDateCertainty: guess
+        title: Jehoiachin born
+        description: "Son of Jehoiakim. Date Reasoning: Became king at age 18."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiachin/#:~:text=Son%20of%20Judean%20King%20Jehoiakim%20by%20Nehushta
+      - startDate: -617
+        title: King of Judah (2 Ki 24:8)
+        description: "Succeeds Jehoiakim. Date Reasoning: Succeeded Jehoiakim."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiachin/#:~:text=At%20the%20age%20of%2018%20Jehoiachin%20became%20king
+      - startDate: -617
+        title: Surrenders to Babylon (2 Ki 24:12)
+        description: "Taken into exile. Date Reasoning: After reigning 3 months and 10 days; taken into exile."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiachin/#:~:text=surrendered%20to%20Nebuchadnezzar%20in%20617%20B.C.E.
+      - startDate: -580
+        title: Released from Prison (2 Ki 25:27)
+        description: "Evil-merodach releases him. Date Reasoning: In the 37th year of his exile, Evil-merodach released him."
+        location: Babylon
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoiachin/#:~:text=released%20from%20prison%20by%20Nebuchadnezzar%E2%80%99s%20successor%20Evil-merodach
+    died: -580
+
+  - id: zedekiah
+    name: Zedekiah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/
+    description: "Son of Josiah. The last king of Judah. Reigned for 11 years. Rebelled against Babylon, leading to the destruction of Jerusalem and the temple. Blinded and taken to Babylon."
+    born: -638
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -638
+        startDateCertainty: guess
+        title: Zedekiah born
+        description: "Son of Josiah. Date Reasoning: Became king at age 21."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/#:~:text=Son%20of%20Josiah%20by%20his%20wife%20Hamutal
+      - startDate: -617
+        title: King of Judah (2 Ki 24:18)
+        description: "Installed by Babylon. Date Reasoning: Installed by Nebuchadnezzar after Jehoiachin's exile."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/#:~:text=Nebuchadnezzar%20placed%20Zedekiah%20on%20the%20throne
+      - startDate: -609
+        title: Siege of Jerusalem Begins (2 Ki 25:1)
+        description: "Babylon besieges city. Date Reasoning: In the 9th year, 10th month, 10th day of his reign."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/#:~:text=Babylonian%20armies%20under%20King%20Nebuchadnezzar%20were%20besieging%20Jerusalem
+      - startDate: -607
+        title: Fall of Jerusalem (2 Ki 25:2)
+        description: "City and Temple destroyed. Date Reasoning: City fell in the 11th year of Zedekiah."
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/#:~:text=Jerusalem%20and%20her%20temple%20would%20be%20destroyed
+      - startDate: -607
+        title: Zedekiah Captured (2 Ki 25:7)
+        description: "Blinded and exiled. Date Reasoning: Captured near Jericho, sons killed, eyes blinded, taken to Babylon."
+        location: Jericho
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zedekiah/#:~:text=Zedekiah%20was%20captured%2C%20his%20sons%20slain
+    died: -600
+
   - id: jeroboam
     name: Jeroboam
     description: "First king of the ten-tribe kingdom of Israel. Son of Nebat and Zeruah, of the tribe of Ephraim. A valiant man appointed by Solomon over the house of Joseph. After Jehovah ripped the kingdom from Solomon due to idolatry, Jeroboam was made king over ten tribes. Despite God's promise of a lasting house if obedient, he established calf worship at Dan and Bethel to keep his people from going to Jerusalem, leading Israel into sin."
@@ -1204,7 +1860,7 @@ people:
       - startDate: -997
         startDateCertainty: guess
         title: Flees to Egypt (1 Ki 11:40)
-        description: Flees to Pharaoh Shishak after Solomon seeks to kill him. Remains there until Solomon's death.
+        description: Flees to Pharaoh Shishak after Solomon seeks to kill him. Remains there until Solomon's death. Date estimated based on Solomon's attempt to kill him late in his reign.
         location: Egypt
       - startDate: -997
         title: Returns from Egypt (1 Ki 12:2)
@@ -1221,12 +1877,12 @@ people:
       - startDate: -996
         startDateCertainty: guess
         title: Golden Calf Worship (1 Ki 12:26-33)
-        description: Sets up golden calves at Bethel and Dan to prevent people from worshiping in Jerusalem. Appoints non-Levite priests.
+        description: Sets up golden calves at Bethel and Dan to prevent people from worshiping in Jerusalem. Appoints non-Levite priests. Date estimated to be shortly after his accession to secure the kingdom.
         location: Bethel
       - startDate: -995
         startDateCertainty: guess
         title: Altar Splits (1 Ki 13:1-10)
-        description: A man of God prophesies against the altar at Bethel; it splits apart, and Jeroboam's hand is withered then restored.
+        description: A man of God prophesies against the altar at Bethel; it splits apart, and Jeroboam's hand is withered then restored. Date estimated to be early in his reign.
         location: Bethel
       - startDate: -980
         title: Defeated by Abijah (2 Ch 13:3-20)
@@ -1235,7 +1891,7 @@ people:
       - startDate: -979
         startDateCertainty: guess
         title: Death of Son Abijah (1 Ki 14:1-18)
-        description: Ahijah prophesies the death of Jeroboam's son and the destruction of his house. The child dies as his mother enters Tirzah.
+        description: Ahijah prophesies the death of Jeroboam's son and the destruction of his house. The child dies as his mother enters Tirzah. Date estimated to be shortly before Jeroboam's death.
         location: Tirzah
       - startDate: -977
         title: Jeroboam Dies (1 Ki 14:20)
@@ -1401,7 +2057,7 @@ people:
       - startDate: -940
         startDateCertainty: guess
         title: Subjugates Moab
-        description: Omri brings Moab into subjection, as recorded on the Moabite Stone.
+        description: Omri brings Moab into subjection, as recorded on the Moabite Stone. Date estimated based on the Moabite Stone placing it in his reign.
         location: Moab
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/#:~:text=According%20to%20lines%204%20through%208%20of%20the%20Moabite%20Stone%2C%20Omri%20brought%20Moab%20into%20subjection
       - startDate: -940
@@ -1410,6 +2066,547 @@ people:
         location: Samaria
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/omri/
     died: -940
+
+  - id: ahab
+    name: Ahab
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/
+    description: "Seventh king of the ten-tribe kingdom of Israel; son of Omri. Reigned for 22 years in Samaria. Married Jezebel, daughter of Ethbaal, king of Sidon, and allowed Baal worship to infect Israel on an unprecedented scale. Known for his 'house of ivory' and construction works. Died in battle at Ramoth-gilead after ignoring Micaiah's prophecy."
+    born: -980
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -980
+        startDateCertainty: guess
+        title: Ahab born
+        description: Son of Omri. Date estimated assuming he was approx. 40 years old when he began his 22-year reign.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/
+      - startDate: -940
+        title: King of Israel (1 Ki 16:29)
+        description: Succeeds his father Omri in the 38th year of Asa and reigns for 22 years.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=He%20ruled%20in%20Samaria%2022%20years%2C%20from%20about%20940%20B.C.E.
+      - startDate: -940
+        startDateCertainty: guess
+        title: Marries Jezebel (1 Ki 16:31)
+        description: Enters into a political alliance by marrying the daughter of Ethbaal, king of the Sidonians and priest of Astarte. Date estimated to be early in his reign to secure political alliances.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Ahab%20also%20allowed%20Baal%20worship%20to%20infect%20Israel
+      - startDate: -939
+        startDateCertainty: guess
+        title: Capital Construction / Ivory House (1 Ki 22:39)
+        description: Completes Samaria's fortifications with superior masonry and builds a "house of ivory". Date estimated to be early in his reign.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Ahab%E2%80%99s%20construction%20works%20included%20the%20completing%20of%20Samaria%E2%80%99s%20fortifications
+      - startDate: -939
+        startDateCertainty: guess
+        title: Rebuilding of Jericho (1 Ki 16:34)
+        description: Hiel the Bethelite rebuilds Jericho at the cost of his sons, perhaps to strengthen control over Moab. Date estimated to be early in his reign.
+        location: Jericho
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Mention%20is%20made%20of%20the%20rebuilding%20of%20Jericho%20during%20Ahab%E2%80%99s%20reign
+      - startDate: -938
+        startDateCertainty: guess
+        title: Builds Temple of Baal (1 Ki 16:32)
+        description: Builds a temple and altar for Baal in Samaria. 450 prophets of Baal eat at Jezebel's table. Date estimated to be shortly after his marriage to Jezebel.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Ahab%20allowed%20his%20pagan%20wife%20Jezebel%20to%20lead%20him%20into%20Baal%20worship
+      - startDate: -934
+        startDateCertainty: guess
+        title: Wars with Syria (1 Ki 20)
+        description: Defeats Ben-hadad II of Syria in two battles (Samaria and Aphek) but makes a covenant with him, sparing his life. Date estimated to be in the latter half of his reign.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Ahab%E2%80%99s%20forces%20dealt%20a%20crushing%20defeat%20to%20the%20enemy
+      - startDate: -930
+        startDateCertainty: guess
+        title: Marriage Alliance with Judah (2 Ki 8:18)
+        description: Daughter Athaliah marries Jehoram, son of Jehoshaphat, strengthening relations with Judah. Date estimated based on the approximate marriage age of Athaliah.
+        location: Jerusalem
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=Ahab%E2%80%99s%20relations%20with%20Judah%20to%20the%20S%20were%20strengthened%20through%20a%20marriage%20alliance
+      - startDate: -921
+        startDateCertainty: guess
+        title: Naboth's Vineyard (1 Ki 21)
+        description: During a 3-year peace, Jezebel murders Naboth for his vineyard. Elijah denounces Ahab. Date based on the 'three years of peace' before the final war.
+        location: Jezreel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=During%20a%20three-year%20interval%20of%20peace%2C%20Ahab%20turned%20his%20attention
+      - startDate: -920
+        title: Ahab Dies (1 Ki 22)
+        description: Dies in battle against Syrians at Ramoth-gilead. Dogs lick his blood at the pool of Samaria.
+        location: Ramoth-gilead
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahab/#:~:text=His%20body%20was%20brought%20to%20Samaria%20for%20burial
+    died: -920
+
+  - id: ahaziah-king-of-israel
+    name: Ahaziah (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/
+    description: "Son of Ahab and Jezebel, and king of Israel for two years. He followed his idolatrous parents in Baal worship. His reign saw the revolt of Moab and a failed maritime alliance with Jehoshaphat. Died sonless after a fall in his house, following Elijah's prophecy."
+    born: -940
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -940
+        startDateCertainty: guess
+        title: Ahaziah born
+        description: Son of Ahab and Jezebel. Date estimated assuming he was born shortly after Ahab's marriage to Jezebel.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/
+      - startDate: -919
+        title: King of Israel (1 Ki 22:51)
+        description: Succeeded his father Ahab and ruled for two years in Samaria.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=king%20of%20Israel%20for%20two%20years%20beginning%20in%20about%20919%20B.C.E.
+      - startDate: -919
+        title: Revolt of Moab (2 Ki 1:1)
+        description: Moab seized the opportunity to revolt upon Ahab's death, freeing itself from tribute.
+        location: Moab
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Upon%20the%20death%20of%20Ahaziah%E2%80%99s%20father%2C%20Moab%20seized%20the%20opportunity%20to%20revolt
+      - startDate: -918
+        startDateCertainty: guess
+        title: Maritime Alliance (2 Ch 20:35-37)
+        description: Formed an alliance with Jehoshaphat to build ships at Ezion-geber, but they were wrecked due to God's disapproval. Date estimated to be during his short reign.
+        location: Ezion-geber
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Ahaziah%20did%20form%20a%20maritime%20alliance%20with%20Jehoshaphat
+      - startDate: -917
+        title: Fatal Accident (2 Ki 1:2)
+        description: Fell through a grating in his roof chamber and became seriously ill.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=A%20house%20accident%2C%20in%20which%20the%20king%20fell%20through%20a%20grating
+      - startDate: -917
+        title: Inquiry of Baal-zebub (2 Ki 1:2)
+        description: Sent messengers to inquire of the Philistine god Baal-zebub regarding his recovery.
+        location: Ekron
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Ahaziah%20sent%20messengers%20to%20inquire%20of%20the%20Philistine%20god%20Baal-zebub
+      - startDate: -917
+        title: Fire from Heaven (2 Ki 1:9-12)
+        description: Two captains and their 50 men were consumed by fire when trying to arrest Elijah. A third captain was spared due to humility.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=That%20force%20and%20a%20second%20one...%20were%20both%20destroyed%20by%20fire
+      - startDate: -917
+        title: Ahaziah Dies (2 Ki 1:17)
+        description: Died according to Elijah's word; succeeded by his brother Jehoram.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ahaziah/#:~:text=Ahaziah%20gradually%20died%20and%2C%20being%20sonless%2C%20was%20succeeded%20by%20his%20brother%20Jehoram
+    died: -917
+
+  - id: jehoram-king-of-israel
+    name: Jehoram (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/
+    description: "Son of Ahab and Jezebel, and tenth king of the northern kingdom of Israel. Succeeded his brother Ahaziah. Removed the sacred pillar of Baal erected by his father but continued in the calf worship instituted by Jeroboam. His reign saw the miraculous defeat of Moab, the healing of Naaman, and repeated conflicts with Syria. Executed by Jehu."
+    born: -940
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -940
+        startDateCertainty: guess
+        title: Jehoram born
+        description: Son of Ahab and Jezebel. Date estimated assuming he was born shortly after Ahaziah.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/
+      - startDate: -917
+        title: King of Israel (2 Ki 1:17)
+        description: Succeeded his brother Ahaziah and reigned 12 years.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=succeeded%20his%20older%20brother%20Ahaziah%20as%20the%20tenth%20king
+      - startDate: -916
+        startDateCertainty: guess
+        title: War with Moab (2 Ki 3:4-27)
+        description: Allied with Jehoshaphat and Edom. Elisha provides water which creates an optical illusion of blood, leading to Moab's defeat. Date estimated to be early in his reign.
+        location: Moab
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=The%20next%20morning%20the%20reflection%20of%20the%20sunlight%20upon%20this%20water%20caused%20the%20Moabites%20to%20think%20the%20water%20was%20blood
+      - startDate: -910
+        startDateCertainty: guess
+        title: Naaman Healed (2 Ki 5:1-8)
+        description: Naaman, the Syrian army chief, comes to Jehoram to be cured of leprosy. Elisha performs the cure. Date estimated to be in the middle of his reign, allowing time for Elisha's fame to spread.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=Naaman%2C%20the%20army%20chief%20of%20Syria%2C%20came%20to%20Jehoram%20to%20be%20cured
+      - startDate: -908
+        startDateCertainty: guess
+        title: Syrian Raids / Elisha's Warnings (2 Ki 6:8-12)
+        description: Elisha divinely warns Jehoram of Syrian military maneuvers, foiling their assaults. Date estimated to be in the latter part of his reign, preceding the siege of Samaria.
+        location: Dothan
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=In%20advance%2C%20Jehovah%E2%80%99s%20prophet%20Elisha%20also%20informed%20Jehoram%20of%20Syrian%20military%20maneuvers
+      - startDate: -905
+        title: Jehoram Dies (2 Ki 9:24)
+        description: Wounded in battle at Ramoth-gilead, then killed by Jehu with an arrow through the heart. His body is thrown into the field of Naboth.
+        location: Jezreel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoram/#:~:text=Jehoram%20turn%20to%20flee%2C%20but%20Jehu%20shot%20an%20arrow%20through%20his%20heart
+    died: -905
+
+  - id: jehu-king-of-israel
+    name: Jehu (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/
+    description: "Son of Jehoshaphat (son of Nimshi) and king of Israel for 28 years. Anointed by Elisha's attendant to destroy the house of Ahab. Known for his furious chariot driving and zeal in eradicating Baal worship from Israel. Paid tribute to Shalmaneser III of Assyria."
+    born: -945
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -945
+        startDateCertainty: guess
+        title: Jehu born
+        description: Son of Jehoshaphat. Date estimated assuming he was approx. 40 years old when anointed king.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/
+      - startDate: -905
+        title: Anointed King (2 Ki 9:1-14)
+        description: Anointed by Elisha's attendant at Ramoth-gilead while Jehoram was wounded. The army proclaims him king.
+        location: Ramoth-gilead
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=Elisha%20called%20one%20of%20the%20sons%20of%20the%20prophets
+      - startDate: -905
+        title: Executes Jehoram (2 Ki 9:24)
+        description: Jehu shoots Jehoram with an arrow in the field of Naboth, fulfilling Elijah's prophecy.
+        location: Jezreel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=Jehu%20shot%20him%20with%20an%20arrow
+      - startDate: -905
+        title: Executes Jezebel (2 Ki 9:30-37)
+        description: Jezebel is thrown from a window and eaten by dogs, fulfilling prophecy.
+        location: Jezreel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=Jehu%20trampled%20her%20under%20his%20horses
+      - startDate: -905
+        title: Slaughter of Ahab's House (2 Ki 10:1-14)
+        description: Executes Ahab's 70 sons and the brothers of Ahaziah of Judah to eliminate Baal worship supporters.
+        location: Jezreel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=Jehu%20killed%20all%20of%20Ahab%E2%80%99s%20distinguished%20men
+      - startDate: -905
+        title: Baal Worshipers Annihilated (2 Ki 10:18-28)
+        description: Lures Baal worshipers to a great sacrifice and destroys them, wiping Baal worship out of Israel. Date estimated to be shortly after securing the throne.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=Jehu%20annihilated%20Baal%20out%20of%20Israel
+      - startDate: -904
+        title: Tribute to Shalmaneser III
+        description: Assyrian inscriptions (Black Obelisk) record tribute from "Jehu son of Omri". Date estimated based on Assyrian chronology relative to his accession.
+        location: Assyria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=The%20tribute%20of%20Jehu
+      - startDate: -877
+        title: Jehu Dies (2 Ki 10:35)
+        description: Dies after reigning 28 years and is buried in Samaria.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehu/#:~:text=The%20dynasty%20of%20Jehu%20therefore%20reigned
+    died: -877
+
+  - id: jehoahaz-king-of-israel
+    name: Jehoahaz (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/
+    description: "Son and successor of King Jehu. Reigned for 17 years. His reign was marked by severe oppression from Hazael of Syria, reducing Israel's army to a fraction. He sought Jehovah's favor, preventing total ruin."
+    born: -900
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -900
+        startDateCertainty: guess
+        title: Jehoahaz born
+        description: Son of Jehu. Date estimated assuming he was approx. 24 years old when he began his reign.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/
+      - startDate: -876
+        title: King of Israel (2 Ki 13:1)
+        description: Succeeded his father Jehu and reigned for 17 years.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=For%2017%20years%20Jehoahaz%20reigned%2C%20from%20876%20to%20about%20860%20B.C.E.
+      - startDate: -876
+        title: Syrian Oppression (2 Ki 10:32-34)
+        description: Hazael seizes territory east of the Jordan and oppresses Israel. Date estimated to coincide with the beginning of his reign.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=Syrian%20King%20Hazael%20of%20Damascus%2C%20who%20had%20seized%20from%20Jehu%20all%20of%20Israel%E2%80%99s%20territory
+      - startDate: -870
+        startDateCertainty: guess
+        title: Army Reduced (2 Ki 13:7)
+        description: Hazael reduces Jehoahaz's force to 50 horsemen, 10 chariots, and 10,000 foot soldiers. Date estimated to be mid-reign due to continued oppression.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=reducing%20his%20fighting%20force%20to%20a%20mere%2050%20horsemen
+      - startDate: -865
+        startDateCertainty: guess
+        title: Plea to Jehovah (2 Ki 13:4)
+        description: Jehoahaz seeks Jehovah's favor due to Syrian oppression, preventing total ruin. Date estimated to be in the latter part of his reign.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=Finally%2C%20Jehoahaz%20sought%20Jehovah%E2%80%99s%20favor
+      - startDate: -860
+        title: Jehoahaz Dies (2 Ki 13:9)
+        description: Dies after reigning 17 years and is buried in Samaria; succeeded by his son Jehoash.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoahaz/#:~:text=Upon%20his%20death%20Jehoahaz%20was%20buried%20in%20Samaria
+    died: -860
+
+  - id: jehoash-king-of-israel
+    name: Jehoash (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/
+    description: "Son of Jehoahaz and grandson of Jehu. Reigned for 16 years. Continued calf worship. Received Elisha's final prophecy of partial victory over Syria. Defeated Amaziah of Judah, breaking Jerusalem's wall and looting the temple."
+    born: -884
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -884
+        startDateCertainty: guess
+        title: Jehoash born
+        description: "Son of Jehoahaz. Date Reasoning: Estimated assuming he was approx. 24 years old when he began his reign (given his son Jeroboam II reigned for 41 years)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/
+      - startDate: -860
+        title: King of Israel (2 Ki 13:10)
+        description: Succeeded his father Jehoahaz and reigned for 16 years.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=King%20of%20Israel%3B,years%20in%20the%20middle%20of%20the%20ninth%20century
+      - startDate: -859
+        startDateCertainty: guess
+        title: Elisha's Prophecy (2 Ki 13:14-19)
+        description: "Visits Elisha on his deathbed. Prophesies three victories over Syria. Date Reasoning: Placed early in his reign (-859) as Elisha died soon after his accession."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=when%20the%20prophet%20Elisha%20was%20sick%20and%20near,Jehoash%20went%20down%20and%20wept%20over%20him
+      - startDate: -855
+        startDateCertainty: guess
+        title: Victories over Syria (2 Ki 13:25)
+        description: Recovers Israelite cities in three campaigns as prophesied. Date estimated.
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=In%20Jehoash%E2%80%99s%20three%20campaigns%20against%20the%20Syrians%20he%20did,measure%20of%20success
+      - startDate: -850
+        startDateCertainty: guess
+        title: Hired Troops Plunder Judah (2 Ch 25:6-13)
+        description: "Israelite mercenaries, dismissed by Amaziah, plunder Judean towns. Date Reasoning: Synchronized with Amaziah's 5th year (-850), prior to his Edomite campaign."
+        location: Judah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=Jehoash%20also%20hired%20out%20a%20hundred%20thousand%20of,troops%20to%20the%20king%20of%20Judah
+      - startDate: -848
+        startDateCertainty: guess
+        title: War with Judah (2 Ki 14:8-14)
+        description: "Defeats Amaziah at Beth-shemesh, breaks Jerusalem's wall, and loots the temple. Date Reasoning: Placed towards the end of his reign (-848) after the plundering incident and before his death in -844."
+        location: Beth-shemesh
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=Jehoash%E2%80%99s%20forces%20broke%20through%20the%20wall%20of%20Jerusalem%2C,looting%20the%20temple
+      - startDate: -844
+        title: Jehoash Dies (2 Ki 13:13)
+        description: Dies after reigning 16 years and is buried in Samaria; succeeded by his son Jeroboam II.
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jehoash/#:~:text=Jehoash%20died%20and%20was%20buried%20in%20Samaria
+    died: -844
+
+  - id: jeroboam-ii
+    name: Jeroboam II
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/
+    description: "Son and successor of Jehoash, reigning for 41 years. Restored Israel's boundaries from Hamath to the Dead Sea as prophesied by Jonah. His reign saw material prosperity but deep spiritual decline, drawing sharp rebukes from Hosea and Amos."
+    born: -868
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -868
+        startDateCertainty: guess
+        title: Jeroboam II born
+        description: "Son of Jehoash. Date Reasoning: Estimated assuming he was approx. 24 years old when he began his reign."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/
+      - startDate: -844
+        title: King of Israel (2 Ki 14:23)
+        description: "Accession as 14th ruler. Date Reasoning: Accession date is explicitly stated as the 15th year of Amaziah in the biblical text and synchronizes with the end of Jehoash's reign."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/#:~:text=Jeroboam%20II%20reigned%20for%2041%20years%2C%20starting%20in%20about%20844%20B.C.E.
+      - startDate: -840
+        startDateCertainty: guess
+        title: Restores Boundaries (2 Ki 14:25)
+        description: "Restores Israel's boundary from Hamath to the Dead Sea. Date Reasoning: Placed early in his reign as the fulfillment of Jonah's prophecy and a primary achievement."
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/#:~:text=Jeroboam%20%E2%80%9Crestored%20the%20boundary%20of%20Israel%20from%20the%20entering%20in%20of%20Hamath%20clear%20to%20the%20sea%20of%20the%20Arabah
+      - startDate: -830
+        startDateCertainty: guess
+        title: Genealogical Registration (1 Ch 5:17)
+        description: "A special registration of genealogy. Date Reasoning: Explicitly mentioned as occurring during his reign; estimated to be in the period of stability and expansion."
+        location: Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/#:~:text=Notice%20is%20taken%20of%20a%20special%20genealogical%20registration
+      - startDate: -820
+        startDateCertainty: guess
+        title: Prophetic Warnings (Am 7:9)
+        description: "Amos warns of God's judgment against Jeroboam's house. Date Reasoning: Estimated to be later in his reign when material prosperity led to significant apostasy and oppression, prompting Amos's warnings."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/#:~:text=Particularly%20pointed%20was%20Jehovah%E2%80%99s%20warning%20to%20Jeroboam%20by%20the%20mouth%20of%20his%20prophet%20Amos
+      - startDate: -803
+        title: Jeroboam II Dies (2 Ki 14:29)
+        description: "Dies after 41 years; succeeded by Zechariah after an interregnum. Date Reasoning: Dies after reigning 41 years."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/jeroboam/#:~:text=After%20Jeroboam%E2%80%99s%20death%2C%20his%20son%20Zechariah%20ascended%20the%20throne
+    died: -803
+
+  - id: zechariah-king-of-israel
+    name: Zechariah (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zechariah/
+    description: "Son of Jeroboam II and the last of Jehu's dynasty. His reign of six months in -792 ended the dynasty, fulfilling the prophecy that Jehu's sons would rule to the fourth generation. An 11-year interregnum separated his father's death and his accession."
+    born: -815
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -815
+        startDateCertainty: guess
+        title: Zechariah born
+        description: "Son of Jeroboam II. Date Reasoning: Estimated assuming he was a youth (approx. 12) at his father's death in -803, explaining the delay in his accession."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zechariah/
+      - startDate: -792
+        title: King of Israel (2 Ki 15:8)
+        description: "Accession after 11-year interregnum. Date Reasoning: Accession in Uzziah's 38th year (c. -792) follows an 11-year gap after Jeroboam II's death (-803)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zechariah/#:~:text=some%2011%20years%20passed%20before%20Zechariah%E2%80%99s%20stated%20rule
+      - startDate: -792
+        title: Zechariah Murdered (2 Ki 15:10)
+        description: "Murdered by Shallum after 6 months. Date Reasoning: Reigned for only six months before being assassinated by Shallum."
+        location: Ibleam
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/zechariah/#:~:text=His%20recorded%20reign%20of%20six%20months%20was%20terminated
+    died: -792
+
+  - id: shallum-king-of-israel
+    name: Shallum (King of Israel)
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/shallum/
+    description: "Sixteenth king of Israel; son of Jabesh. Conspired against and killed Zechariah, ending Jehu's dynasty. Reigned for only one month before being murdered by Menahem."
+    born: -830
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -830
+        startDateCertainty: guess
+        title: Shallum born
+        description: "Son of Jabesh. Date Reasoning: Estimated assuming he was approximately 40 years old when he usurped the throne."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/shallum/
+      - startDate: -791
+        title: King of Israel (2 Ki 15:13)
+        description: "Reigns for one month. Date Reasoning: Reigned for one month in the 39th year of Uzziah."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/shallum/#:~:text=became%20king%20in%20Samaria%20for%20one%20lunar%20month
+      - startDate: -791
+        title: Shallum Murdered (2 Ki 15:14)
+        description: "Murdered by Menahem. Date Reasoning: Murdered by Menahem after reigning only one lunar month."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/shallum/#:~:text=only%20to%20be%20murdered%20by%20Menahem
+    died: -791
+
+  - id: menahem
+    name: Menahem
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/
+    description: "Son of Gadi and king of Israel for 10 years. Assassinated Shallum to take the throne. Known for his brutal treatment of Tiphsah and paying tribute to Assyrian King Pul (Tiglath-pileser III) to strengthen his own hand."
+    born: -830
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -830
+        startDateCertainty: guess
+        title: Menahem born
+        description: "Son of Gadi. Date Reasoning: Estimated assuming he was a similar age to his rival Shallum."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/
+      - startDate: -790
+        title: King of Israel (2 Ki 15:17)
+        description: "Assumes rulership. Date Reasoning: Reigned for 10 years after assassinating Shallum in -791."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/#:~:text=king%20of%20Israel%20for%20ten%20years%20from%20about%20790%20B.C.E.
+      - startDate: -790
+        startDateCertainty: guess
+        title: Atrocities at Tiphsah (2 Ki 15:16)
+        description: "Brutally destroys Tiphsah for refusing entry. Date Reasoning: Occurred early in his reign when the town refused to open to him."
+        location: Tiphsah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/#:~:text=Evidently%20during%20the%20early%20part%20of%20his%20reign%20Menahem%20struck%20down%20Tiphsah
+      - startDate: -788
+        startDateCertainty: guess
+        title: Tribute to Pul (2 Ki 15:19)
+        description: "Pays 1,000 talents of silver to Pul (Tiglath-pileser III). Date Reasoning: Pul (Tiglath-pileser III) invaded during Menahem's reign; date estimated within his rule."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/#:~:text=Menahem%20was%20forced%20to%20pay%20that%20Assyrian%20monarch%20%E2%80%9Ca%20thousand%20talents%20of%20silver.%E2%80%9D
+      - startDate: -781
+        title: Menahem Dies (2 Ki 15:22)
+        description: "Dies after 10-year reign. Date Reasoning: Dies after reigning 10 years."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/menahem/#:~:text=Menahem%20died%20about%20781%20B.C.E.%2C%20and%20his%20son
+    died: -781
+
+  - id: pekahiah
+    name: Pekahiah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekahiah/
+    description: "Son and successor of Menahem. Reigned for 2 years in Samaria. Continued Jeroboam's calf worship. Assassinated in his palace by his adjutant Pekah."
+    born: -810
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -810
+        startDateCertainty: guess
+        title: Pekahiah born
+        description: "Son of Menahem. Date Reasoning: Estimated assuming he was approx. 30 years old when he succeeded his father."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekahiah/
+      - startDate: -780
+        title: King of Israel (2 Ki 15:23)
+        description: "Succeeded his father Menahem. Date Reasoning: Succeeded his father Menahem in the 50th year of Uzziah."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekahiah/#:~:text=King%20of%20Israel%20in%20Samaria%2C%20son%20and%20successor%20of%20Menahem
+      - startDate: -779
+        title: Pekahiah Murdered (2 Ki 15:25)
+        description: "Assassinated by Pekah. Date Reasoning: Assassinated by Pekah after reigning for 2 years."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekahiah/#:~:text=Pekah%2C%20conspired%20against%20him%2C%20killed%20him%2C%20and%20began%20to%20reign%20in%20his%20place
+    died: -779
+
+  - id: pekah
+    name: Pekah
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/
+    description: "Son of Remaliah and king of Israel for 20 years. Assassinated Pekahiah to seize the throne. Formed an alliance with Rezin of Syria against Judah, inflicting heavy losses. His reign saw the invasion of Tiglath-pileser III, who captured northern Israel. Assassinated by Hoshea."
+    born: -818
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -818
+        startDateCertainty: guess
+        title: Pekah born
+        description: "Son of Remaliah. Date Reasoning: Estimated assuming he was approx. 40 years old when he seized the throne."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/
+      - startDate: -778
+        title: King of Israel (2 Ki 15:27)
+        description: "Seizes kingship. Date Reasoning: Succeeded Pekahiah in the 52nd year of Uzziah, reigning for 20 years."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/#:~:text=King%20of%20Israel%20for%20a%2020-year%20period%20beginning%20in%20about%20778%20B.C.E.
+      - startDate: -762
+        startDateCertainty: guess
+        title: Alliance with Rezin (2 Ki 15:37)
+        description: "Allies with Syria against Judah. Date Reasoning: Began troubling Judah toward the close of Jotham's reign (c. -762)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/#:~:text=Toward%20the%20close%20of%20Judean%20King%20Jotham%E2%80%99s%20reign%20%28which%20began%20in%20the%20second%20year%20of%20Pekah%29%2C%20both%20Pekah%20and%20Rezin%20caused%20trouble%20for%20Judah
+      - startDate: -760
+        startDateCertainty: guess
+        title: Invasion of Judah (2 Ch 28:6)
+        description: "Kills 120,000 Judeans. Date Reasoning: Invaded Judah after Ahaz became king (in Pekah's 17th year, c. -761), killing 120,000 valiant men."
+        location: Judah
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/#:~:text=In%20one%20day%20Pekah%20killed%20120,000%20valiant%20men%20of%20Judah
+      - startDate: -759
+        startDateCertainty: guess
+        title: Assyrian Invasion (2 Ki 15:29)
+        description: "Tiglath-pileser III captures northern Israel. Date Reasoning: Tiglath-pileser III captured Gilead, Galilee, and Naphtali shortly before Pekah's death."
+        location: Northern Israel
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/#:~:text=Apparently%20also%20at%20this%20time%20Tiglath-pileser%20captured%20the%20regions%20of%20Gilead%2C%20Galilee%2C%20and%20Naphtali
+      - startDate: -758
+        title: Pekah Assassinated (2 Ki 15:30)
+        description: "Assassinated by Hoshea. Date Reasoning: Assassinated by Hoshea after reigning 20 years."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/pekah/#:~:text=Thereafter%20Hoshea%20the%20son%20of%20Elah%20killed%20Pekah%20and%20became%20Israel%E2%80%99s%20next%20king
+    died: -758
+
+  - id: hoshea
+    name: Hoshea
+    url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/
+    description: "Son of Elah and the last king of Israel. Assassinated Pekah to usurp the throne but was not fully established until later. His reign ended with the Assyrian conquest and the exile of the ten-tribe kingdom after a 3-year siege of Samaria."
+    born: -800
+    bornCertainty: guess
+    lifeEvents:
+      - startDate: -800
+        startDateCertainty: guess
+        title: Hoshea born
+        description: "Son of Elah. Date Reasoning: Estimated assuming he was approx. 40 years old when he usurped the throne."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/
+      - startDate: -758
+        title: Usurps Throne (2 Ki 15:30)
+        description: "Assassinates Pekah. Date Reasoning: Assassinated Pekah in the 20th year of Jotham (actually the 4th year of Ahaz)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/#:~:text=it%20was%20by%20conspiracy%20against%20and%20murder%20of%20King%20Pekah%20that%20the%20usurper%20Hoshea%20gained%20the%20throne
+      - startDate: -748
+        title: King of Israel (2 Ki 17:1)
+        description: "Fully established as king. Date Reasoning: Established full control in Samaria in the 12th year of Ahaz, possibly with Assyrian backing."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/#:~:text=in%20the%2012th%20year%20of%20Ahaz%2C%20Hoshea%20%E2%80%9Cbecame%20king%20in%20Samaria%20over%20Israel%20for%20nine%20years.%E2%80%9D
+      - startDate: -745
+        startDateCertainty: guess
+        title: Tributary to Shalmaneser V (2 Ki 17:3)
+        description: "Compelled to pay tribute. Date Reasoning: Compelled to pay tribute shortly after fully established as king."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/#:~:text=Shalmaneser%C2%A0V%2C%20successor%20to%20Tiglath-pileser%C2%A0III%2C%20compelled%20Hoshea%20to%20pay%20tribute
+      - startDate: -742
+        title: Siege of Samaria (2 Ki 18:9)
+        description: "Assyria besieges Samaria. Date Reasoning: Shalmaneser V besieged Samaria in the 4th year of Hezekiah (7th year of Hoshea)."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/#:~:text=put%20Hoshea%20in%20the%20house%20of%20detention%20and%20laid%20siege%20to%20Samaria
+      - startDate: -740
+        title: Fall of Samaria (2 Ki 17:6)
+        description: "End of Northern Kingdom. Date Reasoning: Samaria fell in the 6th year of Hezekiah (9th year of Hoshea), ending the northern kingdom."
+        location: Samaria
+        url: https://www.jw.org/en/library/books/insight-on-the-scriptures/hoshea/#:~:text=In%20740%20B.C.E.%2C%20after%20a%20three-year%20siege%2C%20the%20city%20fell
+    died: -740
 
   - id: elijah
     name: Elijah
