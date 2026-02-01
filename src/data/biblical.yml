@@ -3595,19 +3595,19 @@ events:
     description: Egypt is 1st world power
 
   - id: book-of-genesis-completed
-    title: Genesis Completed
+    title: Ge
     startDate: -1513
-    description: Written by Moses in Wilderness.
+    description: Book of Genesis completed; Written by Moses in Wilderness.
 
   - id: book-of-exodus-completed
-    title: Exodus Completed
+    title: Ex
     startDate: -1512
-    description: Written by Moses in Wilderness.
+    description: Book of Exodus completed; Written by Moses in Wilderness.
 
   - id: book-of-leviticus-completed
-    title: Leviticus Completed
+    title: Le
     startDate: -1512
-    description: Written by Moses in Wilderness.
+    description: Book of Leviticus completed; Written by Moses in Wilderness.
 
   - id: sabbath-years
     title: Sabbath Years
@@ -4044,23 +4044,23 @@ events:
     endDate: -1468
 
   - id: book-of-numbers-completed
-    title: Numbers Completed
+    title: Nu
     url: https://www.jw.org/en/library/bible/study-bible/books/numbers/
     startDate: -1473
-    description: Written by Moses in Wilderness and Plains of Moab.
+    description: Book of Numbers completed; Written by Moses in Wilderness and Plains of Moab.
 
   - id: book-of-deuteronomy-completed
-    title: Deuteronomy Completed
+    title: De
     url: https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/
     startDate: -1473
-    description: Written by Moses in Plains of Moab.
+    description: Book of Deuteronomy completed; Written by Moses in Plains of Moab.
 
   - id: book-of-job-completed
-    title: Job Completed
+    title: Job
     url: https://www.jw.org/en/library/bible/study-bible/books/job/
     startDate: -1473
     startDateCertainty: circa
-    description: Written by Moses in Wilderness.
+    description: Book of Job completed; Written by Moses in Wilderness.
 
   - id: time-of-judges
     title: Time of Judges
@@ -4096,11 +4096,11 @@ events:
     endDateCertainty: guess
 
   - id: book-of-joshua-completed
-    title: Joshua Completed
+    title: Jos
     url: https://www.jw.org/en/library/bible/study-bible/books/joshua/
     startDate: -1450
     startDateCertainty: circa
-    description: Written by Joshua in Canaan.
+    description: Book of Joshua completed; Written by Joshua in Canaan.
 
   - id: israel-kings
     title: Israel Kings
@@ -4157,46 +4157,46 @@ events:
     endDate: -741
 
   - id: book-of-judges-completed
-    title: Judges Completed
+    title: Jg
     url: https://www.jw.org/en/library/bible/study-bible/books/judges/
     startDate: -1100
     startDateCertainty: circa
-    description: Written by Samuel in Israel.
+    description: Book of Judges completed; Written by Samuel in Israel.
 
   - id: book-of-ruth-completed
-    title: Ruth Completed
+    title: Ru
     url: https://www.jw.org/en/library/bible/study-bible/books/ruth/
     startDate: -1090
     startDateCertainty: circa
-    description: Written by Samuel in Israel.
+    description: Book of Ruth completed; Written by Samuel in Israel.
 
   - id: book-of-1st-samuel-completed
-    title: 1 Samuel Completed
+    title: 1Sa
     url: https://www.jw.org/en/library/bible/study-bible/books/1-samuel/
     startDate: -1078
     startDateCertainty: circa
-    description: Written by Samuel; Gad; Nathan in Israel.
+    description: Book of 1 Samuel completed; Written by Samuel; Gad; Nathan in Israel.
 
   - id: book-of-2nd-samuel-completed
-    title: 2 Samuel Completed
+    title: 2Sa
     url: https://www.jw.org/en/library/bible/study-bible/books/2-samuel/
     startDate: -1040
     startDateCertainty: circa
-    description: Written by Gad; Nathan in Israel.
+    description: Book of 2 Samuel completed; Written by Gad; Nathan in Israel.
 
   - id: book-of-the-song-of-solomon-completed
-    title: The Song of Solomon Completed
+    title: Ca
     url: https://www.jw.org/en/library/bible/study-bible/books/the-song-of-solomon/
     startDate: -1020
     startDateCertainty: circa
-    description: Written by Solomon in Jerusalem.
+    description: Book of Song of Solomon completed; Written by Solomon in Jerusalem.
 
   - id: book-of-ecclesiastes-completed
-    title: Ecclesiastes Completed
+    title: Ec
     url: https://www.jw.org/en/library/bible/study-bible/books/ecclesiastes/
     startDate: -1000
     startDateCertainty: circa
-    description: Written by Solomon in Jerusalem.
+    description: Book of Ecclesiastes completed; Written by Solomon in Jerusalem.
 
   - id: judah-kings
     title: Judah Kings
@@ -4291,22 +4291,22 @@ events:
     description: Moabite Stone (Mesha Stele) mentions Jehovah's name.
 
   - id: book-of-jonah-completed
-    title: Jonah Completed
+    title: Jon
     startDate: -844
     startDateCertainty: circa
-    description: Written by Jonah in Israel.
+    description: Book of Jonah completed; Written by Jonah in Israel.
 
   - id: book-of-joel-completed
-    title: Joel Completed
+    title: Joe
     startDate: -820
     startDateCertainty: circa
-    description: Written by Joel in Judah.
+    description: Book of Joel completed; Written by Joel in Judah.
 
   - id: book-of-amos-completed
-    title: Amos Completed
+    title: Am
     startDate: -804
     startDateCertainty: circa
-    description: Written by Amos in Judah.
+    description: Book of Amos completed; Written by Amos in Judah.
 
   - id: miqneyaw-seal
     title: Miqneyaw Seal
@@ -4315,10 +4315,10 @@ events:
     description: Jasper seal engraved with 'belonging to Miqneyaw, the servant of Jehovah'.
 
   - id: book-of-hosea-completed
-    title: Hosea Completed
+    title: Ho
     startDate: -745
     startDateCertainty: circa
-    description: Written by Hosea in Samaria (District).
+    description: Book of Hosea completed; Written by Hosea in Samaria (District).
 
   - id: assyrian-world-power
     title: Assyria 2nd World Power
@@ -4329,34 +4329,34 @@ events:
         startDate: -732
 
   - id: book-of-isaiah-completed
-    title: Isaiah Completed
+    title: Isa
     startDate: -732
     startDateCertainty: circa
-    description: Written by Isaiah in Judah.
+    description: Book of Isaiah completed; Written by Isaiah in Judah.
 
   - id: book-of-proverbs-completed
-    title: Proverbs Completed
+    title: Pr
     startDate: -717
     startDateCertainty: circa
-    description: Written by Solomon; Agur; Lemuel in Jerusalem.
+    description: Book of Proverbs completed; Written by Solomon; Agur; Lemuel in Jerusalem.
 
   - id: book-of-micah-completed
-    title: Micah Completed
+    title: Mic
     startDate: -717
     startDateCertainty: circa
-    description: Written by Micah in Judah.
+    description: Book of Micah completed; Written by Micah in Judah.
 
   - id: book-of-zephaniah-completed
-    title: Zephaniah Completed
+    title: Zep
     startDate: -648
     startDateCertainty: circa
-    description: Written by Zephaniah in Judah.
+    description: Book of Zephaniah completed; Written by Zephaniah in Judah.
 
   - id: book-of-nahum-completed
-    title: Nahum Completed
+    title: Na
     startDate: -632
     startDateCertainty: circa
-    description: Written by Nahum in Judah.
+    description: Book of Nahum completed; Written by Nahum in Judah.
 
   - id: babylon-world-power
     title: Babylon 3rd World Power
@@ -4378,21 +4378,21 @@ events:
     description: (2 Ch 35:20-24) King Josiah is killed in battle at Megiddo attempting to stop Pharaoh Necho II.
 
   - id: book-of-habakkuk-completed
-    title: Habakkuk Completed
+    title: Hab
     startDate: -628
     startDateCertainty: circa
-    description: Written by Habakkuk in Judah.
+    description: Book of Habakkuk completed; Written by Habakkuk in Judah.
 
   - id: book-of-lamentations-completed
-    title: Lamentations Completed
+    title: La
     startDate: -607
-    description: Written by Jeremiah in Jerusalem.
+    description: Book of Lamentations completed; Written by Jeremiah in Jerusalem.
 
   - id: book-of-obadiah-completed
-    title: Obadiah Completed
+    title: Ob
     startDate: -607
     startDateCertainty: circa
-    description: Written by Obadiah in Judah.
+    description: Book of Obadiah completed; Written by Obadiah in Judah.
 
   - id: jerusalem-destroyed
     title: Jerusalem Destroyed by Babylon
@@ -4400,27 +4400,27 @@ events:
     description: Jerusalem and its temple are destroyed by the Babylonians; start of the 70-year desolation.
 
   - id: book-of-ezekiel-completed
-    title: Ezekiel Completed
+    title: Eze
     startDate: -591
     startDateCertainty: circa
-    description: Written by Ezekiel in Babylon.
+    description: Book of Ezekiel completed; Written by Ezekiel in Babylon.
 
   - id: book-of-1st-kings-completed
-    title: 1 Kings Completed
+    title: 1Ki
     startDate: -580
     startDateCertainty: circa
-    description: Written by Jeremiah in Judah and Egypt.
+    description: Book of 1 Kings completed; Written by Jeremiah in Judah and Egypt.
 
   - id: book-of-2nd-kings-completed
-    title: 2 Kings Completed
+    title: 2Ki
     startDate: -580
     startDateCertainty: circa
-    description: Written by Jeremiah in Judah and Egypt.
+    description: Book of 2 Kings completed; Written by Jeremiah in Judah and Egypt.
 
   - id: book-of-jeremiah-completed
-    title: Jeremiah Completed
+    title: Jer
     startDate: -580
-    description: Written by Jeremiah in Judah; Egypt.
+    description: Book of Jeremiah completed; Written by Jeremiah in Judah; Egypt.
 
   - id: medo-persian-kings
     title: Medo-Persian Kings
@@ -4449,20 +4449,20 @@ events:
     endDate: -332
 
   - id: book-of-daniel-completed
-    title: Daniel Completed
+    title: Da
     startDate: -536
     startDateCertainty: circa
-    description: Written by Daniel in Babylon.
+    description: Book of Daniel completed; Written by Daniel in Babylon.
 
   - id: book-of-haggai-completed
-    title: Haggai Completed
+    title: Hag
     startDate: -520
-    description: Written by Haggai in Jerusalem.
+    description: Book of Haggai completed; Written by Haggai in Jerusalem.
 
   - id: book-of-zechariah-completed
-    title: Zechariah Completed
+    title: Zec
     startDate: -518
-    description: Written by Zechariah in Jerusalem.
+    description: Book of Zechariah completed; Written by Zechariah in Jerusalem.
 
   - id: temple-restoration
     title: Temple Restoration
@@ -4482,46 +4482,46 @@ events:
     endDate: -515
 
   - id: book-of-esther-completed
-    title: Esther Completed
+    title: Es
     startDate: -475
     startDateCertainty: circa
-    description: Written by Mordecai in Shushan, Elam.
+    description: Book of Esther completed; Written by Mordecai in Shushan, Elam.
 
   - id: book-of-1st-chronicles-completed
-    title: 1 Chronicles Completed
+    title: 1Ch
     startDate: -460
     startDateCertainty: circa
-    description: Written by Ezra in Jerusalem (?).
+    description: Book of 1 Chronicles completed; Written by Ezra in Jerusalem (?).
 
   - id: book-of-2nd-chronicles-completed
-    title: 2 Chronicles Completed
+    title: 2Ch
     startDate: -460
     startDateCertainty: circa
-    description: Written by Ezra in Jerusalem (?).
+    description: Book of 2 Chronicles completed; Written by Ezra in Jerusalem (?).
 
   - id: book-of-ezra-completed
-    title: Ezra Completed
+    title: Ezr
     startDate: -460
     startDateCertainty: circa
-    description: Written by Ezra in Jerusalem.
+    description: Book of Ezra completed; Written by Ezra in Jerusalem.
 
   - id: book-of-psalms-completed
-    title: Psalms Completed
+    title: Ps
     startDate: -460
     startDateCertainty: circa
-    description: Written by David and others in Israel.
+    description: Book of Psalms completed; Written by David and others in Israel.
 
   - id: book-of-nehemiah-completed
-    title: Nehemiah Completed
+    title: Ne
     startDate: -443
     startDateCertainty: circa
-    description: Written by Nehemiah in Jerusalem.
+    description: Book of Nehemiah completed; Written by Nehemiah in Jerusalem.
 
   - id: book-of-malachi-completed
-    title: Malachi Completed
+    title: Mal
     startDate: -443
     startDateCertainty: circa
-    description: Written by Malachi in Jerusalem.
+    description: Book of Malachi completed; Written by Malachi in Jerusalem.
 
   - id: greece-world-power
     title: Greece - 5th World Power
@@ -4569,148 +4569,148 @@ events:
     description: 15th year of Tiberius Caesar, named emperor by Roman Senate on September 15, 14 C.E. The year John the Baptizer began his preaching. (Lu 3:1-3, 21, 23; 1:36.)
 
   - id: book-of-matthew-completed
-    title: Matthew Completed
+    title: Mt
     startDate: 41
     startDateCertainty: circa
-    description: Written by Matthew in Judea.
+    description: Book of Matthew completed; Written by Matthew in Judea.
 
   - id: book-of-galatians-completed
-    title: Galatians Completed
+    title: Ga
     startDate: 50
     startDateCertainty: circa
-    description: Written by Paul in Corinth or Syrian Antioch.
+    description: Book of Galatians completed; Written by Paul in Corinth or Syrian Antioch.
 
   - id: book-of-1st-thessalonians-completed
-    title: 1 Thessalonians Completed
+    title: 1Th
     startDate: 50
     startDateCertainty: circa
-    description: Written by Paul in Corinth.
+    description: Book of 1 Thessalonians completed; Written by Paul in Corinth.
 
   - id: book-of-2nd-thessalonians-completed
-    title: 2 Thessalonians Completed
+    title: 2Th
     startDate: 51
     startDateCertainty: circa
-    description: Written by Paul in Corinth.
+    description: Book of 2 Thessalonians completed; Written by Paul in Corinth.
 
   - id: book-of-1st-corinthians-completed
-    title: 1 Corinthians Completed
+    title: 1Co
     startDate: 55
     startDateCertainty: circa
-    description: Written by Paul in Ephesus.
+    description: Book of 1 Corinthians completed; Written by Paul in Ephesus.
 
   - id: book-of-2nd-corinthians-completed
-    title: 2 Corinthians Completed
+    title: 2Co
     startDate: 55
     startDateCertainty: circa
-    description: Written by Paul in Macedonia.
+    description: Book of 2 Corinthians completed; Written by Paul in Macedonia.
 
   - id: book-of-luke-completed
-    title: Luke Completed
+    title: Lu
     startDate: 56
     startDateCertainty: circa
-    description: Written by Luke in Caesarea.
+    description: Book of Luke completed; Written by Luke in Caesarea.
 
   - id: book-of-romans-completed
-    title: Romans Completed
+    title: Ro
     startDate: 56
     startDateCertainty: circa
-    description: Written by Paul in Corinth.
+    description: Book of Romans completed; Written by Paul in Corinth.
 
   - id: book-of-ephesians-completed
-    title: Ephesians, Philippians, Colossians, and Philemon Completed
+    title: Eph, Php, Col, Phm
     startDate: 60
     startDateCertainty: circa
-    description: Written by Paul in Rome.
+    description: Books of Ephesians, Philippians, Colossians, and Philemon completed; Written by Paul in Rome.
 
   - id: book-of-mark-completed
-    title: Mark Completed
+    title: Mr
     startDate: 61
     startDateCertainty: circa
-    description: Written by Mark in Rome.
+    description: Book of Mark completed; Written by Mark in Rome.
 
   - id: book-of-acts-completed
-    title: Acts Completed
+    title: Ac
     startDate: 61
     startDateCertainty: circa
-    description: Written by Luke in Rome.
+    description: Book of Acts completed; Written by Luke in Rome.
 
   - id: book-of-1st-timothy-completed
-    title: 1 Timothy Completed
+    title: 1Ti
     startDate: 61
     startDateCertainty: circa
-    description: Written by Paul in Macedonia.
+    description: Book of 1 Timothy completed; Written by Paul in Macedonia.
 
   - id: book-of-titus-completed
-    title: Titus Completed
+    title: Tit
     startDate: 61
     startDateCertainty: circa
-    description: Written by Paul in Macedonia or Crete.
+    description: Book of Titus completed; Written by Paul in Macedonia or Crete.
 
   - id: book-of-hebrews-completed
-    title: Hebrews Completed
+    title: Heb
     startDate: 61
     startDateCertainty: circa
-    description: Written by Paul in Rome.
+    description: Book of Hebrews completed; Written by Paul in Rome.
 
   - id: book-of-james-completed
-    title: James Completed
+    title: Jas
     startDate: 62
     startDateCertainty: circa
-    description: Written by James (brother of Jesus) in Jerusalem.
+    description: Book of James completed; Written by James (brother of Jesus) in Jerusalem.
 
   - id: book-of-1st-peter-completed
-    title: 1 Peter Completed
+    title: 1Pe
     startDate: 62
     startDateCertainty: circa
-    description: Written by Peter in Babylon.
+    description: Book of 1 Peter completed; Written by Peter in Babylon.
 
   - id: book-of-2nd-peter-completed
-    title: 2 Peter Completed
+    title: 2Pe
     startDate: 64
     startDateCertainty: circa
-    description: Written by Peter in Babylon (?).
+    description: Book of 2 Peter completed; Written by Peter in Babylon (?).
 
   - id: book-of-2nd-timothy-completed
-    title: 2 Timothy Completed
+    title: 2Ti
     startDate: 65
     startDateCertainty: circa
-    description: Written by Paul in Rome.
+    description: Book of 2 Timothy completed; Written by Paul in Rome.
 
   - id: book-of-jude-completed
-    title: Jude Completed
+    title: Jude
     startDate: 65
     startDateCertainty: circa
-    description: Written by Jude (brother of Jesus) in Palestine (?).
+    description: Book of Jude completed; Written by Jude (brother of Jesus) in Palestine (?).
 
   - id: book-of-revelation-completed
-    title: Revelation Completed
+    title: Re
     startDate: 96
     startDateCertainty: circa
-    description: Written by Apostle John in Patmos.
+    description: Book of Revelation completed; Written by Apostle John in Patmos.
 
   - id: book-of-john-completed
-    title: John Completed
+    title: Joh
     startDate: 98
     startDateCertainty: circa
-    description: Written by Apostle John in Ephesus, or near.
+    description: Book of John completed; Written by Apostle John in Ephesus, or near.
 
   - id: book-of-1st-john-completed
-    title: 1 John Completed
+    title: 1Jo
     startDate: 98
     startDateCertainty: circa
-    description: Written by Apostle John in Ephesus, or near.
+    description: Book of 1 John completed; Written by Apostle John in Ephesus, or near.
 
   - id: book-of-2nd-john-completed
-    title: 2 John Completed
+    title: 2Jo
     startDate: 98
     startDateCertainty: circa
-    description: Written by Apostle John in Ephesus, or near.
+    description: Book of 2 John completed; Written by Apostle John in Ephesus, or near.
 
   - id: book-of-3rd-john-completed
-    title: 3 John Completed
+    title: 3Jo
     startDate: 98
     startDateCertainty: circa
-    description: Written by Apostle John in Ephesus, or near.
+    description: Book of 3 John completed; Written by Apostle John in Ephesus, or near.
 
   - id: anglo-america-world-power
     title: Anglo-America 7th World Power
