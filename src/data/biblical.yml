@@ -4284,12 +4284,6 @@ events:
     startDate: -940
     description: (1 Ki 16:34) Hiel rebuilds Jericho at cost of his first born and youngest, fulfilling Joshua's curse (Jos 6:26).
 
-  - id: moabite-stone
-    title: Moabite Stone (Mesha Stele)
-    startDate: -900
-    startDateCertainty: circa
-    description: Moabite Stone (Mesha Stele) mentions Jehovah's name.
-
   - id: book-of-jonah-completed
     title: Jon
     startDate: -844
@@ -4307,12 +4301,6 @@ events:
     startDate: -804
     startDateCertainty: circa
     description: Book of Amos completed; Written by Amos in Judah.
-
-  - id: miqneyaw-seal
-    title: Miqneyaw Seal
-    startDate: -800
-    startDateCertainty: circa
-    description: Jasper seal engraved with 'belonging to Miqneyaw, the servant of Jehovah'.
 
   - id: book-of-hosea-completed
     title: Ho

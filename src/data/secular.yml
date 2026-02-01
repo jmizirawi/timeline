@@ -472,6 +472,18 @@ people:
 
 events:
 
+  - id: moabite-stone
+    title: Moabite Stone (Mesha Stele)
+    startDate: -900
+    startDateCertainty: circa
+    description: Moabite Stone (Mesha Stele) mentions Jehovah's name.
+
+  - id: miqneyaw-seal
+    title: Miqneyaw Seal
+    startDate: -800
+    startDateCertainty: circa
+    description: Jasper seal engraved with 'belonging to Miqneyaw, the servant of Jehovah'.
+
   - id: peloponnesian-war-431
     title: Peloponnesian War; Athens vs Sparta
     startDate: -431
