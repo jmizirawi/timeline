@@ -1,8 +1,60 @@
 people:
-
-  - id: pythagoras-greek-philosopher
-    name: Pythagoras (Greek Philosopher)
+  - id: hammurabi
+    name: Hammurabi
+    born: -1810
+    bornCertainty: circa
+    died: -1750
+    diedCertainty: circa
+    url: https://en.wikipedia.org/wiki/Hammurabi
+    description: Sixth king of the First Babylonian dynasty, renowned for the Code of Hammurabi, one of the earliest and most complete written legal codes.
+    lifeEvents:
+      - startDate: -1810
+        title: Born
+      - startDate: -1792
+        title: Begins reign as King of Babylon
+      - startDate: -1750
+        title: Died
+  - id: laozi
+    name: Laozi (Lao Tzu)
+    born: -600
+    bornCertainty: guess
+    died: -500
+    diedCertainty: guess
+    url: https://en.wikipedia.org/wiki/Laozi
+    description: Semi-legendary ancient Chinese philosopher, credited as the founder of philosophical Taoism.
+    lifeEvents:
+      - startDate: -600
+        title: Born
+      - startDate: -500
+        title: Died
+  - id: zoroaster
+    name: Zoroaster
+    born: -599
+    bornCertainty: guess
+    died: -522
+    diedCertainty: guess
+    url: https://en.wikipedia.org/wiki/Zoroaster
+    description: Ancient Iranian spiritual leader who founded Zoroastrianism.
+    lifeEvents:
+      - startDate: -599
+        title: Born
+      - startDate: -522
+        title: Died
+  - id: mahavira
+    name: Mahavira
+    born: -599
+    died: -527
+    url: https://en.wikipedia.org/wiki/Mahavira
+    description: The 24th Tirthankara of Jainism who revived, reorganized, and significantly expanded the religion.
+    lifeEvents:
+      - startDate: -599
+        title: Born
+      - startDate: -527
+        title: Died
+  - id: pythagoras
+    name: Pythagoras
     born: -570
+    description: Greek philosopher and mathematician from Samos who founded the mystical-philosophical school of Pythagoreanism. He taught the transmigration of souls (metempsychosis) and that numbers form the underlying reality of the cosmos, profoundly influencing Plato and later Greek thought.
     lifeEvents:
       - startDate: -570
         title: Pythagoras born
@@ -10,45 +62,69 @@ people:
         title: Pythagoras dies
     died: -495
     url: https://en.wikipedia.org/wiki/Pythagoras
-
+  - id: siddhartha-gautama
+    name: Siddhartha Gautama (The Buddha)
+    born: -563
+    bornCertainty: circa
+    died: -483
+    diedCertainty: circa
+    url: https://en.wikipedia.org/wiki/The_Buddha
+    description: Ascetic and religious teacher of South Asia whose teachings on suffering and enlightenment became the foundation of Buddhism.
+    lifeEvents:
+      - startDate: -563
+        title: Born
+      - startDate: -483
+        title: Died
+  - id: confucius
+    name: Confucius (Kong Fuzi)
+    born: -551
+    died: -479
+    url: https://en.wikipedia.org/wiki/Confucius
+    description: Chinese philosopher and politician whose teachings on ethics, philosophy, and family greatly influenced East Asian culture.
+    lifeEvents:
+      - startDate: -551
+        title: Born
+      - startDate: -479
+        title: Died
   - id: socrates
     name: Socrates
     born: -470
     died: -399
     url: https://en.wikipedia.org/wiki/Socrates
+    description: Athenian philosopher regarded as the founder of Western philosophy who developed the Socratic method of critical inquiry through dialogue and questioning. He was condemned to death by drinking hemlock in 399 BCE for allegedly corrupting youth and showing impiety toward the city's gods.
     lifeEvents:
       - startDate: -470
         title: Born
       - startDate: -399
         title: Executed
-
   - id: plato
     name: Plato
     born: -427
     died: -347
     url: https://en.wikipedia.org/wiki/Plato
+    description: Athenian philosopher and student of Socrates who founded the Academy in Athens, one of the earliest institutions of higher learning in the Western world. His dialogues examining justice, the soul, politics, and the Theory of Forms shaped Western philosophy and later deeply influenced both Christian and Islamic theology.
     lifeEvents:
       - startDate: -427
         title: Born
       - startDate: -347
         title: Died
-
   - id: aristotle
     name: Aristotle
     born: -384
     url: https://en.wikipedia.org/wiki/Aristotle
+    description: Greek philosopher and polymath who studied under Plato and tutored Alexander the Great. His encyclopedic writings on logic, biology, physics, ethics, and politics formed the intellectual backbone of Western civilization and were later incorporated into Catholic scholastic theology by Thomas Aquinas.
     lifeEvents:
       - startDate: -384
         title: Aristotle born
       - startDate: -322
         title: Aristotle dies
     died: -322
-
   - id: alexander-the-great
     name: Alexander the Great
     born: -356
     died: -323
     url: https://en.wikipedia.org/wiki/Alexander_the_Great
+    description: King of Macedon who created one of the ancient world's largest empires, stretching from Greece to northwestern India in just 13 years. His swift campaigns fulfilled the Bible's prophetic description of the conspicuous male goat (Dan. 8:5), and his spread of Greek language and culture across the Near East prepared the way for the New Testament writings.
     lifeEvents:
       - startDate: -356
         title: Born
@@ -60,11 +136,44 @@ people:
         title: Greek army conquors Gaza, Philistine captial
       - startDate: -323
         title: Died
-
-  - id: judas-maccabeus-king-of-judaea
-    name: Judas Maccabeus (King of Judaea)
+  - id: emperor-ashoka
+    name: Emperor Ashoka
+    born: -304
+    bornCertainty: circa
+    died: -232
+    url: https://en.wikipedia.org/wiki/Ashoka
+    description: Emperor of the Maurya dynasty who, horrified by the carnage of the Kalinga War, converted to Buddhism and became its greatest royal patron. He spread the Buddha's teachings across Asia through edicts carved on pillars and rocks, and commissioned missionaries to Sri Lanka, Central Asia, and the Mediterranean world.
+    lifeEvents:
+      - startDate: -304
+        startDateCertainty: circa
+        title: Born
+      - startDate: -268
+        title: Begins reign over the Maurya Empire
+      - startDate: -261
+        title: Converts to Buddhism after the devastating Kalinga War
+      - startDate: -250
+        startDateCertainty: circa
+        title: Hosts Third Buddhist Council at Pataliputra; commissions Buddhist missions across Asia
+      - startDate: -232
+        title: Died
+  - id: qin-shi-huang
+    name: Qin Shi Huang
+    born: -259
+    died: -210
+    url: https://en.wikipedia.org/wiki/Qin_Shi_Huang
+    description: Founder of the Qin dynasty and the first emperor of a unified China, known for his administrative reforms and public works.
+    lifeEvents:
+      - startDate: -259
+        title: Born
+      - startDate: -221
+        title: Becomes first Emperor of unified China
+      - startDate: -210
+        title: Died
+  - id: judas-maccabeus
+    name: Judas Maccabeus
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/judas-maccabeus/
     born: -190
+    description: Jewish military leader who led the Maccabean revolt against the Seleucid king Antiochus IV Epiphanes, who had desecrated the Jerusalem temple with pagan offerings. His victory in 164 BCE and the rededication of the cleansed temple gave rise to the festival of Hanukkah and temporarily restored Jewish self-rule in Judea.
     lifeEvents:
       - startDate: -190
         title: Maccabeus born
@@ -74,11 +183,11 @@ people:
         title: Maccabaeus rededicated cleansed temple to Jehovah with festival (Hanukkah)
     died: -90
     diedCertainty: guess
-
-  - id: john-hyrcanus-king-of-judaea
-    name: John Hyrcanus (King of Judaea)
+  - id: john-hyrcanus
+    name: John Hyrcanus
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/john-hyrcanus/
     born: -164
+    description: Hasmonean high priest and ruler of Judea who greatly expanded the Jewish state following the Maccabean revolt. He is notable for forcibly converting the Idumeans (Edomites) to Judaism—an act with lasting consequences, as their descendant Herod the Great would later become king of Judea and rule during the birth of Jesus Christ.
     lifeEvents:
       - startDate: -164
         title: Hyrcanus born
@@ -90,12 +199,12 @@ people:
         title: Forces coversion/circumcision on Idumeans (Edomites)
     died: -64
     diedCertainty: guess
-
   - id: antipater-i-the-idumaean
     name: Antipater I the Idumaean
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/antipater-i-the-idumaean/
     born: -133
     bornCertainty: guess
+    description: Idumean politician and father of Herod the Great who founded the Herodian dynasty through political alliance with Rome. He was appointed the first Roman procurator of Judea by Julius Caesar in 47 BCE, laying the political groundwork that enabled his son Herod to rule as king during the time of Jesus' birth.
     lifeEvents:
       - startDate: -113
         title: Antipater I the Idumaean
@@ -106,11 +215,11 @@ people:
       - startDate: -43
         title: Antipater I dies
     died: -43
-
-  - id: alexander-jannaeus-king-of-judaea
-    name: Alexander Jannaeus (King of Judaea)
+  - id: alexander-jannaeus
+    name: Alexander Jannaeus
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/alexander-jannaeus/
     born: -127
+    description: Hasmonean king and high priest of Judea who expanded the kingdom to its greatest territorial extent through military campaigns. His brutal suppression of Pharisaic opposition—including the crucifixion of 800 opponents—deepened sectarian divisions within Judaism that would persist through the New Testament era.
     lifeEvents:
       - startDate: -127
         title: Jannaeus born
@@ -119,23 +228,36 @@ people:
       - startDate: -76
         title: Alexander dies
     died: -76
-
   - id: julius-caesar
     name: Julius Caesar
     born: -100
     died: -44
     url: https://en.wikipedia.org/wiki/Julius_Caesar
+    description: Roman general, statesman, and dictator who transformed the Roman Republic through military conquest and political reform. His assassination on the Ides of March (44 BCE) triggered civil wars that ended the Republic and paved the way for the Roman Empire under his adopted heir Augustus.
     lifeEvents:
       - startDate: -100
         title: Born
       - startDate: -44
         title: Assassinated
-
+  - id: cleopatra-vii
+    name: Cleopatra VII
+    born: -69
+    died: -30
+    url: https://en.wikipedia.org/wiki/Cleopatra
+    description: Last active ruler of the Ptolemaic Kingdom of Egypt, noted for her political alliances with Julius Caesar and Mark Antony.
+    lifeEvents:
+      - startDate: -69
+        title: Born
+      - startDate: -51
+        title: Begins reign
+      - startDate: -30
+        title: Died
   - id: augustus
     name: Augustus
     born: -63
     died: 14
     url: https://en.wikipedia.org/wiki/Augustus
+    description: First Roman Emperor who established the Principate and ushered in the Pax Romana, a period of relative peace and stability across the empire. He ruled during the birth of Jesus Christ—Luke 2:1 records that Caesar Augustus issued a decree for a census of the entire inhabited earth—and oversaw Rome at the height of its power.
     lifeEvents:
       - startDate: -63
         title: Born
@@ -143,11 +265,11 @@ people:
         title: Becomes Emperor
       - startDate: 14
         title: Died
-
   - id: philip-the-tetrarch
     name: Philip the Tetrarch
     born: -20
     bornCertainty: guess
+    description: Son of Herod the Great who governed Iturea, Trachonitis, and surrounding territories northeast of the Sea of Galilee as a tetrarch from 4 BCE. He rebuilt and renamed the city of Caesarea Philippi, the very location where Jesus asked his disciples "Who do you say I am?" (Matt. 16:13), and was considered the most just of Herod's sons.
     lifeEvents:
       - startDate: -4
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/philip/
@@ -158,10 +280,10 @@ people:
         title: Dies
     died: 34
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/philip/
-
-  - id: josephus-historian
-    name: Josephus (Historian)
+  - id: josephus
+    name: Josephus
     born: 37
+    description: First-century Jewish historian, priest, and Roman citizen whose writings are among the most important non-biblical sources for Second Temple Judaism. His works "Jewish Antiquities" and "The Jewish War" contain notable references to John the Baptist, James the brother of Jesus, and Jesus himself, as well as detailed accounts of the destruction of Jerusalem in 70 CE.
     lifeEvents:
       - startDate: 37
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josephus/
@@ -169,10 +291,10 @@ people:
     died: 137
     diedCertainty: guess
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/josephus/
-
   - id: ignatius-of-antioch
     name: Ignatius of Antioch
     born: 50
+    description: Early bishop of Antioch who wrote seven influential letters on his journey to martyrdom in Rome. He was a key promoter of a three-tier church hierarchy of bishops, presbyters, and deacons, departing from the simpler congregational structure of the apostolic era and accelerating the post-apostolic drift toward hierarchical church governance.
     lifeEvents:
       - startDate: 50
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ignatius-of-antioch/
@@ -183,10 +305,10 @@ people:
     died: 150
     diedCertainty: guess
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/ignatius-of-antioch/
-
   - id: polycarp-of-smyrna
     name: Polycarp of Smyrna
     born: 69
+    description: Bishop of Smyrna and disciple of the Apostle John who was martyred at approximately age 86 for refusing to renounce Christ. His letter to the Philippians and the "Martyrdom of Polycarp" are important documents of early post-apostolic Christianity, and his long life bridged the apostolic and post-apostolic eras.
     lifeEvents:
       - startDate: 69
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/polycarp-of-smyrna/
@@ -196,10 +318,10 @@ people:
         title: Polycarp martyred for refusing to burn incense to the Roman Emperor
     died: 155
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/polycarp-of-smyrna/
-
   - id: justin-martyr
     name: Justin Martyr
     born: 100
+    description: Second-century Christian philosopher and apologist who wrote two "Apologies" defending Christianity to Roman emperors and a "Dialogue with Trypho" engaging Jewish objections. He was one of the first to use Greek philosophy to explain Christian doctrines, and was beheaded in Rome for refusing to sacrifice to pagan gods.
     lifeEvents:
       - startDate: 100
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
@@ -213,10 +335,10 @@ people:
     died: 165
     diedCertainty: guess
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/justin-martyr/
-
   - id: irenaeus
     name: Irenaeus
     born: 130
+    description: Bishop of Lyon and one of the earliest systematic Christian theologians whose work "Against Heresies" documented and refuted Gnosticism. He championed the authority of the four canonical Gospels and apostolic succession, shaping what would become orthodox Christianity's response to diverse early Christian movements.
     lifeEvents:
       - startDate: 130
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/irenaeus/
@@ -226,10 +348,10 @@ people:
         title: Irenaeus dies
     died: 202
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/irenaeus/
-
   - id: athenagoras-of-athens
     name: Athenagoras of Athens
     born: 133
+    description: Christian philosopher of Athens who wrote "A Plea for the Christians" (c. 177 CE) defending Christianity against charges of atheism, cannibalism, and incest before Emperor Marcus Aurelius. He was among the earliest thinkers to articulate a philosophical defense of the Trinity, blending Platonic philosophy with Christian theology.
     lifeEvents:
       - startDate: 133
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athenagoras-of-athens/
@@ -239,10 +361,28 @@ people:
         title: Athenagoras dies
     died: 190
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/athenagoras-of-athens/
-
+  - id: nagarjuna
+    name: Nagarjuna
+    born: 150
+    bornCertainty: circa
+    died: 250
+    diedCertainty: circa
+    url: https://en.wikipedia.org/wiki/Nagarjuna
+    description: Indian Buddhist monk and philosopher who founded the Madhyamaka (Middle Way) school of Mahayana Buddhism. His doctrine of sunyata (emptiness) became central to Mahayana philosophy and profoundly shaped later Buddhist thought across East Asia and Tibet.
+    lifeEvents:
+      - startDate: 150
+        startDateCertainty: circa
+        title: Born in southern India
+      - startDate: 200
+        startDateCertainty: circa
+        title: Composes the Mulamadhyamakakarika, foundational Mahayana philosophical text
+      - startDate: 250
+        startDateCertainty: circa
+        title: Died
   - id: tertullian
     name: Tertullian
     born: 155
+    description: 'Prolific early Christian writer from Carthage and the first major theologian to write in Latin, who coined the theological term "Trinity" (Latin: trinitas). His legal training gave his writings a sharp argumentative edge that shaped foundational Western Christian vocabulary and theology, though he later joined the Montanist movement.'
     lifeEvents:
       - startDate: 155
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
@@ -255,10 +395,10 @@ people:
         title: Tertullian dies
     died: 220
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/tertullian/
-
   - id: cyprian-of-carthage
     name: Cyprian of Carthage
     born: 210
+    description: Bishop of Carthage and influential church father who became a major advocate for the supreme authority of bishops over presbyters, deacons, and laity. His writings on ecclesiastical unity and episcopal hierarchy significantly shaped the structure of the Roman Catholic Church and the concept of apostolic succession.
     lifeEvents:
       - startDate: 210
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/cyprian-of-carthage/
@@ -269,10 +409,36 @@ people:
     died: 310
     diedCertainty: guess
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/cyprian-of-carthage/
-
-  - id: emperor-constantine
-    name: Emperor Constantine
+  - id: arius
+    name: Arius
+    born: 256
+    bornCertainty: circa
+    died: 336
+    url: https://www.jw.org/en/library/books/Mankinds-Search-for-God/Apostasy-The-Way-to-God-Blocked/
+    description: Alexandrian priest whose teaching that the Son of God was a created being subordinate to the Father—"there was a time when he was not"—triggered the defining theological crisis of early Christianity. His position aligned with the earlier consensus of pre-Nicene writers and provoked Emperor Constantine to convene the Council of Nicaea (325 CE), where Arius was condemned and exiled, though his views continued to spread widely for decades afterward.
+    lifeEvents:
+      - startDate: 256
+        startDateCertainty: circa
+        title: Born in Libya (Cyrenaica)
+      - startDate: 311
+        startDateCertainty: circa
+        title: Ordained as presbyter in Alexandria under Bishop Peter
+      - startDate: 318
+        startDateCertainty: circa
+        title: Begins teaching that the Son was created by the Father and therefore not co-eternal — "there was a time when he was not"
+      - startDate: 320
+        startDateCertainty: circa
+        title: Condemned and excommunicated by a local synod in Alexandria under Bishop Alexander
+      - startDate: 325
+        title: Council of Nicaea convened; Arius's views condemned, Nicene Creed adopted, Arius exiled
+      - startDate: 327
+        title: Constantine recalls Arius from exile after receiving his written statement of faith
+      - startDate: 336
+        title: Dies suddenly in Constantinople on the eve of his planned reinstatement to the Alexandrian church
+  - id: constantine
+    name: Constantine
     born: 272
+    description: First Roman Emperor to convert to Christianity, whose Edict of Milan (313 CE) granted religious tolerance throughout the empire and effectively ended the persecution of Christians. He convened the First Council of Nicaea (325 CE) to settle disputes about Christ's nature and moved the imperial capital east to Constantinople, transforming Christianity from a persecuted sect into the dominant religion of the Roman world.
     lifeEvents:
       - startDate: 272
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
@@ -288,10 +454,10 @@ people:
         title: Constantine dies (65 years)
     died: 337
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/emperor-constantine/
-
   - id: augustine-of-hippo
     name: Augustine of Hippo
     born: 354
+    description: North African bishop and theologian whose prolific writings shaped Western Christianity more than any other thinker after Paul. His doctrines of original sin, predestination, divine grace, and the nature of the Church—found in "Confessions" and "City of God"—became foundational for both Roman Catholic and Protestant theology and remain deeply influential to this day.
     lifeEvents:
       - startDate: 354
         url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
@@ -304,59 +470,148 @@ people:
         title: Augustine dies
     died: 430
     url: https://www.jw.org/en/library/books/insight-on-the-scriptures/augustine-of-hippo/
-
-  - id: muhammad-ibn-abdullah
-    name: Muhammad ibn Abdullah
+  - id: muhammad
+    name: Muhammad
     born: 570
+    description: Founder of Islam who claimed to receive divine revelations from the angel Gabriel, later recorded in the Quran. He united the fractious Arab tribes under a new monotheistic religion and established both a religious community (ummah) and a political state, whose rapid expansion after his death created one of history's largest empires.
     lifeEvents:
       - startDate: 570
-        title: Muhammad born
+        title: Born in Mecca into the Quraysh tribe
+      - startDate: 576
+        startDateCertainty: circa
+        title: Mother Aminah dies; raised by grandfather then uncle Abu Talib
+      - startDate: 595
+        title: Marries Khadijah, a wealthy merchant widow who becomes his first wife and supporter
       - startDate: 610
-        title: Claims to be prophet
+        title: Claims first revelation in the Cave of Hira on Mount Jabal al-Nour; begins preaching monotheism in Mecca
+      - startDate: 613
+        title: Begins public preaching; faces growing opposition from Meccan polytheists
+      - startDate: 619
+        title: Year of Sorrow — Khadijah and uncle Abu Talib both die, removing his two key protectors
+      - startDate: 622
+        title: Hijra — flees Mecca to Medina with followers; year marks the start of the Islamic calendar
+      - startDate: 624
+        title: Battle of Badr — first major military victory against Meccan forces
+      - startDate: 625
+        title: Battle of Uhud — Muslim forces suffer setback against Meccan army
+      - startDate: 627
+        title: Battle of the Trench — Medina successfully defended against Meccan coalition
+      - startDate: 628
+        title: Treaty of Hudaybiyyah — 10-year truce with Mecca; pilgrimage rights negotiated
+      - startDate: 630
+        title: Conquest of Mecca — enters largely unopposed; destroys idols in the Kaaba
+      - startDate: 632
+        title: Farewell Pilgrimage to Mecca; delivers final sermon at Mount Arafat
+      - startDate: 632
+        title: Died in Medina; Abu Bakr becomes first caliph
     died: 632
     url: https://en.wikipedia.org/wiki/Muhammad
-
   - id: abu-bakr
     name: Abu Bakr
     born: 573
+    description: Muhammad's closest companion and father-in-law, who became the first caliph of Islam upon the prophet's death in 632 CE. During his brief two-year caliphate he suppressed the apostasy wars (Ridda wars) that threatened to fracture the early Muslim community, and oversaw the first compilation of the Quran into a single written volume.
     lifeEvents:
       - startDate: 573
-        title: Abu Bakr born
-      - startDate: 576
-        title: Uthman born
-      - startDate: 583
-        title: Umar born
+        title: Born
+      - startDate: 632
+        title: Becomes first Caliph upon Muhammad's death
+      - startDate: 632
+        title: Suppresses Ridda (apostasy) wars, preserving Muslim unity
+      - startDate: 633
+        title: Orders first compilation of the Quran into a single manuscript
+      - startDate: 634
+        title: Died of illness
     died: 634
     url: https://en.wikipedia.org/wiki/Abu_Bakr
-
+  - id: prince-shotoku
+    name: Prince Shotoku
+    born: 574
+    died: 622
+    url: https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+    description: Japanese regent and statesman who championed the introduction of Buddhism and Confucianism into Japan. He issued the Seventeen-article Constitution incorporating Buddhist and Confucian principles, built major Buddhist temples including Horyuji, and shaped the foundations of Japanese civilization and governance.
+    lifeEvents:
+      - startDate: 574
+        title: Born
+      - startDate: 593
+        title: Appointed regent to Empress Suiko; promotes Buddhism as state ideology
+      - startDate: 604
+        title: Issues Seventeen-article Constitution blending Buddhism, Confucianism, and Shinto principles
+      - startDate: 607
+        title: Builds Horyuji temple complex, one of the world's oldest surviving wooden structures
+      - startDate: 622
+        title: Died
+  - id: uthman-ibn-affan
+    name: Uthman ibn Affan
+    born: 576
+    bornCertainty: circa
+    description: Third caliph of Islam and son-in-law of Muhammad, whose 12-year caliphate saw vast Islamic territorial expansion into Persia, North Africa, and Central Asia. He is most remembered for commissioning the standardized written text of the Quran—distributing copies to the major cities and burning variant versions—an act that preserved a uniform scripture for all Muslims.
+    lifeEvents:
+      - startDate: 576
+        startDateCertainty: circa
+        title: Born in Mecca
+      - startDate: 611
+        startDateCertainty: circa
+        title: Among the earliest converts to Islam
+      - startDate: 644
+        title: Becomes third Caliph following Umar's assassination
+      - startDate: 650
+        startDateCertainty: circa
+        title: Commissions standardized written Quran; variant copies burned
+      - startDate: 656
+        title: Assassinated by rebels in Medina
+    died: 656
+    url: https://en.wikipedia.org/wiki/Uthman
+  - id: umar-ibn-al-khattab
+    name: Umar ibn al-Khattab
+    born: 583
+    bornCertainty: circa
+    description: Second caliph of Islam whose 10-year reign saw the most dramatic expansion of the early Islamic state, conquering Persia, Egypt, and the Levant. He captured Jerusalem in 638, established the administrative structure of the Islamic empire, and is revered by Sunni Muslims as one of the greatest caliphs.
+    lifeEvents:
+      - startDate: 583
+        startDateCertainty: circa
+        title: Born in Mecca
+      - startDate: 616
+        startDateCertainty: circa
+        title: Converts to Islam
+      - startDate: 634
+        title: Becomes second Caliph following Abu Bakr's death
+      - startDate: 636
+        title: Battle of al-Qadisiyyah; Arab forces defeat the Sassanid Persian Empire
+      - startDate: 638
+        title: Surrenders Jerusalem; Omar enters the city and negotiates its peaceful handover
+      - startDate: 644
+        title: Assassinated by a Persian slave in Medina
+    died: 644
+    url: https://en.wikipedia.org/wiki/Umar
   - id: ali
-    name: Ali
+    name: Ali ibn Abi Talib
     born: 600
+    description: Cousin and son-in-law of Muhammad who became the fourth caliph of Islam. His disputed succession—some Muslims believed him to be Muhammad's rightful immediate heir—gave rise to the Sunni-Shia split, the deepest and most enduring sectarian division within Islam, which continues to shape Muslim communities worldwide.
     lifeEvents:
       - startDate: 600
-        title: Ali born
-      - startDate: 634
-        title: Abu Bakr dies of illness
-      - startDate: 638
-        title: Jerusalem captured by Arab army
-      - startDate: 644
-        title: Umor assasinated
+        title: Born in Mecca
+      - startDate: 610
+        startDateCertainty: circa
+        title: Among the first to accept Muhammad as prophet
+      - startDate: 623
+        startDateCertainty: circa
+        title: Marries Fatimah, Muhammad's daughter
       - startDate: 656
-        title: Uthman assasinated
+        title: Becomes fourth Caliph following Uthman's assassination
+      - startDate: 656
+        title: Battle of the Camel against Aisha and Companions; first Muslim civil war (First Fitna) begins
+      - startDate: 657
+        title: Battle of Siffin against Muawiyah ibn Abi Sufyan ends in disputed arbitration
       - startDate: 661
-        title: Ali assasinated
-      - startDate: 674
-        title: First Arab siege of Constantinople
-      - startDate: 698
-        title: Arab army takes Carthage
+        title: Assassinated in Kufa by a Kharijite; Muawiyah establishes Umayyad Caliphate
     died: 661
     url: https://en.wikipedia.org/wiki/Ali
-
   - id: charlemagne
     name: Charlemagne
     born: 747
     died: 814
     url: https://en.wikipedia.org/wiki/Charlemagne
+    description: King of the Franks who became the first Holy Roman Emperor when crowned by Pope Leo III on Christmas Day 800 CE. His reign united much of Western Europe under Frankish rule, forged a defining alliance between political power and the Roman Catholic Church, and sparked the Carolingian Renaissance of arts and scholarship.
     lifeEvents:
       - startDate: 747
         title: Born
@@ -364,12 +619,36 @@ people:
         title: Crowned Emperor
       - startDate: 814
         title: Died
-
+  - id: adi-shankaracharya
+    name: Adi Shankaracharya
+    born: 788
+    died: 820
+    url: https://en.wikipedia.org/wiki/Adi_Shankara
+    description: Indian Hindu philosopher and theologian who consolidated the doctrine of Advaita Vedanta, teaching that the individual soul (Atman) is identical with the universal spirit (Brahman). He reorganized Hindu monasticism and wrote influential commentaries on the Upanishads, Bhagavad Gita, and Brahma Sutras.
+    lifeEvents:
+      - startDate: 788
+        title: Born in Kaladi, Kerala
+      - startDate: 800
+        title: Writes commentaries on the Upanishads and Bhagavad Gita
+      - startDate: 820
+        title: Died
+  - id: ramanuja
+    name: Ramanuja
+    born: 1017
+    died: 1137
+    url: https://en.wikipedia.org/wiki/Ramanuja
+    description: Indian Vaishnava theologian and philosopher who founded the Vishishtadvaita school of Vedanta, teaching a devotional path (bhakti) to a personal God (Vishnu). His work significantly shaped the Bhakti movement, which spread devotional Hinduism across India.
+    lifeEvents:
+      - startDate: 1017
+        title: Born in Tamil Nadu
+      - startDate: 1137
+        title: Died
   - id: william-the-conqueror
     name: William the Conqueror
     born: 1028
     died: 1087
     url: https://en.wikipedia.org/wiki/William_the_Conqueror
+    description: Duke of Normandy who defeated Anglo-Saxon King Harold II at the Battle of Hastings in 1066 and became King of England. His conquest brought Norman French culture, feudalism, and closer ties to the Latin Church to Britain, fundamentally transforming the English language, legal system, and social structure.
     lifeEvents:
       - startDate: 1028
         title: Born
@@ -377,10 +656,10 @@ people:
         title: Battle of Hastings
       - startDate: 1087
         title: Died
-
   - id: genghis-khan
     name: Genghis Khan
     born: 1162
+    description: Founder and first Great Khan of the Mongol Empire, the largest contiguous land empire in history, stretching from the Pacific Ocean to Eastern Europe. His campaigns brought devastating destruction to Central Asia, China, and Persia, yet also created a vast network of trade and cultural exchange that connected East and West.
     lifeEvents:
       - startDate: 1162
         title: Genghis born
@@ -388,12 +667,12 @@ people:
         title: Genghis dies
     died: 1227
     url: https://en.wikipedia.org/wiki/Genghis_Khan
-
   - id: christopher-columbus
     name: Christopher Columbus
     born: 1451
     died: 1506
     url: https://en.wikipedia.org/wiki/Christopher_Columbus
+    description: Italian explorer sailing under the Spanish Crown who made first landfall in the Americas in 1492, inaugurating sustained contact between Europe and the New World. His four voyages triggered the Columbian Exchange of peoples, plants, animals, and diseases, and set in motion centuries of European colonization that permanently reshaped the globe.
     lifeEvents:
       - startDate: 1451
         title: Born
@@ -401,32 +680,54 @@ people:
         title: Discover Americas
       - startDate: 1506
         title: Died
-
   - id: leonardo-da-vinci
     name: Leonardo da Vinci
     born: 1452
     died: 1519
     url: https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    description: Florentine artist, scientist, and engineer widely regarded as the supreme Renaissance polymath whose genius spanned painting, sculpture, anatomy, engineering, and architecture. His masterworks—including the Mona Lisa and The Last Supper—remain among the world's most iconic art, while his visionary notebooks reveal insights into aviation and hydraulics centuries ahead of his time.
     lifeEvents:
       - startDate: 1452
         title: Born
       - startDate: 1519
         title: Died
-
+  - id: guru-nanak
+    name: Guru Nanak
+    born: 1469
+    died: 1539
+    url: https://en.wikipedia.org/wiki/Guru_Nanak
+    description: Founder of Sikhism and the first of the ten Sikh Gurus, advocating equality and leading a spiritual and social legacy.
+    lifeEvents:
+      - startDate: 1469
+        title: Born
+      - startDate: 1539
+        title: Died
+  - id: galileo-galilei
+    name: Galileo Galilei
+    born: 1564
+    died: 1642
+    url: https://en.wikipedia.org/wiki/Galileo_Galilei
+    description: Italian astronomer, physicist and engineer who championed heliocentrism and played a major role in the Scientific Revolution.
+    lifeEvents:
+      - startDate: 1564
+        title: Born
+      - startDate: 1642
+        title: Died
   - id: william-shakespeare
     name: William Shakespeare
     born: 1564
     died: 1616
     url: https://en.wikipedia.org/wiki/William_Shakespeare
+    description: English playwright, poet, and actor widely regarded as the greatest writer in the English language and the world's greatest dramatist. His 37 plays—including Hamlet, Macbeth, and Romeo and Juliet—and 154 sonnets explored the full range of human experience and have shaped literary and theatrical culture across the world for four centuries.
     lifeEvents:
       - startDate: 1564
         title: Born
       - startDate: 1616
         title: Died
-
   - id: isaac-newton
     name: Isaac Newton
     born: 1642
+    description: English mathematician and physicist who formulated the laws of universal gravitation and motion, co-developed calculus, and laid the foundations of classical mechanics. His "Philosophiæ Naturalis Principia Mathematica" (1687) transformed natural philosophy into modern physics and is considered one of the most influential scientific works ever written.
     lifeEvents:
       - startDate: 1642
         title: Isaac Newton born
@@ -434,21 +735,47 @@ people:
         title: Newton dies
     died: 1727
     url: https://en.wikipedia.org/wiki/Isaac_Newton
-
-  - id: muhammad-ibn-abd-al-wahhab
-    name: Muhammad ibn Abd al-Wahhab
+  - id: Wahhab
+    name: Wahhab
     born: 1703
+    description: Muhammad ibn Abd al-Wahhab was an 18th-century Arabian Islamic theologian and reformer who founded Wahhabism, a strict puritanical interpretation of Sunni Islam that rejected what he saw as polytheistic innovations and demanded a return to the Quran and Hadith. His alliance with Muhammad ibn Saud in 1744 laid the religious and political foundation for the modern Saudi state and has had lasting influence on global Islamic fundamentalism.
     lifeEvents:
       - startDate: 1703
-        title: Wahhab born
+        title: Muhammad ibn Abd al-Wahhab born
       - startDate: 1792
         title: Wahhab died
     died: 1792
     url: https://en.wikipedia.org/wiki/Muhammad_ibn_Abd_al-Wahhab
-
+  - id: joseph-smith
+    name: Joseph Smith
+    born: 1805
+    died: 1844
+    url: https://en.wikipedia.org/wiki/Joseph_Smith
+    description: American religious leader who founded the Latter Day Saint movement (Mormonism). He claimed to receive divine visions and translate golden plates into the Book of Mormon, and founded a new religious community that would grow into a major modern religion.
+    lifeEvents:
+      - startDate: 1805
+        title: Born in Vermont
+      - startDate: 1830
+        title: Publishes the Book of Mormon; founds the Church of Christ
+      - startDate: 1844
+        title: Killed by a mob in Carthage, Illinois
+  - id: charles-darwin
+    name: Charles Darwin
+    born: 1809
+    died: 1882
+    url: https://en.wikipedia.org/wiki/Charles_Darwin
+    description: English naturalist, geologist and biologist known for his foundational contributions to evolutionary biology.
+    lifeEvents:
+      - startDate: 1809
+        title: Born
+      - startDate: 1859
+        title: Publishes On the Origin of Species
+      - startDate: 1882
+        title: Died
   - id: otto-von-bismarck
     name: Otto Von Bismarck
     born: 1815
+    description: Prussian statesman and diplomat known as the "Iron Chancellor" who masterminded the unification of Germany under Prussian leadership in 1871. His policy of "Realpolitik"—pursuing political goals by any effective means regardless of ideology—transformed European geopolitics and made Germany the dominant continental power until World War I.
     lifeEvents:
       - startDate: 1815
         title: Bismarck born
@@ -456,12 +783,40 @@ people:
         title: Masterminds Unification of German Empire
     died: 1898
     url: https://en.wikipedia.org/wiki/Otto_von_Bismarck
-
+  - id: karl-marx
+    name: Karl Marx
+    born: 1818
+    died: 1883
+    url: https://en.wikipedia.org/wiki/Karl_Marx
+    description: German philosopher, political economist, and socialist revolutionary whose ideas profoundly shaped modern sociology and political economy.
+    lifeEvents:
+      - startDate: 1818
+        title: Born
+      - startDate: 1848
+        title: Publishes The Communist Manifesto
+      - startDate: 1883
+        title: Died
+  - id: mary-baker-eddy
+    name: Mary Baker Eddy
+    born: 1821
+    died: 1910
+    url: https://en.wikipedia.org/wiki/Mary_Baker_Eddy
+    description: American religious leader who founded Christian Science, teaching that sickness and evil are illusions overcome through prayer and right understanding of God. She authored Science and Health with Key to the Scriptures (1875) and founded the Church of Christ, Scientist.
+    lifeEvents:
+      - startDate: 1821
+        title: Born in New Hampshire
+      - startDate: 1875
+        title: Publishes Science and Health with Key to the Scriptures
+      - startDate: 1879
+        title: Founds the Church of Christ, Scientist in Boston
+      - startDate: 1910
+        title: Died
   - id: albert-einstein
     name: Albert Einstein
     born: 1879
     died: 1955
     url: https://en.wikipedia.org/wiki/Albert_Einstein
+    description: German-born theoretical physicist who developed the special and general theories of relativity, transforming humanity's understanding of space, time, gravity, and the cosmos. His famous equation E=mc² and his groundbreaking 1905 Annus Mirabilis papers earned him the 1921 Nobel Prize in Physics and established him as one of the most influential scientists in history.
     lifeEvents:
       - startDate: 1879
         title: Born
@@ -469,55 +824,106 @@ people:
         title: Annus Mirabilis Papers
       - startDate: 1955
         title: Died
-
 events:
-
+  - id: great-pyramid-giza
+    title: Great Pyramid of Giza
+    startDate: -2560
+    startDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+    description: Monumental Egyptian architecture that served as a tomb and demonstrates ancient engineering marvels.
+  - id: code-of-hammurabi
+    title: Code of Hammurabi
+    startDate: -1750
+    startDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Code_of_Hammurabi
+    description: One of the oldest deciphered writings of significant length in the world, illustrating early codified law and justice.
+  - id: vedas-composed
+    title: Composition of the Vedas
+    startDate: -1500
+    startDateCertainty: circa
+    endDate: -1200
+    endDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Vedas
+    description: The four Vedas—Rigveda, Samaveda, Yajurveda, and Atharvaveda—were composed in ancient India, forming the oldest and most authoritative scriptures of Hinduism. They contain hymns, liturgical formulas, and philosophical speculation that became the foundation of all subsequent Hindu religious thought.
   - id: moabite-stone
-    title: Moabite Stone (Mesha Stele)
+    title: Moabite Stone
     startDate: -900
     startDateCertainty: circa
     description: Moabite Stone (Mesha Stele) mentions Jehovah's name.
-
   - id: miqneyaw-seal
     title: Miqneyaw Seal
     startDate: -800
     startDateCertainty: circa
     description: Jasper seal engraved with 'belonging to Miqneyaw, the servant of Jehovah'.
-
-  - id: peloponnesian-war-431
-    title: Peloponnesian War; Athens vs Sparta
+  - id: upanishads-composed
+    title: Upanishads Composed
+    startDate: -800
+    startDateCertainty: circa
+    endDate: -200
+    endDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Upanishads
+    description: The principal Upanishads were composed as philosophical appendices to the Vedas, introducing core Hindu metaphysical concepts including Brahman (universal spirit), Atman (individual soul), karma (moral causation), and moksha (liberation). They form the basis of Vedanta philosophy and continue to shape Hindu thought worldwide.
+  - id: battle-of-marathon
+    title: Battle of Marathon
+    startDate: -490
+    url: https://en.wikipedia.org/wiki/Battle_of_Marathon
+    description: Key Greek victory over the Persian Empire that marked a turning point in the Greco-Persian Wars and preserved Greek culture.
+  - id: first-buddhist-council
+    title: First Buddhist Council
+    startDate: -483
+    startDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/First_Buddhist_council
+    description: Held at Rajagaha shortly after the Buddha's death, the First Council assembled 500 senior monks to recite and codify his teachings (Dhamma) and monastic rules (Vinaya). This oral compilation became the foundation of the Pali Canon and preserved Buddhist doctrine for future generations.
+  - id: battle-of-thermopylae
+    title: Battle of Thermopylae
+    startDate: -480
+    url: https://en.wikipedia.org/wiki/Battle_of_Thermopylae
+    description: Famous stand of the 300 Spartans that became a symbol of courage against overwhelming odds.
+  - id: peloponnesian-war
+    title: Peloponnesian War
     startDate: -431
     endDate: -404
     description: Ancient Greek war fought by the Delian League led by Athens against the Peloponnesian League led by Sparta.
-
-  - id: plague-of-athens-430
+  - id: plague-of-athens
     title: Plague of Athens
     startDate: -430
     endDate: -426
     description: Devastating epidemic which hit the city-state of Athens in ancient Greece during the second year of the Peloponnesian War.
-
-  - id: clergy-class-emerges
-    title: Clergy Class Emerges
-    startDate: 110
-
-  - id: pompeii
+  - id: third-buddhist-council
+    title: Third Buddhist Council
+    startDate: -250
+    startDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Third_Buddhist_council
+    description: Convened by Emperor Ashoka at Pataliputra, this council aimed to purify the sangha (monastic community) from schismatic elements and standardize the Theravada canon. It authorized a wave of Buddhist missions to Sri Lanka, Southeast Asia, Central Asia, and the Mediterranean world.
+  - id: great-wall-of-china
+    title: Great Wall of China
+    startDate: -220
+    startDateCertainty: circa
+    url: https://en.wikipedia.org/wiki/Great_Wall_of_China
+    description: Initiated by Qin Shi Huang to protect the Chinese states and empires against the raids and invasions of various nomadic groups.
+  - id: destruction-of-pompeii
     title: Destruction of Pompeii
     startDate: 79
     url: https://en.wikipedia.org/wiki/Pompeii
     description: Eruption of Mount Vesuvius destroys Pompeii.
-
   - id: invention-paper
     title: Invention of Paper
     startDate: 105
     url: https://en.wikipedia.org/wiki/Papermaking
     description: Standard paper invented by Cai Lun in China.
-
+  - id: clergy-class-emerges
+    title: Clergy Class Emerges
+    startDate: 110
+  - id: first-council-of-nicaea
+    title: First Council of Nicaea
+    startDate: 325
+    url: https://en.wikipedia.org/wiki/First_Council_of_Nicaea
+    description: Addressed Arianism and established the Nicene Creed, significantly shaping the development of orthodox Christian theology.
   - id: fall-roman-empire
     title: Fall of Western Roman Empire
     startDate: 476
     url: https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
     description: Deposition of Romulus Augustulus.
-
   - id: islamic-caliphates
     title: Islamic Caliphates
     startDate: 622
@@ -573,139 +979,191 @@ events:
       - startDate: 1526
         title: Mughal Empire emerges
     url: https://en.wikipedia.org/wiki/Caliphate
-
   - id: invention-gunpowder
     title: Invention of Gunpowder
     startDate: 850
     startDateCertainty: guess
     url: https://en.wikipedia.org/wiki/Gunpowder
     description: Discovered by Chinese alchemists.
-
+  - id: east-west-schism
+    title: East-West Schism
+    startDate: 1054
+    url: https://en.wikipedia.org/wiki/East%E2%80%93West_Schism
+    description: Division of Christianity into Eastern Orthodox and Catholic due to theological, political, and cultural differences.
+  - id: the-crusades
+    title: The Crusades
+    startDate: 1096
+    endDate: 1291
+    url: https://en.wikipedia.org/wiki/Crusades
+    description: A series of religious wars sanctioned by the Latin Church, aimed at recovering Jerusalem and the Holy Land from Muslim rule. The Crusades resulted in widespread violence against Muslims, Jews, and Eastern Christians alike, and left deep, lasting divisions between Christianity and Islam.
   - id: magna-carta
     title: Magna Carta
     startDate: 1215
     url: https://en.wikipedia.org/wiki/Magna_Carta
     description: Signed by King John.
-
   - id: black-death
     title: Black Death
     startDate: 1347
     endDate: 1351
     url: https://en.wikipedia.org/wiki/Black_Death
     description: Pandemic in Eurasia and North Africa.
-
   - id: invention-printing-press
     title: Printing Press
     startDate: 1440
     url: https://en.wikipedia.org/wiki/Printing_press
     description: Invented by Johannes Gutenberg.
-
+  - id: fall-of-constantinople
+    title: Fall of Constantinople
+    startDate: 1453
+    url: https://en.wikipedia.org/wiki/Fall_of_Constantinople
+    description: Capture of the capital of the Byzantine Empire by the Ottoman Empire, marking the end of the Roman Empire and altering European trade routes.
+  - id: publishing-95-theses
+    title: Publishing of the 95 Theses
+    startDate: 1517
+    url: https://en.wikipedia.org/wiki/Ninety-five_Theses
+    description: Catalyst for the Protestant Reformation by Martin Luther, challenging the Catholic Church's practices and sparking religious transformation across Europe.
+  - id: council-of-trent
+    title: Council of Trent
+    startDate: 1545
+    endDate: 1563
+    url: https://en.wikipedia.org/wiki/Council_of_Trent
+    description: The 19th ecumenical council of the Roman Catholic Church, convened in response to the Protestant Reformation. It reaffirmed traditional Catholic dogmas on Scripture, tradition, and the seven sacraments, launched the Counter-Reformation, and significantly shaped modern Roman Catholicism.
   - id: invention-telescope
     title: Telescope
     startDate: 1608
     url: https://en.wikipedia.org/wiki/History_of_the_telescope
     description: First patent by Hans Lippershey.
-
   - id: invention-steam-engine
     title: Steam Engine (Watt)
     startDate: 1765
     url: https://en.wikipedia.org/wiki/Steam_engine
     description: James Watt invents separate condenser, vastly improving efficiency.
-
+  - id: french-revolution
+    title: French Revolution Starts
+    startDate: 1789
+    url: https://en.wikipedia.org/wiki/French_Revolution
+    description: Storming of the Bastille marked the beginning of a period of radical political and societal change in France that inspired democratic movements globally.
   - id: napoleonic-wars
     title: Napoleonic Wars
     startDate: 1803
     endDate: 1815
     url: https://en.wikipedia.org/wiki/Napoleonic_Wars
-
   - id: invention-photography
     title: First Photograph
     startDate: 1826
     url: https://en.wikipedia.org/wiki/History_of_photography
     description: Taken by Joseph Nicéphore Niépce.
-
   - id: invention-telegraph
     title: Electric Telegraph
     startDate: 1837
     url: https://en.wikipedia.org/wiki/Electrical_telegraph
     description: Patented by Samuel Morse and others.
-
+  - id: origin-of-species
+    title: Publication of On the Origin of Species
+    startDate: 1859
+    url: https://en.wikipedia.org/wiki/On_the_Origin_of_Species
+    description: Charles Darwin's foundation of evolutionary biology, which fundamentally changed the scientific understanding of life on Earth.
   - id: us-civil-war
     title: American Civil War
     startDate: 1861
     endDate: 1865
     url: https://en.wikipedia.org/wiki/American_Civil_War
-
+  - id: state-shinto
+    title: State Shinto Established
+    startDate: 1868
+    url: https://en.wikipedia.org/wiki/State_Shinto
+    description: Following the Meiji Restoration, the Japanese government elevated Shinto to a state ideology, separating it from Buddhism, promoting emperor worship as a national religion, and enshrining a network of state shrines. State Shinto shaped Japanese national identity until it was officially disestablished in 1945 after World War II.
   - id: invention-telephone
     title: Telephone
     startDate: 1876
     url: https://en.wikipedia.org/wiki/Invention_of_the_telephone
     description: Patented by Alexander Graham Bell.
-
   - id: invention-lightbulb
     title: Light Bulb
     startDate: 1879
     url: https://en.wikipedia.org/wiki/Incandescent_light_bulb
     description: Thomas Edison demonstrates first practical incandescent bulb.
-
   - id: invention-automobile
     title: Automobile
     startDate: 1885
     url: https://en.wikipedia.org/wiki/Car
     description: Karl Benz patents the first gasoline-powered car.
-
   - id: wright-brothers
     title: Wright Brothers First Flight
     startDate: 1903
     url: https://en.wikipedia.org/wiki/Wright_brothers
-
   - id: ww1
     title: World War I
     startDate: 1914
     endDate: 1918
     url: https://en.wikipedia.org/wiki/World_War_I
-
+  - id: russian-revolution
+    title: Russian Revolution
+    startDate: 1917
+    url: https://en.wikipedia.org/wiki/Russian_Revolution
+    description: October Revolution establishing the Soviet state, leading to the rise of the Soviet Union as a global superpower.
   - id: discovery-penicillin
     title: Penicillin Discovered
     startDate: 1928
     url: https://en.wikipedia.org/wiki/Penicillin
     description: Discovered by Alexander Fleming.
-
   - id: ww2
     title: World War II
     startDate: 1939
     endDate: 1945
     url: https://en.wikipedia.org/wiki/World_War_II
-
+  - id: holocaust
+    title: The Holocaust
+    startDate: 1941
+    endDate: 1945
+    url: https://en.wikipedia.org/wiki/The_Holocaust
+    description: Systematic, state-sponsored genocide of European Jews during WWII, fundamentally changing global human rights perspectives.
+  - id: cold-war
+    title: Cold War Era
+    startDate: 1947
+    endDate: 1991
+    url: https://en.wikipedia.org/wiki/Cold_War
+    description: Geopolitical tension between the Soviet Union and the USA that dominated international affairs for decades.
+  - id: partition-of-india
+    title: Partition of India
+    startDate: 1947
+    url: https://en.wikipedia.org/wiki/Partition_of_India
+    description: Independence from British rule and creation of India and Pakistan, leading to massive demographic changes and lasting political tensions in South Asia.
   - id: invention-transistor
     title: Transistor
     startDate: 1947
     url: https://en.wikipedia.org/wiki/Transistor
     description: Invented at Bell Labs, revolutionizing electronics.
-
+  - id: second-vatican-council
+    title: Second Vatican Council
+    startDate: 1962
+    endDate: 1965
+    url: https://en.wikipedia.org/wiki/Second_Vatican_Council
+    description: Convened by Pope John XXIII to renew the Catholic Church's relationship with the modern world, Vatican II updated liturgy (introducing Mass in vernacular languages), promoted ecumenism with other Christian denominations, and revised the Church's stance toward Judaism and other religions.
   - id: moon-landing
     title: Moon Landing
     startDate: 1969
     url: https://en.wikipedia.org/wiki/Apollo_11
     description: Apollo 11 lands on the moon.
-
   - id: invention-arpanet
     title: ARPANET (Early Internet)
     startDate: 1969
     url: https://en.wikipedia.org/wiki/ARPANET
     description: First packet-switching network precursors to the Internet.
-
   - id: invention-pc
     title: Personal Computer Revolution
     startDate: 1975
     url: https://en.wikipedia.org/wiki/History_of_personal_computers
     description: Altair 8800 released, sparking the PC era.
-
   - id: berlin-wall
     title: Fall of Berlin Wall
     startDate: 1989
     url: https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall
-
+  - id: collapse-of-soviet-union
+    title: Collapse of the Soviet Union
+    startDate: 1991
+    url: https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union
+    description: End of the Cold War and the dissolution of the Soviet state into 15 independent republics.
   - id: invention-smartphone
     title: Modern Smartphone (iPhone)
     startDate: 2007
