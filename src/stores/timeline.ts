@@ -11,6 +11,8 @@ export const useTimelineStore = defineStore('timeline', () => {
     const events = ref<TimelineEvent[]>([]);
     const selectedEntity = ref<Person | TimelineEvent | null>(null);
     const highlightedId = ref<string | null>(null);
+    const selectedYear = ref<number | null>(null);
+    const aroundThisTimeMode = ref<boolean>(false);
 
     // Viewport State
     const scale = ref(1.25); // pixels per year (25% default)
@@ -53,6 +55,14 @@ export const useTimelineStore = defineStore('timeline', () => {
             navigationTarget.value = { year: e!.startDate };
             return;
         }
+    }
+
+    function setSelectedYear(year: number | null) {
+        selectedYear.value = year;
+    }
+
+    function setAroundThisTimeMode(value: boolean) {
+        aroundThisTimeMode.value = value;
     }
 
     function setScale(newScale: number) {
@@ -168,10 +178,14 @@ export const useTimelineStore = defineStore('timeline', () => {
         today: 2026, // or computed
         selectedEntity,
         highlightedId,
+        selectedYear,
+        aroundThisTimeMode,
         navigationTarget,
         selectEntity,
         loadData,
         setScale,
+        setSelectedYear,
+        setAroundThisTimeMode,
         jumpToDate,
         jumpToEntity,
     };

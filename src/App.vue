@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import TimelineContainer from './components/TimelineContainer.vue';
 import SidePanel from './components/SidePanel.vue';
+import YearPanel from './components/YearPanel.vue';
 import SearchBox from './components/SearchBox.vue';
 import InfoDialog from './components/InfoDialog.vue';
 import { useTimelineStore } from './stores/timeline';
@@ -63,6 +64,7 @@ function closeInfo() {
     <main class="app-main">
       <TimelineContainer />
       <SidePanel />
+      <YearPanel />
     </main>
 
     <InfoDialog :isOpen="showInfo" @close="closeInfo" />

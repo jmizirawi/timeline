@@ -58,3 +58,12 @@ export function yearToPx(year: number, scale: number, startDate: number = -4026)
     const internalStart = countYears(startDate);
     return (internalTarget - internalStart) * scale;
 }
+
+/**
+ * Inverse of yearToPx. Converts a pixel offset (relative to timeline content start)
+ * back to a display year, correctly skipping year 0.
+ */
+export function pxToYear(px: number, scale: number, startDate: number = -4026): number {
+    const continuous = Math.round(px / scale + countYears(startDate));
+    return displayYear(continuous);
+}

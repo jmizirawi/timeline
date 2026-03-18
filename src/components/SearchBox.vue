@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue';
+import { ref, computed, watch } from 'vue';
 import { useTimelineStore } from '../stores/timeline';
 import { storeToRefs } from 'pinia';
 import { formatYearLabel } from '../utils/time';
@@ -9,6 +9,7 @@ const { people, events } = storeToRefs(store);
 
 const query = ref('');
 const showSuggestions = ref(false);
+const focusedIndex = ref(0);
 
 interface Suggestion {
   type: 'person' | 'event' | 'date';
@@ -103,14 +104,33 @@ const suggestions = computed(() => {
   return results.slice(0, 10);
 });
 
+watch(suggestions, () => { focusedIndex.value = 0; });
+
 function onSelect(s: Suggestion) {
   if (s.type === 'date') {
     store.jumpToDate(s.year);
+    store.setSelectedYear(s.year);
+    store.selectEntity(null);
   } else if (s.id) {
     store.jumpToEntity(s.id);
   }
   query.value = '';
   showSuggestions.value = false;
+}
+
+function onKeyDown(e: KeyboardEvent) {
+  if (!showSuggestions.value || suggestions.value.length === 0) return;
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    focusedIndex.value = (focusedIndex.value + 1) % suggestions.value.length;
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    focusedIndex.value = (focusedIndex.value - 1 + suggestions.value.length) % suggestions.value.length;
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    const s = suggestions.value[focusedIndex.value];
+    if (s) onSelect(s);
+  }
 }
 
 function onBlur() {
@@ -131,6 +151,7 @@ function onBlur() {
         class="search-input"
         @focus="showSuggestions = true"
         @blur="onBlur"
+        @keydown="onKeyDown"
       >
       <div 
         v-if="query" 
@@ -158,7 +179,9 @@ function onBlur() {
           v-for="(s, idx) in suggestions" 
           :key="idx"
           class="dropdown-item"
+          :class="{ 'is-focused': idx === focusedIndex }"
           @mousedown="onSelect(s)"
+          @mousemove="focusedIndex = idx"
         >
           <div>
             <span class="item-name">{{ s.name }}</span>
@@ -263,7 +286,7 @@ function onBlur() {
     border-bottom: none;
   }
 
-  &:hover {
+  &:hover, &.is-focused {
     background-color: rgba($color-bg-secondary, 0.5);
   }
 }
