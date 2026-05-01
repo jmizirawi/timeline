@@ -129,6 +129,15 @@ function personDates(p: Person) {
   return born;
 }
 
+function personAge(p: Person): number | null {
+  const Y = selectedYear.value;
+  if (Y === null) return null;
+  if (p.born > Y) return null;
+  const died = (p as any).living ? Infinity : (p.died ?? Infinity);
+  if (died < Y) return null;
+  return Y - p.born;
+}
+
 function eventDates(e: TimelineEvent) {
   const start = formatDateWithCertainty(e.startDate, e.startDateCertainty);
   if ((e as any).ongoing) return `${start} – Present`;
@@ -187,7 +196,10 @@ function eventDates(e: TimelineEvent) {
             >
               <div class="timeline-dot" :style="dotStyle(p)"></div>
               <div>
-                <p class="event-title">{{ p.name }}</p>
+                <p class="event-title">
+                  {{ p.name }}
+                  <span v-if="personAge(p) !== null" class="age-badge">age {{ personAge(p) }}</span>
+                </p>
                 <p class="event-age">{{ personDates(p) }}</p>
               </div>
             </div>
@@ -455,6 +467,13 @@ function eventDates(e: TimelineEvent) {
   color: $color-fg-accent;
   cursor: pointer;
   &:hover { text-decoration: underline; }
+}
+
+.age-badge {
+  font-size: $font-size-xs;
+  color: $color-fg-secondary;
+  font-weight: 400;
+  margin-left: 0.4rem;
 }
 
 .empty-state {
